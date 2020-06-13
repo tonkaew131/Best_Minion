@@ -147,6 +147,7 @@
         {
             "name": "Coal Minion",
             "items_per_action": 2,
+            "items": ["COAL", "ENCHANTED_COAL", "ENCHANTED_COAL_BLOCK"],
             "tier": {
                 "1": 15,
                 "2": 15,
@@ -164,6 +165,7 @@
         {
             "name": "Iron Minion",
             "items_per_action": 2,
+            "items": ["IRON_INGOT", "ENCHANTED_IRON",  "ENCHANTED_IRON_BLOCK"],
             "tier": {
                 "1": 17,
                 "2": 17,
@@ -181,6 +183,7 @@
         {
             "name": "Gold Minion",
             "items_per_action": 2,
+            "items": ["GOLD_INGOT", "ENCHANTED_GOLD",  "ENCHANTED_GOLD_BLOCK"],
             "tier": {
                 "1": 22,
                 "2": 22,
@@ -198,6 +201,7 @@
         {
             "name": "Diamond Minion",
             "items_per_action": 2,
+            "items": ["DIAMOND", "ENCHANTED_DIAMOND",  "ENCHANTED_DIAMOND_BLOCK"],
             "tier": {
                 "1": 29,
                 "2": 29,
@@ -215,6 +219,7 @@
         {
             "name": "Lapis Minion",
             "items_per_action": 2,
+            "items": ["ENCHANTED_LAPIS_LAZULI",  "ENCHANTED_LAPIS_LAZULI_BLOCK"],
             "tier": {
                 "1": 29,
                 "2": 29,
@@ -232,6 +237,7 @@
         {
             "name": "Redstone Minion",
             "items_per_action": 2,
+            "items": ["REDSTONE", "ENCHANTED_REDSTONE",  "ENCHANTED_REDSTONE_BLOCK"],
             "tier": {
                 "1": 29,
                 "2": 29,
@@ -249,6 +255,7 @@
         {
             "name": "Emerald Minion",
             "items_per_action": 2,
+            "items": ["EMERALD", "ENCHANTED_EMERALD",  "ENCHANTED_EMERALD_BLOCK"],
             "tier": {
                 "1": 28,
                 "2": 28,
@@ -266,6 +273,7 @@
         {
             "name": "Quartz Minion",
             "items_per_action": 2,
+            "items": ["QUARTZ", "ENCHANTED_QUARTZ",  "ENCHANTED_QUARTZ_BLOCK"],
             "tier": {
                 "1": 22.5,
                 "2": 22.5,
@@ -283,6 +291,7 @@
         {
             "name": "End Stone Minion",
             "items_per_action": 2,
+            "items": ["ENDER_STONE", "ENCHANTED_ENDSTONE"],
             "tier": {
                 "1": 26,
                 "2": 26,
@@ -300,6 +309,7 @@
         {
             "name": "Wheat Minion",
             "items_per_action": 2,
+            "items": ["WHEAT", "ENCHANTED_BREAD", "HAY_BLOCK", "ENCHANTED_HAY_BLOCK", "SEEDS", "ENCHANTED_SEEDS"],
             "tier": {
                 "1": 15,
                 "2": 15,
@@ -317,6 +327,7 @@
         {
             "name": "Melon Minion",
             "items_per_action": 2,
+            "items": ["MELON", "ENCHANTED_MELON", "ENCHANTED_MELON_BLOCK"],
             "tier": {
                 "1": 0,
                 "2": 0,
@@ -334,6 +345,7 @@
         {
             "name": "Pumpkin Minion",
             "items_per_action": 2,
+            "items": ["PUMPKIN", "ENCHANTED_PUMPKIN"],
             "tier": {
                 "1": 32,
                 "2": 32,
@@ -351,6 +363,7 @@
         {
             "name": "Carrot Minion",
             "items_per_action": 2,
+            "items": ["CARROT_ITEM", "ENCHANTED_CARROT"],
             "tier": {
                 "1": 20,
                 "2": 20,
@@ -368,6 +381,7 @@
         {
             "name": "Potato Minion",
             "items_per_action": 2,
+            "items": ["POTATO_ITEM", "ENCHANTED_POTATO", "ENCHANTED_BAKED_POTATO"],
             "tier": {
                 "1": 20,
                 "2": 20,
@@ -385,6 +399,7 @@
         {
             "name": "Mushroom Minion",
             "items_per_action": 2,
+            "items": ["RED_MUSHROOM", "BROWN_MUSHROOM", "ENCHANTED_RED_MUSHROOM", "ENCHANTED_BROWN_MUSHROOM"],
             "tier": {
                 "1": 30,
                 "2": 30,
@@ -402,6 +417,7 @@
         {
             "name": "Cactus Minion",
             "items_per_action": 2,
+            "items": ["CACTUS", "ENCHANTED_CACTUS", "ENCHANTED_CACTUS_GREEN"],
             "tier": {
                 "1": 27,
                 "2": 27,
@@ -419,6 +435,7 @@
         {
             "name": "Cocoa Beans Minion",
             "items_per_action": 2,
+            "items": ["ENCHANTED_COCOA"],
             "tier": {
                 "1": 27,
                 "2": 27,
@@ -436,6 +453,7 @@
         {
             "name": "Sugar Cane Minion",
             "items_per_action": 2,
+            "items": ["SUGAR_CANE", "ENCHANTED_SUGAR", "ENCHANTED_SUGAR_CANE"],
             "tier": {
                 "1": 22,
                 "2": 22,
@@ -453,6 +471,7 @@
         {
             "name": "Nether Wart Minion",
             "items_per_action": 2,
+            "items": ["NETHER_STALK", "ENCHANTED_NETHER_STALK"],
             "tier": {
                 "1": 50,
                 "2": 50,
@@ -470,6 +489,7 @@
         {
             "name": "Flower Minion",
             "items_per_action": 2,
+            "items": [],
             "tier": {
                 "1": 0,
                 "2": 0,
@@ -487,6 +507,7 @@
         {
             "name": "Fishing Minion",
             "items_per_action": 1,
+            "items": ["RAW_FISH", "RAW_FISH:1", "RAW_FISH:2", "RAW_FISH:3", "ENCHANTED_PUFFERFISH", "ENCHANTED_CLOWNFISH", "ENCHANTED_RAW_FISH", "ENCHANTED_RAW_SALMON"],
             "tier": {
                 "1": 78,
                 "2": 75,
@@ -504,6 +525,7 @@
         {
             "name": "Zombie Minion",
             "items_per_action": 2,
+            "items": ["ROTTEN_FLESH", "ENCHANTED_ROTTEN_FLESH"],
             "tier": {
                 "1": 26,
                 "2": 26,
@@ -521,6 +543,7 @@
         {
             "name": "Skeleton Minion",
             "items_per_action": 2,
+            "items": ["BONE", "ENCHANTED_BONE"],
             "tier": {
                 "1": 25,
                 "2": 25,
