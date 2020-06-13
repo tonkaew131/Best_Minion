@@ -256,7 +256,7 @@
             }
         },
         {
-            "name": "Redstone Minion",
+            "name": "Emerald Minion",
             "items_per_action": 2,
             "tier": {
                 "1": 28,
@@ -494,7 +494,7 @@
             }
         },
         {
-            "name": "Fishing minions",
+            "name": "Fishing Minion",
             "items_per_action": 1,
             "tier": {
                 "1": 78,
@@ -528,7 +528,7 @@
             }
         },
         {
-            "name": "Skelton Minion",
+            "name": "Skeleton Minion",
             "items_per_action": 2,
             "tier": {
                 "1": 25,
@@ -613,7 +613,7 @@
             }
         },
         {
-            "name": "Ender man Minion",
+            "name": "Enderman Minion",
             "items_per_action": 2,
             "tier": {
                 "1": 32,
@@ -749,7 +749,7 @@
             }
         },
         {
-            "name": "Oak Minions",
+            "name": "Oak Minion",
             "items_per_action": 2,
             "tier": {
                 "1": 48,
@@ -766,7 +766,7 @@
             }
         },
         {
-            "name": "Spruce Minions",
+            "name": "Spruce Minion",
             "items_per_action": 2,
             "tier": {
                 "1": 48,
@@ -783,7 +783,7 @@
             }
         },
         {
-            "name": "Birch Minions",
+            "name": "Birch Minion",
             "items_per_action": 2,
             "tier": {
                 "1": 48,
@@ -800,7 +800,7 @@
             }
         },
         {
-            "name": "Dark Oak Minions",
+            "name": "Dark Oak Minion",
             "items_per_action": 2,
             "tier": {
                 "1": 48,
@@ -817,7 +817,7 @@
             }
         },
         {
-            "name": "Acacia Minions",
+            "name": "Acacia Minion",
             "items_per_action": 2,
             "tier": {
                 "1": 48,
@@ -834,7 +834,7 @@
             }
         },
         {
-            "name": "Jungle Minions",
+            "name": "Jungle Minion",
             "items_per_action": 2,
             "tier": {
                 "1": 48,
