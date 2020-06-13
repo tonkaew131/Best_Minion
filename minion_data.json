@@ -561,6 +561,7 @@
         {
             "name": "Spider Minion",
             "items_per_action": 2,
+            "items": ["STRING", "ENCHANTED_STRING", "SPIDER_EYE", "ENCHANTED_SPIDER_EYE"],
             "tier": {
                 "1": 25,
                 "2": 25,
@@ -578,6 +579,7 @@
         {
             "name": "Cave Spider Minion",
             "items_per_action": 2,
+            "items": ["STRING", "ENCHANTED_STRING", "SPIDER_EYE", "ENCHANTED_SPIDER_EYE"],
             "tier": {
                 "1": 25,
                 "2": 25,
@@ -595,6 +597,7 @@
         {
             "name": "Blaze Minion",
             "items_per_action": 2,
+            "items": ["BLAZE_ROD", "ENCHANTED_BLAZE_POWDER", "ENCHANTED_BLAZE_ROD"],
             "tier": {
                 "1": 33,
                 "2": 33,
@@ -612,6 +615,7 @@
         {
             "name": "Magma Cube Minion",
             "items_per_action": 2,
+            "items": ["MAGMA_CREAM", "ENCHANTED_MAGMA_CREAM"],
             "tier": {
                 "1": 32,
                 "2": 32,
@@ -629,6 +633,7 @@
         {
             "name": "Enderman Minion",
             "items_per_action": 2,
+            "items": ["ENDER_PEARL", "ENCHANTED_ENDER_PEARL"],
             "tier": {
                 "1": 32,
                 "2": 32,
@@ -646,6 +651,7 @@
         {
             "name": "Ghast Minion",
             "items_per_action": 2,
+            "items": ["GHAST_TEAR", "ENCHANTED_GHAST_TEAR"],
             "tier": {
                 "1": 50,
                 "2": 50,
@@ -663,6 +669,7 @@
         {
             "name": "Slime Minion",
             "items_per_action": 2,
+            "items": ["SLIME_BALL", "ENCHANTED_SLIME_BALL", "ENCHANTED_SLIME_BLOCK"],
             "tier": {
                 "1": 26,
                 "2": 26,
@@ -680,6 +687,7 @@
         {
             "name": "Cow Minion",
             "items_per_action": 2,
+            "items": ["RAW_BEEF", "ENCHANTED_RAW_BEEF", "LEATHER", "ENCHANTED_LEATHER"],
             "tier": {
                 "1": 26,
                 "2": 26,
@@ -697,6 +705,7 @@
         {
             "name": "Pig Minion",
             "items_per_action": 2,
+            "items": ["PORK", "ENCHANTED_PORK", "ENCHANTED_GRILLED_PORK"],
             "tier": {
                 "1": 26,
                 "2": 26,
@@ -714,6 +723,7 @@
         {
             "name": "Chicken Minion",
             "items_per_action": 2,
+            "items": ["RAW_CHICKEN", "ENCHANTED_RAW_CHICKEN", "FEATHER", "ENCHANTED_FEATHER", "ENCHANTED_EGG", "SUPER_EGG"],  
             "tier": {
                 "1": 26,
                 "2": 26,
@@ -731,6 +741,7 @@
         {
             "name": "Sheep Minion",
             "items_per_action": 2,
+            "items": ["MUTTON", "ENCHANTED_MUTTON", "ENCHANTED_COOKED_MUTTON"],
             "tier": {
                 "1": 24,
                 "2": 24,
@@ -748,6 +759,7 @@
         {
             "name": "Rabbit Minion",
             "items_per_action": 2,
+            "items": ["RABBIT", "ENCHANTED_RABBIT", "RABBIT_FOOT", "ENCHANTED_RABBIT_FOOT", "RABBIT_HIDE", "ENCHANTED_RABBIT_HIDE"],
             "tier": {
                 "1": 26,
                 "2": 26,
@@ -765,6 +777,7 @@
         {
             "name": "Oak Minion",
             "items_per_action": 2,
+            "items": ["LOG:3", "ENCHANTED_DARK_OAK_LOG"],
             "tier": {
                 "1": 48,
                 "2": 48,
