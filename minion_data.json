@@ -2,8 +2,9 @@
     "minions": [
         {
             "name": "Cobblestone Minion",
-            "items_per_action": 2,
-            "items": ["COBBLESTONE", "ENCHANTED_COBBLESTONE"],
+            "items_per_action": [1],
+            "items": ["COBBLESTONE"],
+            "npc_val": [1],
             "tier": {
                 "1": 14,
                 "2": 14,
@@ -20,8 +21,9 @@
         },
         {
             "name": "Obsidian Minion",
-            "items_per_action": 2,
-            "items": ["OBSIDIAN", "ENCHANTED_OBSIDIAN"],
+            "items_per_action": [1],
+            "items": ["OBSIDIAN"],
+            "npc_val": [12],
             "tier": {
                 "1": 45,
                 "2": 45,
@@ -38,8 +40,9 @@
         },
         {
             "name": "Glowstone Minion",
-            "items_per_action": 2,
-            "items": ["GLOWSTONE_DUST", "ENCHANTED_GLOWSTONE_DUST", "ENCHANTED_GLOWSTONE"],
+            "items_per_action": [3],
+            "items": ["GLOWSTONE_DUST"],
+            "npc_val": [2],
             "tier": {
                 "1": 25,
                 "2": 25,
@@ -56,8 +59,9 @@
         },
         {
             "name": "Gravel Minion",
-            "items_per_action": 2,
-            "items": ["GRAVEL", "FLINT", "ENCHANTED_FLINT"],
+            "items_per_action": [1],
+            "items": ["FLINT"],
+            "npc_val": [4],
             "tier": {
                 "1": 26,
                 "2": 26,
@@ -74,8 +78,9 @@
         },
         {
             "name": "Sand Minion",
-            "items_per_action": 2,
+            "items_per_action": [1],
             "items": ["SAND", "ENCHANTED_SAND"],
+            "npc_val": [2],
             "tier": {
                 "1": 26,
                 "2": 26,
@@ -92,8 +97,9 @@
         },
         {
             "name": "Clay Minion",
-            "items_per_action": 2,
-            "items": ["CLAY_BALL", "ENCHANTED_CLAY_BALL"],
+            "items_per_action": [4],
+            "items": ["CLAY_BALL"],
+            "npc_val": [3],
             "tier": {
                 "1": 32,
                 "2": 32,
@@ -110,8 +116,9 @@
         },
         {
             "name": "Ice Minion",
-            "items_per_action": 2,
-            "items": ["ICE", "ENCHANTED_ICE", "PACKED_ICE", "ENCHANTED_PACKED_ICE"],
+            "items_per_action": [1],
+            "items": ["ICE"],
+            "npc_val": [0.5],
             "tier": {
                 "1": 14,
                 "2": 14,
@@ -128,8 +135,9 @@
         },
         {
             "name": "Snow Minion",
-            "items_per_action": 2,
-            "items": ["SNOW_BALL", "SNOW_BLOCK", "ENCHANTED_SNOW_BLOCK"],
+            "items_per_action": [4],
+            "items": ["SNOW_BALL"],
+            "npc_val": [1],
             "tier": {
                 "1": 13,
                 "2": 13,
@@ -146,8 +154,9 @@
         },
         {
             "name": "Coal Minion",
-            "items_per_action": 2,
-            "items": ["COAL", "ENCHANTED_COAL", "ENCHANTED_COAL_BLOCK"],
+            "items_per_action": [1],
+            "items": ["COAL"],
+            "npc_val": [2],
             "tier": {
                 "1": 15,
                 "2": 15,
@@ -164,8 +173,9 @@
         },
         {
             "name": "Iron Minion",
-            "items_per_action": 2,
-            "items": ["IRON_INGOT", "ENCHANTED_IRON",  "ENCHANTED_IRON_BLOCK"],
+            "items_per_action": [1],
+            "items": ["IRON_INGOT"],
+            "npc_val": [3],
             "tier": {
                 "1": 17,
                 "2": 17,
@@ -182,8 +192,9 @@
         },
         {
             "name": "Gold Minion",
-            "items_per_action": 2,
-            "items": ["GOLD_INGOT", "ENCHANTED_GOLD",  "ENCHANTED_GOLD_BLOCK"],
+            "items_per_action": [1],
+            "items": ["GOLD_INGOT"],
+            "npc_val": [4],
             "tier": {
                 "1": 22,
                 "2": 22,
@@ -200,8 +211,9 @@
         },
         {
             "name": "Diamond Minion",
-            "items_per_action": 2,
-            "items": ["DIAMOND", "ENCHANTED_DIAMOND",  "ENCHANTED_DIAMOND_BLOCK"],
+            "items_per_action": [1],
+            "items": ["DIAMOND"],
+            "npc_val": [8],
             "tier": {
                 "1": 29,
                 "2": 29,
@@ -218,8 +230,9 @@
         },
         {
             "name": "Lapis Minion",
-            "items_per_action": 2,
-            "items": ["ENCHANTED_LAPIS_LAZULI",  "ENCHANTED_LAPIS_LAZULI_BLOCK"],
+            "items_per_action": [6],
+            "items": ["INK_SACK:4"],
+            "npc_val": [1],
             "tier": {
                 "1": 29,
                 "2": 29,
@@ -236,8 +249,9 @@
         },
         {
             "name": "Redstone Minion",
-            "items_per_action": 2,
-            "items": ["REDSTONE", "ENCHANTED_REDSTONE",  "ENCHANTED_REDSTONE_BLOCK"],
+            "items_per_action": [4.5],
+            "items": ["REDSTONE"],
+            "npc_val": [1],
             "tier": {
                 "1": 29,
                 "2": 29,
@@ -254,8 +268,9 @@
         },
         {
             "name": "Emerald Minion",
-            "items_per_action": 2,
-            "items": ["EMERALD", "ENCHANTED_EMERALD",  "ENCHANTED_EMERALD_BLOCK"],
+            "items_per_action": [1],
+            "items": ["EMERALD"],
+            "npc_val": [6],
             "tier": {
                 "1": 28,
                 "2": 28,
@@ -272,8 +287,9 @@
         },
         {
             "name": "Quartz Minion",
-            "items_per_action": 2,
-            "items": ["QUARTZ", "ENCHANTED_QUARTZ",  "ENCHANTED_QUARTZ_BLOCK"],
+            "items_per_action": [1],
+            "items": ["QUARTZ"],
+            "npc_val": [4],
             "tier": {
                 "1": 22.5,
                 "2": 22.5,
@@ -290,8 +306,9 @@
         },
         {
             "name": "End Stone Minion",
-            "items_per_action": 2,
-            "items": ["ENDER_STONE", "ENCHANTED_ENDSTONE"],
+            "items_per_action": [1],
+            "items": ["ENDER_STONE"],
+            "npc_val": [2],
             "tier": {
                 "1": 26,
                 "2": 26,
@@ -308,8 +325,9 @@
         },
         {
             "name": "Wheat Minion",
-            "items_per_action": 2,
-            "items": ["WHEAT", "ENCHANTED_BREAD", "HAY_BLOCK", "ENCHANTED_HAY_BLOCK", "SEEDS", "ENCHANTED_SEEDS"],
+            "items_per_action": [1, 1],
+            "items": ["WHEAT", "SEEDS"],
+            "npc_val": [1, 0.5],
             "tier": {
                 "1": 15,
                 "2": 15,
@@ -326,8 +344,9 @@
         },
         {
             "name": "Melon Minion",
-            "items_per_action": 2,
-            "items": ["MELON", "ENCHANTED_MELON", "ENCHANTED_MELON_BLOCK"],
+            "items_per_action": [6],
+            "items": ["MELON"],
+            "npc_val": [1],
             "tier": {
                 "1": 0,
                 "2": 0,
@@ -344,8 +363,9 @@
         },
         {
             "name": "Pumpkin Minion",
-            "items_per_action": 2,
-            "items": ["PUMPKIN", "ENCHANTED_PUMPKIN"],
+            "items_per_action": [1],
+            "items": ["PUMPKIN"],
+            "npc_val": [4],
             "tier": {
                 "1": 32,
                 "2": 32,
@@ -362,8 +382,9 @@
         },
         {
             "name": "Carrot Minion",
-            "items_per_action": 2,
-            "items": ["CARROT_ITEM", "ENCHANTED_CARROT"],
+            "items_per_action": [3],
+            "items": ["CARROT_ITEM"],
+            "npc_val": [1],
             "tier": {
                 "1": 20,
                 "2": 20,
@@ -380,8 +401,9 @@
         },
         {
             "name": "Potato Minion",
-            "items_per_action": 2,
-            "items": ["POTATO_ITEM", "ENCHANTED_POTATO", "ENCHANTED_BAKED_POTATO"],
+            "items_per_action": [3],
+            "items": ["POTATO_ITEM"],
+            "npc_val": [1],
             "tier": {
                 "1": 20,
                 "2": 20,
@@ -398,8 +420,9 @@
         },
         {
             "name": "Mushroom Minion",
-            "items_per_action": 2,
-            "items": ["RED_MUSHROOM", "BROWN_MUSHROOM", "ENCHANTED_RED_MUSHROOM", "ENCHANTED_BROWN_MUSHROOM"],
+            "items_per_action": [0.5, 0.5],
+            "items": ["RED_MUSHROOM", "BROWN_MUSHROOM"],
+            "npc_val": [4, 4],
             "tier": {
                 "1": 30,
                 "2": 30,
@@ -416,8 +439,9 @@
         },
         {
             "name": "Cactus Minion",
-            "items_per_action": 2,
-            "items": ["CACTUS", "ENCHANTED_CACTUS", "ENCHANTED_CACTUS_GREEN"],
+            "items_per_action": [1],
+            "items": ["CACTUS"],
+            "npc_val": [1],
             "tier": {
                 "1": 27,
                 "2": 27,
@@ -434,8 +458,9 @@
         },
         {
             "name": "Cocoa Beans Minion",
-            "items_per_action": 2,
-            "items": ["ENCHANTED_COCOA"],
+            "items_per_action": [3],
+            "items": ["INK_SACK:3"],
+            "npc_val": [3],
             "tier": {
                 "1": 27,
                 "2": 27,
@@ -452,8 +477,9 @@
         },
         {
             "name": "Sugar Cane Minion",
-            "items_per_action": 2,
-            "items": ["SUGAR_CANE", "ENCHANTED_SUGAR", "ENCHANTED_SUGAR_CANE"],
+            "items_per_action": [1],
+            "items": ["SUGAR_CANE"],
+            "npc_val": [2],
             "tier": {
                 "1": 22,
                 "2": 22,
@@ -470,8 +496,9 @@
         },
         {
             "name": "Nether Wart Minion",
-            "items_per_action": 2,
-            "items": ["NETHER_STALK", "ENCHANTED_NETHER_STALK"],
+            "items_per_action": [1],
+            "items": ["NETHER_STALK"],
+            "npc_val": [3],
             "tier": {
                 "1": 50,
                 "2": 50,
@@ -488,8 +515,9 @@
         },
         {
             "name": "Flower Minion",
-            "items_per_action": 2,
+            "items_per_action": [0.8, 0.2],
             "items": [],
+            "npc_val": [1, 2],
             "tier": {
                 "1": 0,
                 "2": 0,
@@ -506,8 +534,9 @@
         },
         {
             "name": "Fishing Minion",
-            "items_per_action": 1,
-            "items": ["RAW_FISH", "RAW_FISH:1", "RAW_FISH:2", "RAW_FISH:3", "ENCHANTED_PUFFERFISH", "ENCHANTED_CLOWNFISH", "ENCHANTED_RAW_FISH", "ENCHANTED_RAW_SALMON"],
+            "items_per_action": [1],
+            "items": ["RAW_FISH"],
+            "npc_val": [10],
             "tier": {
                 "1": 78,
                 "2": 75,
@@ -524,8 +553,9 @@
         },
         {
             "name": "Zombie Minion",
-            "items_per_action": 2,
-            "items": ["ROTTEN_FLESH", "ENCHANTED_ROTTEN_FLESH"],
+            "items_per_action": [1],
+            "items": ["ROTTEN_FLESH"],
+            "npc_val": [2],
             "tier": {
                 "1": 26,
                 "2": 26,
@@ -541,9 +571,29 @@
             }
         },
         {
+            "name": "Revenant Minion",
+            "items_per_action": [3, 0.2],
+            "items": ["ROTTEN_FLESH", "DIAMOND"],
+            "npc_val": [2, 8],
+            "tier": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 0,
+                "8": 0,
+                "9": 0,
+                "10": 0,
+                "11": 0
+            }
+        },
+        {
             "name": "Skeleton Minion",
-            "items_per_action": 2,
-            "items": ["BONE", "ENCHANTED_BONE"],
+            "items_per_action": [1],
+            "items": ["BONE"],
+            "npc_val": [2],
             "tier": {
                 "1": 25,
                 "2": 25,
@@ -559,9 +609,48 @@
             }
         },
         {
+            "name": "Creeper Minion",
+            "items_per_action": [1],
+            "items": ["SULPHUR"],
+            "npc_val": [4],
+            "tier": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 0,
+                "6": 0,
+                "7": 0,
+                "8": 0,
+                "9": 0,
+                "10": 0,
+                "11": 0
+            }
+        },
+        {
             "name": "Spider Minion",
-            "items_per_action": 2,
-            "items": ["STRING", "ENCHANTED_STRING", "SPIDER_EYE", "ENCHANTED_SPIDER_EYE"],
+            "items_per_action": [1, 0.5],
+            "items": ["STRING", "SPIDER_EYE"],
+            "npc_val": [3, 3],
+            "tier": {
+                "1": 25,
+                "2": 25,
+                "3": 23,
+                "4": 23,
+                "5": 21,
+                "6": 21,
+                "7": 19,
+                "8": 19,
+                "9": 16,
+                "10": 16,
+                "11": 13
+            }
+        },
+        {
+            "name": "Tarantula Minion",
+            "items_per_action": [3.16, 1, 0.2],
+            "items": ["STRING", "SPIDER_EYE", "IRON_INGOT"],
+            "npc_val": [3, 3, 3],
             "tier": {
                 "1": 25,
                 "2": 25,
@@ -578,8 +667,9 @@
         },
         {
             "name": "Cave Spider Minion",
-            "items_per_action": 2,
-            "items": ["STRING", "ENCHANTED_STRING", "SPIDER_EYE", "ENCHANTED_SPIDER_EYE"],
+            "items_per_action": [0.5, 1],
+            "items": ["STRING", "SPIDER_EYE"],
+            "npc_val": [3, 3],
             "tier": {
                 "1": 25,
                 "2": 25,
@@ -596,8 +686,9 @@
         },
         {
             "name": "Blaze Minion",
-            "items_per_action": 2,
-            "items": ["BLAZE_ROD", "ENCHANTED_BLAZE_POWDER", "ENCHANTED_BLAZE_ROD"],
+            "items_per_action": [1],
+            "items": ["BLAZE_ROD"],
+            "npc_val": [9],
             "tier": {
                 "1": 33,
                 "2": 33,
@@ -614,8 +705,9 @@
         },
         {
             "name": "Magma Cube Minion",
-            "items_per_action": 2,
-            "items": ["MAGMA_CREAM", "ENCHANTED_MAGMA_CREAM"],
+            "items_per_action": [1.8],
+            "items": ["MAGMA_CREAM"],
+            "npc_val": [8],
             "tier": {
                 "1": 32,
                 "2": 32,
@@ -632,8 +724,9 @@
         },
         {
             "name": "Enderman Minion",
-            "items_per_action": 2,
-            "items": ["ENDER_PEARL", "ENCHANTED_ENDER_PEARL"],
+            "items_per_action": [1],
+            "items": ["ENDER_PEARL"],
+            "npc_val": [10],
             "tier": {
                 "1": 32,
                 "2": 32,
@@ -650,8 +743,9 @@
         },
         {
             "name": "Ghast Minion",
-            "items_per_action": 2,
-            "items": ["GHAST_TEAR", "ENCHANTED_GHAST_TEAR"],
+            "items_per_action": [1],
+            "items": ["GHAST_TEAR"],
+            "npc_val": [16],
             "tier": {
                 "1": 50,
                 "2": 50,
@@ -668,8 +762,9 @@
         },
         {
             "name": "Slime Minion",
-            "items_per_action": 2,
-            "items": ["SLIME_BALL", "ENCHANTED_SLIME_BALL", "ENCHANTED_SLIME_BLOCK"],
+            "items_per_action": [1.8],
+            "items": ["SLIME_BALL"],
+            "npc_val": [5],
             "tier": {
                 "1": 26,
                 "2": 26,
@@ -686,8 +781,9 @@
         },
         {
             "name": "Cow Minion",
-            "items_per_action": 2,
-            "items": ["RAW_BEEF", "ENCHANTED_RAW_BEEF", "LEATHER", "ENCHANTED_LEATHER"],
+            "items_per_action": [1, 1],
+            "items": ["RAW_BEEF", "LEATHER"],
+            "npc_val": [4, 3],
             "tier": {
                 "1": 26,
                 "2": 26,
@@ -704,8 +800,9 @@
         },
         {
             "name": "Pig Minion",
-            "items_per_action": 2,
-            "items": ["PORK", "ENCHANTED_PORK", "ENCHANTED_GRILLED_PORK"],
+            "items_per_action": [1],
+            "items": ["PORK"],
+            "npc_val": [5],
             "tier": {
                 "1": 26,
                 "2": 26,
@@ -722,8 +819,9 @@
         },
         {
             "name": "Chicken Minion",
-            "items_per_action": 2,
-            "items": ["RAW_CHICKEN", "ENCHANTED_RAW_CHICKEN", "FEATHER", "ENCHANTED_FEATHER", "ENCHANTED_EGG", "SUPER_EGG"],  
+            "items_per_action": [1, 1, 1],
+            "items": ["RAW_CHICKEN", "FEATHER", "EGG"], 
+            "npc_val": [4, 3, 1], 
             "tier": {
                 "1": 26,
                 "2": 26,
@@ -740,8 +838,9 @@
         },
         {
             "name": "Sheep Minion",
-            "items_per_action": 2,
-            "items": ["MUTTON", "ENCHANTED_MUTTON", "ENCHANTED_COOKED_MUTTON"],
+            "items_per_action": [1, 1],
+            "items": ["MUTTON", "WOOL"],
+            "npc_val": [5, 2], 
             "tier": {
                 "1": 24,
                 "2": 24,
@@ -758,8 +857,9 @@
         },
         {
             "name": "Rabbit Minion",
-            "items_per_action": 2,
-            "items": ["RABBIT", "ENCHANTED_RABBIT", "RABBIT_FOOT", "ENCHANTED_RABBIT_FOOT", "RABBIT_HIDE", "ENCHANTED_RABBIT_HIDE"],
+            "items_per_action": [1, 0.35, 0.35],
+            "items": ["RABBIT", "RABBIT_FOOT", "RABBIT_HIDE"],
+            "npc_val": [4, 5, 5], 
             "tier": {
                 "1": 26,
                 "2": 26,
@@ -776,8 +876,9 @@
         },
         {
             "name": "Oak Minion",
-            "items_per_action": 2,
-            "items": ["LOG:3", "ENCHANTED_DARK_OAK_LOG"],
+            "items_per_action": [4],
+            "items": ["LOG"],
+            "npc_val": [2], 
             "tier": {
                 "1": 48,
                 "2": 48,
@@ -794,7 +895,9 @@
         },
         {
             "name": "Spruce Minion",
-            "items_per_action": 2,
+            "items_per_action": [4],
+            "items": ["LOG:1"],
+            "npc_val": [2], 
             "tier": {
                 "1": 48,
                 "2": 48,
@@ -811,7 +914,9 @@
         },
         {
             "name": "Birch Minion",
-            "items_per_action": 2,
+            "items_per_action": [4],
+            "items": ["LOG:2"],
+            "npc_val": [2], 
             "tier": {
                 "1": 48,
                 "2": 48,
@@ -828,7 +933,9 @@
         },
         {
             "name": "Dark Oak Minion",
-            "items_per_action": 2,
+            "items_per_action": [4],
+            "items": ["LOG_2:1"],
+            "npc_val": [2], 
             "tier": {
                 "1": 48,
                 "2": 48,
@@ -845,7 +952,9 @@
         },
         {
             "name": "Acacia Minion",
-            "items_per_action": 2,
+            "items_per_action": [4],
+            "items": ["LOG_2"],
+            "npc_val": [2], 
             "tier": {
                 "1": 48,
                 "2": 48,
@@ -862,7 +971,9 @@
         },
         {
             "name": "Jungle Minion",
-            "items_per_action": 2,
+            "items_per_action": [4],
+            "items": ["LOG:3"],
+            "npc_val": [2], 
             "tier": {
                 "1": 48,
                 "2": 48,
