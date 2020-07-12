@@ -79,7 +79,7 @@
         {
             "name": "Sand Minion",
             "items_per_action": [1],
-            "items": ["SAND", "ENCHANTED_SAND"],
+            "items": ["SAND"],
             "npc_val": [2],
             "tier": {
                 "1": 26,
@@ -819,9 +819,9 @@
         },
         {
             "name": "Chicken Minion",
-            "items_per_action": [1, 1, 1],
-            "items": ["RAW_CHICKEN", "FEATHER", "EGG"], 
-            "npc_val": [4, 3, 1], 
+            "items_per_action": [1, 1],
+            "items": ["RAW_CHICKEN", "FEATHER"], 
+            "npc_val": [4, 3], 
             "tier": {
                 "1": 26,
                 "2": 26,
