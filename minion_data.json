@@ -5,6 +5,7 @@
             "items_per_action": [1],
             "items": ["COBBLESTONE"],
             "npc_val": [1],
+            "diamond": true,
             "tier": {
                 "1": 14,
                 "2": 14,
@@ -24,6 +25,7 @@
             "items_per_action": [1],
             "items": ["OBSIDIAN"],
             "npc_val": [12],
+            "diamond": true,
             "tier": {
                 "1": 45,
                 "2": 45,
@@ -43,6 +45,7 @@
             "items_per_action": [3],
             "items": ["GLOWSTONE_DUST"],
             "npc_val": [2],
+            "diamond": true,
             "tier": {
                 "1": 25,
                 "2": 25,
@@ -62,6 +65,7 @@
             "items_per_action": [1],
             "items": ["FLINT"],
             "npc_val": [4],
+            "diamond": false,
             "tier": {
                 "1": 26,
                 "2": 26,
@@ -81,6 +85,7 @@
             "items_per_action": [1],
             "items": ["SAND"],
             "npc_val": [2],
+            "diamond": true,
             "tier": {
                 "1": 26,
                 "2": 26,
@@ -100,6 +105,7 @@
             "items_per_action": [4],
             "items": ["CLAY_BALL"],
             "npc_val": [3],
+            "diamond": true,
             "tier": {
                 "1": 32,
                 "2": 32,
@@ -119,6 +125,7 @@
             "items_per_action": [1],
             "items": ["ICE"],
             "npc_val": [0.5],
+            "diamond": true,
             "tier": {
                 "1": 14,
                 "2": 14,
@@ -138,6 +145,7 @@
             "items_per_action": [4],
             "items": ["SNOW_BALL"],
             "npc_val": [1],
+            "diamond": true,
             "tier": {
                 "1": 13,
                 "2": 13,
@@ -157,6 +165,7 @@
             "items_per_action": [1],
             "items": ["COAL"],
             "npc_val": [2],
+            "diamond": true,
             "tier": {
                 "1": 15,
                 "2": 15,
@@ -176,6 +185,7 @@
             "items_per_action": [1],
             "items": ["IRON_INGOT"],
             "npc_val": [3],
+            "diamond": false,
             "tier": {
                 "1": 17,
                 "2": 17,
@@ -195,6 +205,7 @@
             "items_per_action": [1],
             "items": ["GOLD_INGOT"],
             "npc_val": [4],
+            "diamond": false,
             "tier": {
                 "1": 22,
                 "2": 22,
@@ -214,6 +225,7 @@
             "items_per_action": [1],
             "items": ["DIAMOND"],
             "npc_val": [8],
+            "diamond": true,
             "tier": {
                 "1": 29,
                 "2": 29,
@@ -233,6 +245,7 @@
             "items_per_action": [6],
             "items": ["INK_SACK:4"],
             "npc_val": [1],
+            "diamond": true,
             "tier": {
                 "1": 29,
                 "2": 29,
@@ -252,6 +265,7 @@
             "items_per_action": [4.5],
             "items": ["REDSTONE"],
             "npc_val": [1],
+            "diamond": true,
             "tier": {
                 "1": 29,
                 "2": 29,
@@ -271,6 +285,7 @@
             "items_per_action": [1],
             "items": ["EMERALD"],
             "npc_val": [6],
+            "diamond": true,
             "tier": {
                 "1": 28,
                 "2": 28,
@@ -290,6 +305,7 @@
             "items_per_action": [1],
             "items": ["QUARTZ"],
             "npc_val": [4],
+            "diamond": true,
             "tier": {
                 "1": 22.5,
                 "2": 22.5,
@@ -309,6 +325,7 @@
             "items_per_action": [1],
             "items": ["ENDER_STONE"],
             "npc_val": [2],
+            "diamond": true,
             "tier": {
                 "1": 26,
                 "2": 26,
@@ -328,6 +345,7 @@
             "items_per_action": [1, 1],
             "items": ["WHEAT", "SEEDS"],
             "npc_val": [1, 0.5],
+            "diamond": true,
             "tier": {
                 "1": 15,
                 "2": 15,
@@ -347,6 +365,7 @@
             "items_per_action": [6],
             "items": ["MELON"],
             "npc_val": [1],
+            "diamond": true,
             "tier": {
                 "1": 24,
                 "2": 24,
@@ -366,6 +385,7 @@
             "items_per_action": [1],
             "items": ["PUMPKIN"],
             "npc_val": [4],
+            "diamond": true,
             "tier": {
                 "1": 32,
                 "2": 32,
@@ -385,6 +405,7 @@
             "items_per_action": [3],
             "items": ["CARROT_ITEM"],
             "npc_val": [1],
+            "diamond": true,
             "tier": {
                 "1": 20,
                 "2": 20,
@@ -404,6 +425,7 @@
             "items_per_action": [3],
             "items": ["POTATO_ITEM"],
             "npc_val": [1],
+            "diamond": true,
             "tier": {
                 "1": 20,
                 "2": 20,
@@ -423,6 +445,7 @@
             "items_per_action": [0.5, 0.5],
             "items": ["RED_MUSHROOM", "BROWN_MUSHROOM"],
             "npc_val": [4, 4],
+            "diamond": true,
             "tier": {
                 "1": 30,
                 "2": 30,
@@ -442,6 +465,7 @@
             "items_per_action": [1],
             "items": ["CACTUS"],
             "npc_val": [1],
+            "diamond": false,
             "tier": {
                 "1": 27,
                 "2": 27,
@@ -461,6 +485,7 @@
             "items_per_action": [3],
             "items": ["INK_SACK:3"],
             "npc_val": [3],
+            "diamond": true,
             "tier": {
                 "1": 27,
                 "2": 27,
@@ -480,6 +505,7 @@
             "items_per_action": [1],
             "items": ["SUGAR_CANE"],
             "npc_val": [2],
+            "diamond": true,
             "tier": {
                 "1": 22,
                 "2": 22,
@@ -499,6 +525,7 @@
             "items_per_action": [1],
             "items": ["NETHER_STALK"],
             "npc_val": [3],
+            "diamond": true,
             "tier": {
                 "1": 50,
                 "2": 50,
@@ -518,6 +545,7 @@
             "items_per_action": [0.8, 0.2],
             "items": [],
             "npc_val": [1, 2],
+            "diamond": true,
             "tier": {
                 "1": 30,
                 "2": 29,
@@ -537,6 +565,7 @@
             "items_per_action": [1],
             "items": ["RAW_FISH"],
             "npc_val": [10],
+            "diamond": true,
             "tier": {
                 "1": 78,
                 "2": 75,
@@ -556,6 +585,7 @@
             "items_per_action": [1],
             "items": ["ROTTEN_FLESH"],
             "npc_val": [2],
+            "diamond": true,
             "tier": {
                 "1": 26,
                 "2": 26,
@@ -575,6 +605,7 @@
             "items_per_action": [3, 0.2],
             "items": ["ROTTEN_FLESH", "DIAMOND"],
             "npc_val": [2, 8],
+            "diamond": true,
             "tier": {
                 "1": 29,
                 "2": 29,
@@ -594,6 +625,7 @@
             "items_per_action": [1],
             "items": ["BONE"],
             "npc_val": [2],
+            "diamond": true,
             "tier": {
                 "1": 25,
                 "2": 25,
@@ -613,6 +645,7 @@
             "items_per_action": [1],
             "items": ["SULPHUR"],
             "npc_val": [4],
+            "diamond": true,
             "tier": {
                 "1": 27,
                 "2": 27,
@@ -632,6 +665,7 @@
             "items_per_action": [1, 0.5],
             "items": ["STRING", "SPIDER_EYE"],
             "npc_val": [3, 3],
+            "diamond": true,
             "tier": {
                 "1": 25,
                 "2": 25,
@@ -651,6 +685,7 @@
             "items_per_action": [3.16, 1, 0.2],
             "items": ["STRING", "SPIDER_EYE", "IRON_INGOT"],
             "npc_val": [3, 3, 3],
+            "diamond": true,
             "tier": {
                 "1": 25,
                 "2": 25,
@@ -670,6 +705,7 @@
             "items_per_action": [0.5, 1],
             "items": ["STRING", "SPIDER_EYE"],
             "npc_val": [3, 3],
+            "diamond": true,
             "tier": {
                 "1": 25,
                 "2": 25,
@@ -689,6 +725,7 @@
             "items_per_action": [1],
             "items": ["BLAZE_ROD"],
             "npc_val": [9],
+            "diamond": true,
             "tier": {
                 "1": 33,
                 "2": 33,
@@ -708,6 +745,7 @@
             "items_per_action": [1.8],
             "items": ["MAGMA_CREAM"],
             "npc_val": [8],
+            "diamond": true,
             "tier": {
                 "1": 32,
                 "2": 32,
@@ -727,6 +765,7 @@
             "items_per_action": [1],
             "items": ["ENDER_PEARL"],
             "npc_val": [10],
+            "diamond": true,
             "tier": {
                 "1": 32,
                 "2": 32,
@@ -746,6 +785,7 @@
             "items_per_action": [1],
             "items": ["GHAST_TEAR"],
             "npc_val": [16],
+            "diamond": true,
             "tier": {
                 "1": 50,
                 "2": 50,
@@ -765,6 +805,7 @@
             "items_per_action": [1.8],
             "items": ["SLIME_BALL"],
             "npc_val": [5],
+            "diamond": true,
             "tier": {
                 "1": 26,
                 "2": 26,
@@ -784,6 +825,7 @@
             "items_per_action": [1, 1],
             "items": ["RAW_BEEF", "LEATHER"],
             "npc_val": [4, 3],
+            "diamond": true,
             "tier": {
                 "1": 26,
                 "2": 26,
@@ -803,6 +845,7 @@
             "items_per_action": [1],
             "items": ["PORK"],
             "npc_val": [5],
+            "diamond": true,
             "tier": {
                 "1": 26,
                 "2": 26,
@@ -822,6 +865,7 @@
             "items_per_action": [1, 1],
             "items": ["RAW_CHICKEN", "FEATHER"], 
             "npc_val": [4, 3], 
+            "diamond": false,
             "tier": {
                 "1": 26,
                 "2": 26,
@@ -841,6 +885,7 @@
             "items_per_action": [1, 1],
             "items": ["MUTTON", "WOOL"],
             "npc_val": [5, 2], 
+            "diamond": true,
             "tier": {
                 "1": 24,
                 "2": 24,
@@ -860,6 +905,7 @@
             "items_per_action": [1, 0.35, 0.35],
             "items": ["RABBIT", "RABBIT_FOOT", "RABBIT_HIDE"],
             "npc_val": [4, 5, 5], 
+            "diamond": true,
             "tier": {
                 "1": 26,
                 "2": 26,
@@ -879,6 +925,7 @@
             "items_per_action": [4],
             "items": ["LOG"],
             "npc_val": [2], 
+            "diamond": true,
             "tier": {
                 "1": 48,
                 "2": 48,
@@ -898,6 +945,7 @@
             "items_per_action": [4],
             "items": ["LOG:1"],
             "npc_val": [2], 
+            "diamond": true,
             "tier": {
                 "1": 48,
                 "2": 48,
@@ -917,6 +965,7 @@
             "items_per_action": [4],
             "items": ["LOG:2"],
             "npc_val": [2], 
+            "diamond": true,
             "tier": {
                 "1": 48,
                 "2": 48,
@@ -936,6 +985,7 @@
             "items_per_action": [4],
             "items": ["LOG_2:1"],
             "npc_val": [2], 
+            "diamond": true,
             "tier": {
                 "1": 48,
                 "2": 48,
@@ -955,6 +1005,7 @@
             "items_per_action": [4],
             "items": ["LOG_2"],
             "npc_val": [2], 
+            "diamond": true,
             "tier": {
                 "1": 48,
                 "2": 48,
@@ -974,6 +1025,7 @@
             "items_per_action": [4],
             "items": ["LOG:3"],
             "npc_val": [2], 
+            "diamond": true,
             "tier": {
                 "1": 48,
                 "2": 48,
