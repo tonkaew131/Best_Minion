@@ -543,7 +543,7 @@
         {
             "name": "Flower Minion",
             "items_per_action": [0.8, 0.2],
-            "items": [],
+            "items": ["SMALL_FLOWER", "TALL_FLOWER"],
             "npc_val": [1, 2],
             "diamond": true,
             "tier": {
@@ -562,9 +562,9 @@
         },
         {
             "name": "Fishing Minion",
-            "items_per_action": [1],
-            "items": ["RAW_FISH"],
-            "npc_val": [10],
+            "items_per_action": [0.5, 0.25, 0.12, 0.04, 0.03, 0.03, 0.03],
+            "items": ["RAW_FISH", "RAW_FISH:1", "RAW_FISH:3", "RAW_FISH:4", "PRISMARINE_CRYSTALS", "PRISMARINE_SHARD", "SPONGE"],
+            "npc_val": [6, 10, 15, 20, 5, 5, 50],
             "diamond": true,
             "tier": {
                 "1": 78,
