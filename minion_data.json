@@ -68,7 +68,7 @@
         },
         {
             "name": "Glowstone Minion",
-            "items_per_action": [3],
+            "items_per_action": [1.54],
             "items": ["GLOWSTONE_DUST"],
             "npc_val": [2],
             "diamond": true,
