@@ -38,7 +38,7 @@
         },
         "SNOW_BALL": {
             "to": "ENCHANTED_SNOW_BLOCK",
-            "count": "160"
+            "count": "640"
         },
         "COAL": {
             "to": "ENCHANTED_COAL",
