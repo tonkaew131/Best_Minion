@@ -1,0 +1,68 @@
+{
+    "items": {
+        "GLOWSTONE_DUST": {
+            "to": "GLOWSTONE",
+            "count": "4"
+        },
+        "CLAY_BALL": {
+            "to": "CLAY",
+            "count": "4"
+        },
+        "ICE": {
+            "to": "PACKED_ICE",
+            "count": "9"
+        },
+        "SNOW_BALL": {
+            "to": "SNOW_BLOCK",
+            "count": "4"
+        },
+        "COAL": {
+            "to": "BLOCK_OF_COAL",
+            "count": "9"
+        },
+        "IRON_INGOT": {
+            "to": "BLOCK_OF_IRON",
+            "count": "9"
+        },
+        "GOLD_INGOT": {
+            "to": "BLOCK_OF_GOLD",
+            "count": "9"
+        },
+        "DIAMOND": {
+            "to": "BLOCK_OF_DIAMOND",
+            "count": "9"
+        },
+        "INK_SACK:4": {
+            "to": "LAPIS_LAZULI_BLOCK",
+            "count": "9"
+        },
+        "REDSTONE": {
+            "to": "REDSTONE_BLOCK",
+            "count": "9"
+        },
+        "EMERALD": {
+            "to": "BLOCK_OF_EMERALD",
+            "count": "9"
+        },
+        "QUARTZ": {
+            "to": "BLOCK_OF_QUARTZ",
+            "count": "4"
+        },
+        "WHEAT": {
+            "to": "HAY_BALE",
+            "count": "9"
+        },
+        "MELON": {
+            "to": "MELON_BLOCK",
+            "count": "9"
+        },
+        "RED_MUSHROOM": {
+            "to": "HAY_BALE",
+            "count": "9"
+        },
+        "BROWN_MUSHROOM": {
+            "to": "HAY_BALE",
+            "count": "9"
+        }
+    }
+}
