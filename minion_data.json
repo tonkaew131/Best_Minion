@@ -31,6 +31,19 @@
                 "9": 768,
                 "10": 960,
                 "11": 960
+            },
+            "upgrade": {
+                "1": "80xCOBBLESTONE",
+                "2": "160xCOBBLESTONE",
+                "3": "320xCOBBLESTONE",
+                "4": "512xCOBBLESTONE",
+                "5": "8xENCHANTED_COBBLESTONE",
+                "6": "16xENCHANTED_COBBLESTONE",
+                "7": "32xENCHANTED_COBBLESTONE",
+                "8": "64xENCHANTED_COBBLESTONE",
+                "9": "128xENCHANTED_COBBLESTONE",
+                "10": "256xENCHANTED_COBBLESTONE",
+                "11": "512xENCHANTED_COBBLESTONE"
             }
         },
         {
@@ -64,6 +77,19 @@
                 "9": 768,
                 "10": 960,
                 "11": 960
+            },
+            "upgrade": {
+                "1": "80xOBSIDIAN",
+                "2": "160xOBSIDIAN",
+                "3": "320xOBSIDIAN",
+                "4": "512xOBSIDIAN",
+                "5": "8xENCHANTED_OBSIDIAN",
+                "6": "16xENCHANTED_OBSIDIAN",
+                "7": "32xENCHANTED_OBSIDIAN",
+                "8": "64xENCHANTED_OBSIDIAN",
+                "9": "128xENCHANTED_OBSIDIAN",
+                "10": "256xENCHANTED_OBSIDIAN",
+                "11": "512xENCHANTED_OBSIDIAN"
             }
         },
         {
@@ -97,6 +123,19 @@
                 "9": 768,
                 "10": 960,
                 "11": 960
+            },
+            "upgrade": {
+                "1": "128xGLOWSTONE_DUST",
+                "2": "256xGLOWSTONE_DUST",
+                "3": "512xGLOWSTONE_DUST",
+                "4": "8xENCHANTED_GLOWSTONE_DUST",
+                "5": "24xENCHANTED_GLOWSTONE_DUST",
+                "6": "64xENCHANTED_GLOWSTONE_DUST",
+                "7": "128xENCHANTED_GLOWSTONE_DUST",
+                "8": "256xENCHANTED_GLOWSTONE_DUST",
+                "9": "512xENCHANTED_GLOWSTONE_DUST",
+                "10": "8xENCHANTED_GLOWSTONE",
+                "11": "16xENCHANTED_GLOWSTONE"
             }
         },
         {
@@ -130,6 +169,19 @@
                 "9": 768,
                 "10": 960,
                 "11": 960
+            },
+            "upgrade": {
+                "1": "80xGRAVEL",
+                "2": "160xGRAVEL",
+                "3": "320xGRAVEL",
+                "4": "512xGRAVEL",
+                "5": "8xENCHANTED_FLINT",
+                "6": "16xENCHANTED_FLINT",
+                "7": "32xENCHANTED_FLINT",
+                "8": "64xENCHANTED_FLINT",
+                "9": "128xENCHANTED_FLINT",
+                "10": "256xENCHANTED_FLINT",
+                "11": "512xENCHANTED_FLINT"
             }
         },
         {
@@ -163,6 +215,19 @@
                 "9": 768,
                 "10": 960,
                 "11": 960
+            },
+            "upgrade": {
+                "1": "80xSAND",
+                "2": "160xSAND",
+                "3": "320xSAND",
+                "4": "512xSAND",
+                "5": "8xENCHANTED_SAND",
+                "6": "16xENCHANTED_SAND",
+                "7": "32xENCHANTED_SAND",
+                "8": "64xENCHANTED_SAND",
+                "9": "128xENCHANTED_SAND",
+                "10": "256xENCHANTED_SAND",
+                "11": "512xENCHANTED_SAND"
             }
         },
         {
@@ -196,6 +261,19 @@
                 "9": 768,
                 "10": 960,
                 "11": 960
+            },
+            "upgrade": {
+                "1": "80xCLAY_BALL",
+                "2": "160xCLAY_BALL",
+                "3": "320xCLAY_BALL",
+                "4": "512xCLAY_BALL",
+                "5": "8xENCHANTED_CLAY_BALL",
+                "6": "16xENCHANTED_CLAY_BALL",
+                "7": "32xENCHANTED_CLAY_BALL",
+                "8": "64xENCHANTED_CLAY_BALL",
+                "9": "128xENCHANTED_CLAY_BALL",
+                "10": "256xENCHANTED_CLAY_BALL",
+                "11": "512xENCHANTED_CLAY_BALL"
             }
         },
         {
@@ -229,6 +307,19 @@
                 "9": 768,
                 "10": 960,
                 "11": 960
+            },
+            "upgrade": {
+                "1": "80xICE",
+                "2": "160xICE",
+                "3": "320xICE",
+                "4": "512xICE",
+                "5": "128xPACKED_ICE",
+                "6": "256xPACKED_ICE",
+                "7": "512xPACKED_ICE",
+                "8": "64xENCHANTED_ICE",
+                "9": "128xENCHANTED_ICE",
+                "10": "256xENCHANTED_ICE",
+                "11": "512xENCHANTED_ICE"
             }
         },
         {
@@ -262,6 +353,19 @@
                 "9": 768,
                 "10": 960,
                 "11": 960
+            },
+            "upgrade": {
+                "1": "650000C",
+                "2": "32xSNOW_BLOCK",
+                "3": "64xSNOW_BLOCK",
+                "4": "128xSNOW_BLOCK",
+                "5": "256xSNOW_BLOCK",
+                "6": "512xSNOW_BLOCK",
+                "7": "8xENCHANTED_SNOW_BLOCK",
+                "8": "16xENCHANTED_SNOW_BLOCK",
+                "9": "32xENCHANTED_SNOW_BLOCK",
+                "10": "64xENCHANTED_SNOW_BLOCK",
+                "11": "128xENCHANTED_SNOW_BLOCK"
             }
         },
         {
@@ -295,6 +399,19 @@
                 "9": 768,
                 "10": 960,
                 "11": 960
+            },
+            "upgrade": {
+                "1": "80xCOAL",
+                "2": "160xCOAL",
+                "3": "320xCOAL",
+                "4": "512xCOAL",
+                "5": "8xENCHANTED_COAL",
+                "6": "24xENCHANTED_COAL",
+                "7": "64xENCHANTED_COAL",
+                "8": "128xENCHANTED_COAL",
+                "9": "256xENCHANTED_COAL",
+                "10": "512xENCHANTED_COAL",
+                "11": "8xENCHANTED_COAL_BLOCK"
             }
         },
         {
@@ -328,6 +445,19 @@
                 "9": 768,
                 "10": 960,
                 "11": 960
+            },
+            "upgrade": {
+                "1": "80xIRON_INGOT",
+                "2": "160xIRON_INGOT",
+                "3": "320xIRON_INGOT",
+                "4": "512xIRON_INGOT",
+                "5": "8xENCHANTED_IRON",
+                "6": "24xENCHANTED_IRON",
+                "7": "64xENCHANTED_IRON",
+                "8": "128xENCHANTED_IRON",
+                "9": "256xENCHANTED_IRON",
+                "10": "512xENCHANTED_IRON",
+                "11": "8xENCHANTED_IRON_BLOCK"
             }
         },
         {
@@ -361,6 +491,19 @@
                 "9": 768,
                 "10": 960,
                 "11": 960
+            },
+            "upgrade": {
+                "1": "80xGOLD_INGOT",
+                "2": "160xGOLD_INGOT",
+                "3": "320xGOLD_INGOT",
+                "4": "512xGOLD_INGOT",
+                "5": "8xENCHANTED_GOLD",
+                "6": "24xENCHANTED_GOLD",
+                "7": "64xENCHANTED_GOLD",
+                "8": "128xENCHANTED_GOLD",
+                "9": "256xENCHANTED_GOLD",
+                "10": "512xENCHANTED_GOLD",
+                "11": "8xENCHANTED_GOLD_BLOCK"
             }
         },
         {
@@ -394,6 +537,19 @@
                 "9": 768,
                 "10": 960,
                 "11": 960
+            },
+            "upgrade": {
+                "1": "80xDIAMOND",
+                "2": "160xDIAMOND",
+                "3": "320xDIAMOND",
+                "4": "512xDIAMOND",
+                "5": "8xENCHANTED_DIAMOND",
+                "6": "24xENCHANTED_DIAMOND",
+                "7": "64xENCHANTED_DIAMOND",
+                "8": "128xENCHANTED_DIAMOND",
+                "9": "256xENCHANTED_DIAMOND",
+                "10": "512xENCHANTED_DIAMOND",
+                "11": "8xENCHANTED_DIAMOND_BLOCK"
             }
         },
         {
@@ -427,6 +583,19 @@
                 "9": 768,
                 "10": 960,
                 "11": 960
+            },
+            "upgrade": {
+                "1": "256xINK_SACK:4",
+                "2": "512xINK_SACK:4",
+                "3": "8xENCHANTED_LAPIS_LAZULI",
+                "4": "24xENCHANTED_LAPIS_LAZULI",
+                "5": "64xENCHANTED_LAPIS_LAZULI",
+                "6": "128xENCHANTED_LAPIS_LAZULI",
+                "7": "256xENCHANTED_LAPIS_LAZULI",
+                "8": "512xENCHANTED_LAPIS_LAZULI",
+                "9": "8xENCHANTED_LAPIS_LAZULI_BLOCK",
+                "10": "16xENCHANTED_LAPIS_LAZULI_BLOCK",
+                "11": "32xENCHANTED_LAPIS_LAZULI_BLOCK"
             }
         },
         {
@@ -460,6 +629,19 @@
                 "9": 768,
                 "10": 960,
                 "11": 960
+            },
+            "upgrade": {
+                "1": "128xREDSTONE",
+                "2": "256xREDSTONE",
+                "3": "512xREDSTONE",
+                "4": "8xENCHANTED_REDSTONE",
+                "5": "24xENCHANTED_REDSTONE",
+                "6": "64xENCHANTED_REDSTONE",
+                "7": "128xENCHANTED_REDSTONE",
+                "8": "256xENCHANTED_REDSTONE",
+                "9": "512xENCHANTED_REDSTONE",
+                "10": "8xENCHANTED_REDSTONE_BLOCK",
+                "11": "16xENCHANTED_REDSTONE_BLOCK"
             }
         },
         {
@@ -493,6 +675,19 @@
                 "9": 768,
                 "10": 960,
                 "11": 960
+            },
+            "upgrade": {
+                "1": "80xEMERALD",
+                "2": "160xEMERALD",
+                "3": "320xEMERALD",
+                "4": "512xEMERALD",
+                "5": "8xENCHANTED_EMERALD",
+                "6": "24xENCHANTED_EMERALD",
+                "7": "64xENCHANTED_EMERALD",
+                "8": "128xENCHANTED_EMERALD",
+                "9": "256xENCHANTED_EMERALD",
+                "10": "512xENCHANTED_EMERALD",
+                "11": "8xENCHANTED_EMERALD_BLOCK"
             }
         },
         {
@@ -526,6 +721,19 @@
                 "9": 768,
                 "10": 960,
                 "11": 960
+            },
+            "upgrade": {
+                "1": "80xQUARTZ",
+                "2": "160xQUARTZ",
+                "3": "320xQUARTZ",
+                "4": "512xQUARTZ",
+                "5": "8xENCHANTED_QUARTZ",
+                "6": "24xENCHANTED_QUARTZ",
+                "7": "64xENCHANTED_QUARTZ",
+                "8": "128xENCHANTED_QUARTZ",
+                "9": "256xENCHANTED_QUARTZ",
+                "10": "512xENCHANTED_QUARTZ",
+                "11": "8xENCHANTED_QUARTZ_BLOCK"
             }
         },
         {
@@ -559,6 +767,19 @@
                 "9": 768,
                 "10": 960,
                 "11": 960
+            },
+            "upgrade": {
+                "1": "80xENDER_STONE",
+                "2": "160xENDER_STONE",
+                "3": "320xENDER_STONE",
+                "4": "512xENDER_STONE",
+                "5": "8xENCHANTED_ENDSTONE",
+                "6": "16xENCHANTED_ENDSTONE",
+                "7": "32xENCHANTED_ENDSTONE",
+                "8": "64xENCHANTED_ENDSTONE",
+                "9": "128xENCHANTED_ENDSTONE",
+                "10": "256xENCHANTED_ENDSTONE",
+                "11": "512xENCHANTED_ENDSTONE"
             }
         },
         {
@@ -592,6 +813,19 @@
                 "9": 768,
                 "10": 960,
                 "11": 960
+            },
+            "upgrade": {
+                "1": "80xWHEAT",
+                "2": "160xWHEAT",
+                "3": "320xWHEAT",
+                "4": "512xWHEAT",
+                "5": "96xHAY_BALE",
+                "6": "192xHAY_BALE",
+                "7": "384xHAY_BALE",
+                "8": "512xHAY_BALE",
+                "9": "8xENCHANTED_HAY_BLOCK",
+                "10": "16xENCHANTED_HAY_BLOCK",
+                "11": "32xENCHANTED_HAY_BLOCK"
             }
         },
         {
@@ -625,6 +859,19 @@
                 "9": 768,
                 "10": 960,
                 "11": 960
+            },
+            "upgrade": {
+                "1": "256xMELON",
+                "2": "512xMELON",
+                "3": "128xMELON_BLOCK",
+                "4": "256xMELON_BLOCK",
+                "5": "512xMELON_BLOCK",
+                "6": "64xENCHANTED_MELON",
+                "7": "128xENCHANTED_MELON",
+                "8": "256xENCHANTED_MELON",
+                "9": "512xENCHANTED_MELON",
+                "10": "8xENCHANTED_MELON_BLOCK",
+                "11": "16xENCHANTED_MELON_BLOCK"
             }
         },
         {
@@ -658,6 +905,19 @@
                 "9": 768,
                 "10": 960,
                 "11": 960
+            },
+            "upgrade": {
+                "1": "80xPUMPKIN",
+                "2": "160xPUMPKIN",
+                "3": "320xPUMPKIN",
+                "4": "512xPUMPKIN",
+                "5": "8xENCHANTED_PUMPKIN",
+                "6": "16xENCHANTED_PUMPKIN",
+                "7": "32xENCHANTED_PUMPKIN",
+                "8": "64xENCHANTED_PUMPKIN",
+                "9": "128xENCHANTED_PUMPKIN",
+                "10": "256xENCHANTED_PUMPKIN",
+                "11": "512xENCHANTED_PUMPKIN"
             }
         },
         {
@@ -691,6 +951,19 @@
                 "9": 768,
                 "10": 960,
                 "11": 960
+            },
+            "upgrade": {
+                "1": "128xCARROT_ITEM",
+                "2": "256xCARROT_ITEM",
+                "3": "512xCARROT_ITEM",
+                "4": "8xENCHANTED_CARROT",
+                "5": "24xENCHANTED_CARROT",
+                "6": "64xENCHANTED_CARROT",
+                "7": "128xENCHANTED_CARROT",
+                "8": "256xENCHANTED_CARROT",
+                "9": "512xENCHANTED_CARROT",
+                "10": "8xENCHANTED_GOLDEN_CARROT",
+                "11": "16xENCHANTED_GOLDEN_CARROT"
             }
         },
         {
@@ -724,6 +997,19 @@
                 "9": 768,
                 "10": 960,
                 "11": 960
+            },
+            "upgrade": {
+                "1": "128xPOTATO_ITEM",
+                "2": "256xPOTATO_ITEM",
+                "3": "512xPOTATO_ITEM",
+                "4": "8xENCHANTED_POTATO",
+                "5": "24xENCHANTED_POTATO",
+                "6": "64xENCHANTED_POTATO",
+                "7": "128xENCHANTED_POTATO",
+                "8": "256xENCHANTED_POTATO",
+                "9": "512xENCHANTED_POTATO",
+                "10": "8xENCHANTED_BAKED_POTATO",
+                "11": "16xENCHANTED_BAKED_POTATO"
             }
         },
         {
@@ -757,6 +1043,19 @@
                 "9": 768,
                 "10": 960,
                 "11": 960
+            },
+            "upgrade": {
+                "1": "80xRED_MUSHROOM",
+                "2": "160xRED_MUSHROOM",
+                "3": "320xRED_MUSHROOM",
+                "4": "512xRED_MUSHROOM",
+                "5": "8xENCHANTED_RED_MUSHROOM",
+                "6": "16xENCHANTED_RED_MUSHROOM",
+                "7": "32xENCHANTED_RED_MUSHROOM",
+                "8": "64xENCHANTED_RED_MUSHROOM",
+                "9": "128xENCHANTED_RED_MUSHROOM",
+                "10": "256xENCHANTED_RED_MUSHROOM",
+                "11": "512xENCHANTED_RED_MUSHROOM"
             }
         },
         {
@@ -790,6 +1089,19 @@
                 "9": 768,
                 "10": 960,
                 "11": 960
+            },
+            "upgrade": {
+                "1": "128xCACTUS",
+                "2": "256xCACTUS",
+                "3": "512xCACTUS",
+                "4": "8xENCHANTED_CACTUS_GREEN",
+                "5": "24xENCHANTED_CACTUS_GREEN",
+                "6": "64xENCHANTED_CACTUS_GREEN",
+                "7": "128xENCHANTED_CACTUS_GREEN",
+                "8": "256xENCHANTED_CACTUS_GREEN",
+                "9": "512xENCHANTED_CACTUS_GREEN",
+                "10": "8xENCHANTED_CACTUS",
+                "11": "16xENCHANTED_CACTUS"
             }
         },
         {
@@ -823,6 +1135,19 @@
                 "9": 768,
                 "10": 960,
                 "11": 960
+            },
+            "upgrade": {
+                "1": "80xINK_SACK:3",
+                "2": "160xINK_SACK:3",
+                "3": "320xINK_SACK:3",
+                "4": "512xINK_SACK:3",
+                "5": "8xENCHANTED_COCOA",
+                "6": "24xENCHANTED_COCOA",
+                "7": "64xENCHANTED_COCOA",
+                "8": "128xENCHANTED_COCOA",
+                "9": "256xENCHANTED_COCOA",
+                "10": "512xENCHANTED_COCOA",
+                "11": "8xENCHANTED_COOKIE"
             }
         },
         {
@@ -856,6 +1181,19 @@
                 "9": 768,
                 "10": 960,
                 "11": 960
+            },
+            "upgrade": {
+                "1": "128xSUGAR_CANE",
+                "2": "256xSUGAR_CANE",
+                "3": "512xSUGAR_CANE",
+                "4": "8xENCHANTED_SUGAR",
+                "5": "24xENCHANTED_SUGAR",
+                "6": "64xENCHANTED_SUGAR",
+                "7": "128xENCHANTED_SUGAR",
+                "8": "256xENCHANTED_SUGAR",
+                "9": "512xENCHANTED_SUGAR",
+                "10": "8xENCHANTED_SUGAR_CANE",
+                "11": "16xENCHANTED_SUGAR_CANE"
             }
         },
         {
@@ -889,6 +1227,19 @@
                 "9": 768,
                 "10": 960,
                 "11": 960
+            },
+            "upgrade": {
+                "1": "80xNETHER_STALK",
+                "2": "160xNETHER_STALK",
+                "3": "320xNETHER_STALK",
+                "4": "512xNETHER_STALK",
+                "5": "8xENCHANTED_NETHER_STALK",
+                "6": "16xENCHANTED_NETHER_STALK",
+                "7": "32xENCHANTED_NETHER_STALK",
+                "8": "64xENCHANTED_NETHER_STALK",
+                "9": "128xENCHANTED_NETHER_STALK",
+                "10": "256xENCHANTED_NETHER_STALK",
+                "11": "512xENCHANTED_NETHER_STALK"
             }
         },
         {
@@ -922,6 +1273,19 @@
                 "9": 960,
                 "10": 960,
                 "11": 960
+            },
+            "upgrade": {
+                "1": "7500000C",
+                "2": "8000C",
+                "3": "16000C",
+                "4": "25600C",
+                "5": "64000C",
+                "6": "192000C",
+                "7": "512000C",
+                "8": "1024000C",
+                "9": "2048000C",
+                "10": "4096000C",
+                "11": "230400C"
             }
         },
         {
@@ -955,6 +1319,19 @@
                 "9": 832,
                 "10": 896,
                 "11": 960
+            },
+            "upgrade": {
+                "1": "64xRAW_FISH",
+                "2": "128xRAW_FISH",
+                "3": "256xRAW_FISH",
+                "4": "512xRAW_FISH",
+                "5": "8xENCHANTED_RAW_FISH",
+                "6": "24xENCHANTED_RAW_FISH",
+                "7": "64xENCHANTED_RAW_FISH",
+                "8": "128xENCHANTED_RAW_FISH",
+                "9": "256xENCHANTED_RAW_FISH",
+                "10": "512xENCHANTED_RAW_FISH",
+                "11": "8xENCHANTED_COOKED_FISH"
             }
         },
         {
@@ -988,6 +1365,19 @@
                 "9": 768,
                 "10": 960,
                 "11": 960
+            },
+            "upgrade": {
+                "1": "80xROTTEN_FLESH",
+                "2": "160xROTTEN_FLESH",
+                "3": "320xROTTEN_FLESH",
+                "4": "512xROTTEN_FLESH",
+                "5": "8xENCHANTED_ROTTEN_FLESH",
+                "6": "16xENCHANTED_ROTTEN_FLESH",
+                "7": "32xENCHANTED_ROTTEN_FLESH",
+                "8": "64xENCHANTED_ROTTEN_FLESH",
+                "9": "128xENCHANTED_ROTTEN_FLESH",
+                "10": "256xENCHANTED_ROTTEN_FLESH",
+                "11": "512xENCHANTED_ROTTEN_FLESH"
             }
         },
         {
@@ -1021,6 +1411,19 @@
                 "9": 768,
                 "10": 960,
                 "11": 960
+            },
+            "upgrade": {
+                "1": "80xREVENANT_FLESH",
+                "2": "140xREVENANT_FLESH&80xROTTEN_FLESH",
+                "3": "280xREVENANT_FLESH&160xROTTEN_FLESH",
+                "4": "448xREVENANT_FLESH&320xROTTEN_FLESH",
+                "5": "7xREVENANT_VISCERA&512xROTTEN_FLESH",
+                "6": "14xREVENANT_VISCERA&8xENCHANTED_ROTTEN_FLESH",
+                "7": "28xREVENANT_VISCERA&16xENCHANTED_ROTTEN_FLESH",
+                "8": "56xREVENANT_VISCERA&32xENCHANTED_ROTTEN_FLESH",
+                "9": "112xREVENANT_VISCERA&64xENCHANTED_ROTTEN_FLESH",
+                "10": "224xREVENANT_VISCERA&128xENCHANTED_ROTTEN_FLESH",
+                "11": "448xREVENANT_VISCERA&256xENCHANTED_ROTTEN_FLESH"
             }
         },
         {
@@ -1054,6 +1457,19 @@
                 "9": 768,
                 "10": 960,
                 "11": 960
+            },
+            "upgrade": {
+                "1": "80xBONE",
+                "2": "160xBONE",
+                "3": "320xBONE",
+                "4": "512xBONE",
+                "5": "8xENCHANTED_BONE",
+                "6": "16xENCHANTED_BONE",
+                "7": "32xENCHANTED_BONE",
+                "8": "64xENCHANTED_BONE",
+                "9": "128xENCHANTED_BONE",
+                "10": "256xENCHANTED_BONE",
+                "11": "512xENCHANTED_BONE"
             }
         },
         {
@@ -1087,6 +1503,19 @@
                 "9": 768,
                 "10": 960,
                 "11": 960
+            },
+            "upgrade": {
+                "1": "80xSULPHUR",
+                "2": "160xSULPHUR",
+                "3": "320xSULPHUR",
+                "4": "512xSULPHUR",
+                "5": "8xENCHANTED_GUNPOWDER",
+                "6": "24xENCHANTED_GUNPOWDER",
+                "7": "64xENCHANTED_GUNPOWDER",
+                "8": "128xENCHANTED_GUNPOWDER",
+                "9": "256xENCHANTED_GUNPOWDER",
+                "10": "512xENCHANTED_GUNPOWDER",
+                "11": "16xENCHANTED_FIREWORK_ROCKET"
             }
         },
         {
@@ -1120,6 +1549,19 @@
                 "9": 768,
                 "10": 960,
                 "11": 960
+            },
+            "upgrade": {
+                "1": "80xSTRING",
+                "2": "160xSTRING",
+                "3": "320xSTRING",
+                "4": "512xSTRING",
+                "5": "8xENCHANTED_STRING",
+                "6": "16xENCHANTED_STRING",
+                "7": "32xENCHANTED_STRING",
+                "8": "64xENCHANTED_STRING",
+                "9": "128xENCHANTED_STRING",
+                "10": "256xENCHANTED_STRING",
+                "11": "512xENCHANTED_STRING"
             }
         },
         {
@@ -1153,6 +1595,19 @@
                 "9": 768,
                 "10": 960,
                 "11": 960
+            },
+            "upgrade": {
+                "1": "80xTARANTULA_WEB&1xENCHANTED_FERMENTED_SPIDER_EYE",
+                "2": "140xTARANTULA_WEB&80xSTRING",
+                "3": "280xTARANTULA_WEB&160xSTRING",
+                "4": "448xTARANTULA_WEB&320xSTRING",
+                "5": "7xTARANTULA_SILK&512xSTRING",
+                "6": "14xTARANTULA_SILK&8xENCHANTED_STRING",
+                "7": "28xTARANTULA_SILK&16xENCHANTED_STRING",
+                "8": "56xTARANTULA_SILK&32xENCHANTED_STRING",
+                "9": "112xTARANTULA_SILK&64xENCHANTED_STRING",
+                "10": "224xTARANTULA_SILK&128xENCHANTED_STRING",
+                "11": "448xTARANTULA_SILK&256xENCHANTED_STRING"
             }
         },
         {
@@ -1186,6 +1641,19 @@
                 "9": 768,
                 "10": 960,
                 "11": 960
+            },
+            "upgrade": {
+                "1": "80xSPIDER_EYE",
+                "2": "160xSPIDER_EYE",
+                "3": "320xSPIDER_EYE",
+                "4": "512xSPIDER_EYE",
+                "5": "8xENCHANTED_SPIDER_EYE",
+                "6": "24xENCHANTED_SPIDER_EYE",
+                "7": "64xENCHANTED_SPIDER_EYE",
+                "8": "128xENCHANTED_SPIDER_EYE",
+                "9": "256xENCHANTED_SPIDER_EYE",
+                "10": "512xENCHANTED_SPIDER_EYE",
+                "11": "16xENCHANTED_FERMENTED_SPIDER_EYE"
             }
         },
         {
@@ -1219,6 +1687,19 @@
                 "9": 768,
                 "10": 960,
                 "11": 960
+            },
+            "upgrade": {
+                "1": "80xBLAZE_ROD",
+                "2": "160xBLAZE_ROD",
+                "3": "320xBLAZE_ROD",
+                "4": "512xBLAZE_ROD",
+                "5": "8xENCHANTED_BLAZE_POWDER",
+                "6": "24xENCHANTED_BLAZE_POWDER",
+                "7": "64xENCHANTED_BLAZE_POWDER",
+                "8": "128xENCHANTED_BLAZE_POWDER",
+                "9": "256xENCHANTED_BLAZE_POWDER",
+                "10": "512xENCHANTED_BLAZE_POWDER",
+                "11": "8xENCHANTED_BLAZE_ROD"
             }
         },
         {
@@ -1252,6 +1733,19 @@
                 "9": 768,
                 "10": 960,
                 "11": 960
+            },
+            "upgrade": {
+                "1": "80xMAGMA_CREAM",
+                "2": "160xMAGMA_CREAM",
+                "3": "320xMAGMA_CREAM",
+                "4": "512xMAGMA_CREAM",
+                "5": "8xENCHANTED_MAGMA_CREAM",
+                "6": "16xENCHANTED_MAGMA_CREAM",
+                "7": "32xENCHANTED_MAGMA_CREAM",
+                "8": "64xENCHANTED_MAGMA_CREAM",
+                "9": "128xENCHANTED_MAGMA_CREAM",
+                "10": "256xENCHANTED_MAGMA_CREAM",
+                "11": "512xENCHANTED_MAGMA_CREAM"
             }
         },
         {
@@ -1285,6 +1779,19 @@
                 "9": 768,
                 "10": 960,
                 "11": 960
+            },
+            "upgrade": {
+                "1": "64xENDER_PEARL",
+                "2": "128xENDER_PEARL",
+                "3": "8xENCHANTED_ENDER_PEARL",
+                "4": "24xENCHANTED_ENDER_PEARL",
+                "5": "48xENCHANTED_ENDER_PEARL",
+                "6": "96xENCHANTED_ENDER_PEARL",
+                "7": "8xENCHANTED_EYE_OF_ENDER",
+                "8": "24xENCHANTED_EYE_OF_ENDER",
+                "9": "48xENCHANTED_EYE_OF_ENDER",
+                "10": "96xENCHANTED_EYE_OF_ENDER",
+                "11": "192xENCHANTED_EYE_OF_ENDER"
             }
         },
         {
@@ -1318,6 +1825,19 @@
                 "9": 768,
                 "10": 960,
                 "11": 960
+            },
+            "upgrade": {
+                "1": "64xGHAST_TEAR",
+                "2": "128xGHAST_TEAR",
+                "3": "256xGHAST_TEAR",
+                "4": "512xGHAST_TEAR",
+                "5": "256xENCHANTED_GHAST_TEAR",
+                "6": "512xENCHANTED_GHAST_TEAR",
+                "7": "800xENCHANTED_GHAST_TEAR",
+                "8": "1600xENCHANTED_GHAST_TEAR",
+                "9": "3200xENCHANTED_GHAST_TEAR",
+                "10": "6400xENCHANTED_GHAST_TEAR",
+                "11": "12800xENCHANTED_GHAST_TEAR"
             }
         },
         {
@@ -1351,6 +1871,19 @@
                 "9": 768,
                 "10": 960,
                 "11": 960
+            },
+            "upgrade": {
+                "1": "80xSLIME_BALL",
+                "2": "160xSLIME_BALL",
+                "3": "320xSLIME_BALL",
+                "4": "512xSLIME_BALL",
+                "5": "8xENCHANTED_SLIME_BALL",
+                "6": "24xENCHANTED_SLIME_BALL",
+                "7": "64xENCHANTED_SLIME_BALL",
+                "8": "128xENCHANTED_SLIME_BALL",
+                "9": "256xENCHANTED_SLIME_BALL",
+                "10": "512xENCHANTED_SLIME_BALL",
+                "11": "8xENCHANTED_SLIME_BLOCK"
             }
         },
         {
@@ -1384,6 +1917,19 @@
                 "9": 768,
                 "10": 960,
                 "11": 960
+            },
+            "upgrade": {
+                "1": "64xRAW_BEEF",
+                "2": "128xRAW_BEEF",
+                "3": "256xRAW_BEEF",
+                "4": "512xRAW_BEEF",
+                "5": "8xENCHANTED_RAW_BEEF",
+                "6": "24xENCHANTED_RAW_BEEF",
+                "7": "64xENCHANTED_RAW_BEEF",
+                "8": "128xENCHANTED_RAW_BEEF",
+                "9": "256xENCHANTED_RAW_BEEF",
+                "10": "512xENCHANTED_RAW_BEEF",
+                "11": "256xENCHANTED_LEATHER"
             }
         },
         {
@@ -1417,6 +1963,19 @@
                 "9": 768,
                 "10": 960,
                 "11": 960
+            },
+            "upgrade": {
+                "1": "64xPORK",
+                "2": "128xPORK",
+                "3": "256xPORK",
+                "4": "512xPORK",
+                "5": "8xENCHANTED_PORK",
+                "6": "24xENCHANTED_PORK",
+                "7": "64xENCHANTED_PORK",
+                "8": "128xENCHANTED_PORK",
+                "9": "256xENCHANTED_PORK",
+                "10": "512xENCHANTED_PORK",
+                "11": "8xENCHANTED_GRILLED_PORK"
             }
         },
         {
@@ -1450,6 +2009,19 @@
                 "9": 768,
                 "10": 960,
                 "11": 960
+            },
+            "upgrade": {
+                "1": "64xRAW_CHICKEN",
+                "2": "128xRAW_CHICKEN",
+                "3": "256xRAW_CHICKEN",
+                "4": "512xRAW_CHICKEN",
+                "5": "8xENCHANTED_RAW_CHICKEN",
+                "6": "16xENCHANTED_RAW_CHICKEN",
+                "7": "32xENCHANTED_RAW_CHICKEN",
+                "8": "64xENCHANTED_RAW_CHICKEN",
+                "9": "128xENCHANTED_RAW_CHICKEN",
+                "10": "256xENCHANTED_RAW_CHICKEN",
+                "11": "512xENCHANTED_RAW_CHICKEN"
             }
         },
         {
@@ -1483,6 +2055,19 @@
                 "9": 768,
                 "10": 960,
                 "11": 960
+            },
+            "upgrade": {
+                "1": "64xMUTTON",
+                "2": "128xMUTTON",
+                "3": "256xMUTTON",
+                "4": "512xMUTTON",
+                "5": "8xENCHANTED_MUTTON",
+                "6": "24xENCHANTED_MUTTON",
+                "7": "64xENCHANTED_MUTTON",
+                "8": "128xENCHANTED_MUTTON",
+                "9": "256xENCHANTED_MUTTON",
+                "10": "512xENCHANTED_MUTTON",
+                "11": "8xENCHANTED_COOKED_MUTTON"
             }
         },
         {
@@ -1516,6 +2101,19 @@
                 "9": 768,
                 "10": 960,
                 "11": 960
+            },
+            "upgrade": {
+                "1": "64xRABBIT",
+                "2": "128xRABBIT",
+                "3": "256xRABBIT",
+                "4": "512xRABBIT",
+                "5": "32xENCHANTED_RABBIT_FOOT",
+                "6": "64xENCHANTED_RABBIT_FOOT",
+                "7": "128xENCHANTED_RABBIT_FOOT",
+                "8": "256xENCHANTED_RABBIT_FOOT",
+                "9": "512xENCHANTED_RABBIT_FOOT",
+                "10": "256xENCHANTED_RABBIT_HIDE",
+                "11": "512xENCHANTED_RABBIT_HIDE"
             }
         },
         {
@@ -1549,6 +2147,19 @@
                 "9": 768,
                 "10": 960,
                 "11": 960
+            },
+            "upgrade": {
+                "1": "80xLOG",
+                "2": "160xLOG",
+                "3": "320xLOG",
+                "4": "512xLOG",
+                "5": "8xENCHANTED_OAK_LOG",
+                "6": "16xENCHANTED_OAK_LOG",
+                "7": "32xENCHANTED_OAK_LOG",
+                "8": "64xENCHANTED_OAK_LOG",
+                "9": "128xENCHANTED_OAK_LOG",
+                "10": "256xENCHANTED_OAK_LOG",
+                "11": "512xENCHANTED_OAK_LOG"
             }
         },
         {
@@ -1582,6 +2193,19 @@
                 "9": 768,
                 "10": 960,
                 "11": 960
+            },
+            "upgrade": {
+                "1": "80xLOG:1",
+                "2": "160xLOG:1",
+                "3": "320xLOG:1",
+                "4": "512xLOG:1",
+                "5": "8xENCHANTED_SPRUCE_LOG",
+                "6": "16xENCHANTED_SPRUCE_LOG",
+                "7": "32xENCHANTED_SPRUCE_LOG",
+                "8": "64xENCHANTED_SPRUCE_LOG",
+                "9": "128xENCHANTED_SPRUCE_LOG",
+                "10": "256xENCHANTED_SPRUCE_LOG",
+                "11": "512xENCHANTED_SPRUCE_LOG"
             }
         },
         {
@@ -1615,6 +2239,19 @@
                 "9": 768,
                 "10": 960,
                 "11": 960
+            },
+            "upgrade": {
+                "1": "80xLOG:2",
+                "2": "160xLOG:2",
+                "3": "320xLOG:2",
+                "4": "512xLOG:2",
+                "5": "8xENCHANTED_BIRCH_LOG",
+                "6": "16xENCHANTED_BIRCH_LOG",
+                "7": "32xENCHANTED_BIRCH_LOG",
+                "8": "64xENCHANTED_BIRCH_LOG",
+                "9": "128xENCHANTED_BIRCH_LOG",
+                "10": "256xENCHANTED_BIRCH_LOG",
+                "11": "512xENCHANTED_BIRCH_LOG"
             }
         },
         {
@@ -1648,6 +2285,19 @@
                 "9": 768,
                 "10": 960,
                 "11": 960
+            },
+            "upgrade": {
+                "1": "80xLOG_2:1",
+                "2": "160xLOG_2:1",
+                "3": "320xLOG_2:1",
+                "4": "512xLOG_2:1",
+                "5": "8xENCHANTED_DARK_OAK_LOG",
+                "6": "16xENCHANTED_DARK_OAK_LOG",
+                "7": "32xENCHANTED_DARK_OAK_LOG",
+                "8": "64xENCHANTED_DARK_OAK_LOG",
+                "9": "128xENCHANTED_DARK_OAK_LOG",
+                "10": "256xENCHANTED_DARK_OAK_LOG",
+                "11": "512xENCHANTED_DARK_OAK_LOG"
             }
         },
         {
@@ -1681,6 +2331,19 @@
                 "9": 768,
                 "10": 960,
                 "11": 960
+            },
+            "upgrade": {
+                "1": "80xLOG_2",
+                "2": "160xLOG_2",
+                "3": "320xLOG_2",
+                "4": "512xLOG_2",
+                "5": "8xENCHANTED_ACACIA_LOG",
+                "6": "16xENCHANTED_ACACIA_LOG",
+                "7": "32xENCHANTED_ACACIA_LOG",
+                "8": "64xENCHANTED_ACACIA_LOG",
+                "9": "128xENCHANTED_ACACIA_LOG",
+                "10": "256xENCHANTED_ACACIA_LOG",
+                "11": "512xENCHANTED_ACACIA_LOG"
             }
         },
         {
@@ -1714,6 +2377,19 @@
                 "9": 768,
                 "10": 960,
                 "11": 960
+            },
+            "upgrade": {
+                "1": "80xLOG:3",
+                "2": "160xLOG:3",
+                "3": "320xLOG:3",
+                "4": "512xLOG:3",
+                "5": "8xENCHANTED_JUNGLE_LOG",
+                "6": "16xENCHANTED_JUNGLE_LOG",
+                "7": "32xENCHANTED_JUNGLE_LOG",
+                "8": "64xENCHANTED_JUNGLE_LOG",
+                "9": "128xENCHANTED_JUNGLE_LOG",
+                "10": "256xENCHANTED_JUNGLE_LOG",
+                "11": "512xENCHANTED_JUNGLE_LOG"
             }
         }
     ]
