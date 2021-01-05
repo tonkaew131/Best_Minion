@@ -863,9 +863,9 @@
             "upgrade": {
                 "1": "256xMELON",
                 "2": "512xMELON",
-                "3": "128xMELON_BLOCK",
-                "4": "256xMELON_BLOCK",
-                "5": "512xMELON_BLOCK",
+                "3": "1152xMELON",
+                "4": "2304xMELON",
+                "5": "4608xMELON",
                 "6": "64xENCHANTED_MELON",
                 "7": "128xENCHANTED_MELON",
                 "8": "256xENCHANTED_MELON",
