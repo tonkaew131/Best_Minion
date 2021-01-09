@@ -1413,7 +1413,7 @@
                 "11": 960
             },
             "upgrade": {
-                "1": "80xREVENANT_FLESH",
+                "1": "80xREVENANT_FLESH&256xENCHANTED_DIAMOND&256xENCHANTED_ROTTEN_FLESH",
                 "2": "140xREVENANT_FLESH&80xROTTEN_FLESH",
                 "3": "280xREVENANT_FLESH&160xROTTEN_FLESH",
                 "4": "448xREVENANT_FLESH&320xROTTEN_FLESH",
