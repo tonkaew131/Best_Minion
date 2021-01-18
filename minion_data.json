@@ -814,17 +814,17 @@
                 "11": 960
             },
             "upgrade": {
-                "1": "80xWHEAT",
-                "2": "160xWHEAT",
-                "3": "320xWHEAT",
-                "4": "512xWHEAT",
-                "5": "96xHAY_BLOCK",
-                "6": "192xHAY_BLOCK",
-                "7": "384xHAY_BLOCK",
-                "8": "512xHAY_BLOCK",
-                "9": "8xENCHANTED_HAY_BLOCK",
-                "10": "16xENCHANTED_HAY_BLOCK",
-                "11": "32xENCHANTED_HAY_BLOCK"
+                "1": "80xMITHRIL_ORE",
+                "2": "160xMITHRIL_ORE",
+                "3": "320xMITHRIL_ORE",
+                "4": "512xMITHRIL_ORE",
+                "5": "1280xMITHRIL_ORE",
+                "6": "3840xMITHRIL_ORE",
+                "7": "10240xMITHRIL_ORE",
+                "8": "20480xMITHRIL_ORE",
+                "9": "40960xMITHRIL_ORE",
+                "10": "81920xMITHRIL_ORE",
+                "11": "8xREFINED_MITHRIL"
             }
         },
         {
