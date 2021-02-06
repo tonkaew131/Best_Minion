@@ -33,7 +33,7 @@
                 "11": 960
             },
             "upgrade": {
-                "1": "80xCOBBLESTONE",
+                "1": "80xCOBBLESTONE&1xWOODEN_PICKAXE",
                 "2": "160xCOBBLESTONE",
                 "3": "320xCOBBLESTONE",
                 "4": "512xCOBBLESTONE",
@@ -79,7 +79,7 @@
                 "11": 960
             },
             "upgrade": {
-                "1": "80xOBSIDIAN",
+                "1": "80xOBSIDIAN&1xWOODEN_PICKAXE",
                 "2": "160xOBSIDIAN",
                 "3": "320xOBSIDIAN",
                 "4": "512xOBSIDIAN",
@@ -125,7 +125,7 @@
                 "11": 960
             },
             "upgrade": {
-                "1": "128xGLOWSTONE_DUST",
+                "1": "128xGLOWSTONE_DUST&1xWOODEN_PICKAXE",
                 "2": "256xGLOWSTONE_DUST",
                 "3": "512xGLOWSTONE_DUST",
                 "4": "8xENCHANTED_GLOWSTONE_DUST",
@@ -171,7 +171,7 @@
                 "11": 960
             },
             "upgrade": {
-                "1": "80xGRAVEL",
+                "1": "80xGRAVEL&1xWOODEN_SHOVEL",
                 "2": "160xGRAVEL",
                 "3": "320xGRAVEL",
                 "4": "512xGRAVEL",
@@ -217,7 +217,7 @@
                 "11": 960
             },
             "upgrade": {
-                "1": "80xSAND",
+                "1": "80xSAND&1xWOODEN_SHOVEL",
                 "2": "160xSAND",
                 "3": "320xSAND",
                 "4": "512xSAND",
@@ -263,7 +263,7 @@
                 "11": 960
             },
             "upgrade": {
-                "1": "80xCLAY_BALL",
+                "1": "80xCLAY_BALL&1xWOODEN_PICKAXE",
                 "2": "160xCLAY_BALL",
                 "3": "320xCLAY_BALL",
                 "4": "512xCLAY_BALL",
@@ -309,7 +309,7 @@
                 "11": 960
             },
             "upgrade": {
-                "1": "80xICE",
+                "1": "80xICE&1xWOODEN_PICKAXE",
                 "2": "160xICE",
                 "3": "320xICE",
                 "4": "512xICE",
@@ -401,7 +401,7 @@
                 "11": 960
             },
             "upgrade": {
-                "1": "80xCOAL",
+                "1": "80xCOAL&1xWOODEN_PICKAXE",
                 "2": "160xCOAL",
                 "3": "320xCOAL",
                 "4": "512xCOAL",
@@ -447,7 +447,7 @@
                 "11": 960
             },
             "upgrade": {
-                "1": "80xIRON_INGOT",
+                "1": "80xIRON_INGOT&1xWOODEN_PICKAXE",
                 "2": "160xIRON_INGOT",
                 "3": "320xIRON_INGOT",
                 "4": "512xIRON_INGOT",
@@ -493,7 +493,7 @@
                 "11": 960
             },
             "upgrade": {
-                "1": "80xGOLD_INGOT",
+                "1": "80xGOLD_INGOT&1xWOODEN_PICKAXE",
                 "2": "160xGOLD_INGOT",
                 "3": "320xGOLD_INGOT",
                 "4": "512xGOLD_INGOT",
@@ -539,7 +539,7 @@
                 "11": 960
             },
             "upgrade": {
-                "1": "80xDIAMOND",
+                "1": "80xDIAMOND&1xWOODEN_PICKAXE",
                 "2": "160xDIAMOND",
                 "3": "320xDIAMOND",
                 "4": "512xDIAMOND",
@@ -585,7 +585,7 @@
                 "11": 960
             },
             "upgrade": {
-                "1": "256xINK_SACK:4",
+                "1": "256xINK_SACK:4&1xWOODEN_PICKAXE",
                 "2": "512xINK_SACK:4",
                 "3": "8xENCHANTED_LAPIS_LAZULI",
                 "4": "24xENCHANTED_LAPIS_LAZULI",
@@ -631,7 +631,7 @@
                 "11": 960
             },
             "upgrade": {
-                "1": "128xREDSTONE",
+                "1": "128xREDSTONE&1xWOODEN_PICKAXE",
                 "2": "256xREDSTONE",
                 "3": "512xREDSTONE",
                 "4": "8xENCHANTED_REDSTONE",
@@ -677,7 +677,7 @@
                 "11": 960
             },
             "upgrade": {
-                "1": "80xEMERALD",
+                "1": "80xEMERALD&1xWOODEN_PICKAXE",
                 "2": "160xEMERALD",
                 "3": "320xEMERALD",
                 "4": "512xEMERALD",
@@ -723,7 +723,7 @@
                 "11": 960
             },
             "upgrade": {
-                "1": "80xQUARTZ",
+                "1": "80xQUARTZ&1xWOODEN_PICKAXE",
                 "2": "160xQUARTZ",
                 "3": "320xQUARTZ",
                 "4": "512xQUARTZ",
@@ -769,7 +769,7 @@
                 "11": 960
             },
             "upgrade": {
-                "1": "80xENDER_STONE",
+                "1": "80xENDER_STONE&1xWOODEN_PICKAXE",
                 "2": "160xENDER_STONE",
                 "3": "320xENDER_STONE",
                 "4": "512xENDER_STONE",
@@ -814,7 +814,7 @@
                 "11": 960
             },
             "upgrade": {
-                "1": "80xMITHRIL_ORE",
+                "1": "80xMITHRIL_ORE&1xWOODEN_PICKAXE",
                 "2": "160xMITHRIL_ORE",
                 "3": "320xMITHRIL_ORE",
                 "4": "512xMITHRIL_ORE",
@@ -860,7 +860,7 @@
                 "11": 960
             },
             "upgrade": {
-                "1": "80xWHEAT",
+                "1": "80xWHEAT&1xWOODEN_HOE",
                 "2": "160xWHEAT",
                 "3": "320xWHEAT",
                 "4": "512xWHEAT",
@@ -906,7 +906,7 @@
                 "11": 960
             },
             "upgrade": {
-                "1": "256xMELON",
+                "1": "256xMELON&1xWOODEN_HOE",
                 "2": "512xMELON",
                 "3": "1152xMELON",
                 "4": "2304xMELON",
@@ -952,7 +952,7 @@
                 "11": 960
             },
             "upgrade": {
-                "1": "80xPUMPKIN",
+                "1": "80xPUMPKIN&1xWOODEN_HOE",
                 "2": "160xPUMPKIN",
                 "3": "320xPUMPKIN",
                 "4": "512xPUMPKIN",
@@ -998,7 +998,7 @@
                 "11": 960
             },
             "upgrade": {
-                "1": "128xCARROT_ITEM",
+                "1": "128xCARROT_ITEM&1xWOODEN_HOE",
                 "2": "256xCARROT_ITEM",
                 "3": "512xCARROT_ITEM",
                 "4": "8xENCHANTED_CARROT",
@@ -1044,7 +1044,7 @@
                 "11": 960
             },
             "upgrade": {
-                "1": "128xPOTATO_ITEM",
+                "1": "128xPOTATO_ITEM&1xWOODEN_HOE",
                 "2": "256xPOTATO_ITEM",
                 "3": "512xPOTATO_ITEM",
                 "4": "8xENCHANTED_POTATO",
@@ -1090,7 +1090,7 @@
                 "11": 960
             },
             "upgrade": {
-                "1": "80xRED_MUSHROOM",
+                "1": "80xRED_MUSHROOM&1xWOODEN_HOE",
                 "2": "160xRED_MUSHROOM",
                 "3": "320xRED_MUSHROOM",
                 "4": "512xRED_MUSHROOM",
@@ -1136,7 +1136,7 @@
                 "11": 960
             },
             "upgrade": {
-                "1": "128xCACTUS",
+                "1": "128xCACTUS&1xWOODEN_HOE",
                 "2": "256xCACTUS",
                 "3": "512xCACTUS",
                 "4": "8xENCHANTED_CACTUS_GREEN",
@@ -1182,7 +1182,7 @@
                 "11": 960
             },
             "upgrade": {
-                "1": "80xINK_SACK:3",
+                "1": "80xINK_SACK:3&1xWOODEN_HOE",
                 "2": "160xINK_SACK:3",
                 "3": "320xINK_SACK:3",
                 "4": "512xINK_SACK:3",
@@ -1228,7 +1228,7 @@
                 "11": 960
             },
             "upgrade": {
-                "1": "128xSUGAR_CANE",
+                "1": "128xSUGAR_CANE&1xWOODEN_HOE",
                 "2": "256xSUGAR_CANE",
                 "3": "512xSUGAR_CANE",
                 "4": "8xENCHANTED_SUGAR",
@@ -1274,7 +1274,7 @@
                 "11": 960
             },
             "upgrade": {
-                "1": "80xNETHER_STALK",
+                "1": "80xNETHER_STALK&1xWOODEN_PICKAXE",
                 "2": "160xNETHER_STALK",
                 "3": "320xNETHER_STALK",
                 "4": "512xNETHER_STALK",
@@ -1366,7 +1366,7 @@
                 "11": 960
             },
             "upgrade": {
-                "1": "64xRAW_FISH",
+                "1": "64xRAW_FISH&1xWOODEN_SWORD",
                 "2": "128xRAW_FISH",
                 "3": "256xRAW_FISH",
                 "4": "512xRAW_FISH",
@@ -1412,7 +1412,7 @@
                 "11": 960
             },
             "upgrade": {
-                "1": "80xROTTEN_FLESH",
+                "1": "80xROTTEN_FLESH&1xWOODEN_SWORD",
                 "2": "160xROTTEN_FLESH",
                 "3": "320xROTTEN_FLESH",
                 "4": "512xROTTEN_FLESH",
@@ -1458,7 +1458,7 @@
                 "11": 960
             },
             "upgrade": {
-                "1": "80xREVENANT_FLESH&256xENCHANTED_DIAMOND&256xENCHANTED_ROTTEN_FLESH",
+                "1": "80xREVENANT_FLESH&256xENCHANTED_DIAMOND&256xENCHANTED_ROTTEN_FLESH&1xCRYSTALLIZED_HEART",
                 "2": "140xREVENANT_FLESH&80xROTTEN_FLESH",
                 "3": "280xREVENANT_FLESH&160xROTTEN_FLESH",
                 "4": "448xREVENANT_FLESH&320xROTTEN_FLESH",
@@ -1504,7 +1504,7 @@
                 "11": 960
             },
             "upgrade": {
-                "1": "80xBONE",
+                "1": "80xBONE&1xWOODEN_SWORD",
                 "2": "160xBONE",
                 "3": "320xBONE",
                 "4": "512xBONE",
@@ -1550,7 +1550,7 @@
                 "11": 960
             },
             "upgrade": {
-                "1": "80xSULPHUR",
+                "1": "80xSULPHUR&1xWOODEN_SWORD",
                 "2": "160xSULPHUR",
                 "3": "320xSULPHUR",
                 "4": "512xSULPHUR",
@@ -1596,7 +1596,7 @@
                 "11": 960
             },
             "upgrade": {
-                "1": "80xSTRING",
+                "1": "80xSTRING&1xWOODEN_SWORD",
                 "2": "160xSTRING",
                 "3": "320xSTRING",
                 "4": "512xSTRING",
@@ -1688,7 +1688,7 @@
                 "11": 960
             },
             "upgrade": {
-                "1": "80xSPIDER_EYE",
+                "1": "80xSPIDER_EYE&1xWOODEN_SWORD",
                 "2": "160xSPIDER_EYE",
                 "3": "320xSPIDER_EYE",
                 "4": "512xSPIDER_EYE",
@@ -1734,7 +1734,7 @@
                 "11": 960
             },
             "upgrade": {
-                "1": "80xBLAZE_ROD",
+                "1": "80xBLAZE_ROD&1xWOODEN_SWORD",
                 "2": "160xBLAZE_ROD",
                 "3": "320xBLAZE_ROD",
                 "4": "512xBLAZE_ROD",
@@ -1780,7 +1780,7 @@
                 "11": 960
             },
             "upgrade": {
-                "1": "80xMAGMA_CREAM",
+                "1": "80xMAGMA_CREAM&1xWOODEN_SWORD",
                 "2": "160xMAGMA_CREAM",
                 "3": "320xMAGMA_CREAM",
                 "4": "512xMAGMA_CREAM",
@@ -1826,7 +1826,7 @@
                 "11": 960
             },
             "upgrade": {
-                "1": "64xENDER_PEARL",
+                "1": "64xENDER_PEARL&1xWOODEN_SWORD",
                 "2": "128xENDER_PEARL",
                 "3": "8xENCHANTED_ENDER_PEARL",
                 "4": "24xENCHANTED_ENDER_PEARL",
@@ -1872,7 +1872,7 @@
                 "11": 960
             },
             "upgrade": {
-                "1": "64xGHAST_TEAR",
+                "1": "64xGHAST_TEAR&1xWOODEN_SWORD",
                 "2": "128xGHAST_TEAR",
                 "3": "256xGHAST_TEAR",
                 "4": "512xGHAST_TEAR",
@@ -1918,7 +1918,7 @@
                 "11": 960
             },
             "upgrade": {
-                "1": "80xSLIME_BALL",
+                "1": "80xSLIME_BALL&1xWOODEN_SWORD",
                 "2": "160xSLIME_BALL",
                 "3": "320xSLIME_BALL",
                 "4": "512xSLIME_BALL",
@@ -1964,7 +1964,7 @@
                 "11": 960
             },
             "upgrade": {
-                "1": "64xRAW_BEEF",
+                "1": "64xRAW_BEEF&1xWOODEN_SWORD",
                 "2": "128xRAW_BEEF",
                 "3": "256xRAW_BEEF",
                 "4": "512xRAW_BEEF",
@@ -2010,7 +2010,7 @@
                 "11": 960
             },
             "upgrade": {
-                "1": "64xPORK",
+                "1": "64xPORK&1xWOODEN_SWORD",
                 "2": "128xPORK",
                 "3": "256xPORK",
                 "4": "512xPORK",
@@ -2056,7 +2056,7 @@
                 "11": 960
             },
             "upgrade": {
-                "1": "64xRAW_CHICKEN",
+                "1": "64xRAW_CHICKEN&1xWOODEN_SWORD",
                 "2": "128xRAW_CHICKEN",
                 "3": "256xRAW_CHICKEN",
                 "4": "512xRAW_CHICKEN",
@@ -2102,7 +2102,7 @@
                 "11": 960
             },
             "upgrade": {
-                "1": "64xMUTTON",
+                "1": "64xMUTTON&1xWOODEN_SWORD",
                 "2": "128xMUTTON",
                 "3": "256xMUTTON",
                 "4": "512xMUTTON",
@@ -2148,7 +2148,7 @@
                 "11": 960
             },
             "upgrade": {
-                "1": "64xRABBIT",
+                "1": "64xRABBIT&1xWOODEN_SWORD",
                 "2": "128xRABBIT",
                 "3": "256xRABBIT",
                 "4": "512xRABBIT",
@@ -2194,7 +2194,7 @@
                 "11": 960
             },
             "upgrade": {
-                "1": "80xLOG",
+                "1": "80xLOG&1xWOODEN_AXE",
                 "2": "160xLOG",
                 "3": "320xLOG",
                 "4": "512xLOG",
@@ -2240,7 +2240,7 @@
                 "11": 960
             },
             "upgrade": {
-                "1": "80xLOG:1",
+                "1": "80xLOG:1&1xWOODEN_AXE",
                 "2": "160xLOG:1",
                 "3": "320xLOG:1",
                 "4": "512xLOG:1",
@@ -2286,7 +2286,7 @@
                 "11": 960
             },
             "upgrade": {
-                "1": "80xLOG:2",
+                "1": "80xLOG:2&1xWOODEN_AXE",
                 "2": "160xLOG:2",
                 "3": "320xLOG:2",
                 "4": "512xLOG:2",
@@ -2332,7 +2332,7 @@
                 "11": 960
             },
             "upgrade": {
-                "1": "80xLOG_2:1",
+                "1": "80xLOG_2:1&1xWOODEN_AXE",
                 "2": "160xLOG_2:1",
                 "3": "320xLOG_2:1",
                 "4": "512xLOG_2:1",
@@ -2378,7 +2378,7 @@
                 "11": 960
             },
             "upgrade": {
-                "1": "80xLOG_2",
+                "1": "80xLOG_2&1xWOODEN_AXE",
                 "2": "160xLOG_2",
                 "3": "320xLOG_2",
                 "4": "512xLOG_2",
@@ -2424,7 +2424,7 @@
                 "11": 960
             },
             "upgrade": {
-                "1": "80xLOG:3",
+                "1": "80xLOG:3&1xWOODEN_AXE",
                 "2": "160xLOG:3",
                 "3": "320xLOG:3",
                 "4": "512xLOG:3",
