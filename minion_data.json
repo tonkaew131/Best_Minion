@@ -847,12 +847,12 @@
                 "2": "160xMITHRIL_ORE",
                 "3": "320xMITHRIL_ORE",
                 "4": "512xMITHRIL_ORE",
-                "5": "1280xMITHRIL_ORE",
-                "6": "3840xMITHRIL_ORE",
-                "7": "10240xMITHRIL_ORE",
-                "8": "20480xMITHRIL_ORE",
-                "9": "40960xMITHRIL_ORE",
-                "10": "81920xMITHRIL_ORE",
+                "5": "8xENCHANTED_MITHRIL",
+                "6": "24xENCHANTED_MITHRIL",
+                "7": "64xENCHANTED_MITHRIL",
+                "8": "128xENCHANTED_MITHRIL",
+                "9": "256xENCHANTED_MITHRIL",
+                "10": "512xENCHANTED_MITHRIL",
                 "11": "8xREFINED_MITHRIL",
                 "12": "16xREFINED_MITHRIL&2000000C"
             }
@@ -1472,7 +1472,8 @@
                 "8": 19,
                 "9": 14.5,
                 "10": 14.5,
-                "11": 10
+                "11": 10,
+                "12": 10
             },
             "storage": {
                 "1": 64,
@@ -1485,7 +1486,8 @@
                 "8": 768,
                 "9": 768,
                 "10": 960,
-                "11": 960
+                "11": 960,
+                "12": 960
             },
             "upgrade": {
                 "1": "80xREVENANT_FLESH&256xENCHANTED_DIAMOND&256xENCHANTED_ROTTEN_FLESH",
@@ -1498,7 +1500,8 @@
                 "8": "56xREVENANT_VISCERA&32xENCHANTED_ROTTEN_FLESH",
                 "9": "112xREVENANT_VISCERA&64xENCHANTED_ROTTEN_FLESH",
                 "10": "224xREVENANT_VISCERA&128xENCHANTED_ROTTEN_FLESH",
-                "11": "448xREVENANT_VISCERA&256xENCHANTED_ROTTEN_FLESH"
+                "11": "448xREVENANT_VISCERA&256xENCHANTED_ROTTEN_FLESH",
+                "12": "64xREVENANT_VISCERA&2000000C"
             }
         },
         {
