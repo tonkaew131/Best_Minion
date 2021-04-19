@@ -2,6 +2,7 @@
     "minions": [
         {
             "name": "Cobblestone Minion",
+            "type": "MINING",
             "items_per_action": [1],
             "items": ["COBBLESTONE"],
             "npc_val": [1],
@@ -51,6 +52,7 @@
         },
         {
             "name": "Obsidian Minion",
+            "type": "MINING",
             "items_per_action": [1],
             "items": ["OBSIDIAN"],
             "npc_val": [12],
@@ -100,6 +102,7 @@
         },
         {
             "name": "Glowstone Minion",
+            "type": "MINING",
             "items_per_action": [1.54],
             "items": ["GLOWSTONE_DUST"],
             "npc_val": [2],
@@ -146,6 +149,7 @@
         },
         {
             "name": "Gravel Minion",
+            "type": "MINING",
             "items_per_action": [1],
             "items": ["FLINT"],
             "npc_val": [4],
@@ -192,6 +196,7 @@
         },
         {
             "name": "Sand Minion",
+            "type": "MINING",
             "items_per_action": [1],
             "items": ["SAND"],
             "npc_val": [2],
@@ -238,6 +243,7 @@
         },
         {
             "name": "Clay Minion",
+            "type": "FISHING",
             "items_per_action": [4],
             "items": ["CLAY_BALL"],
             "npc_val": [3],
@@ -284,6 +290,7 @@
         },
         {
             "name": "Ice Minion",
+            "type": "MINING",
             "items_per_action": [1],
             "items": ["ICE"],
             "npc_val": [0.5],
@@ -330,6 +337,7 @@
         },
         {
             "name": "Snow Minion",
+            "type": "MINING",
             "items_per_action": [4],
             "items": ["SNOW_BALL"],
             "npc_val": [1],
@@ -376,6 +384,7 @@
         },
         {
             "name": "Coal Minion",
+            "type": "MINING",
             "items_per_action": [1],
             "items": ["COAL"],
             "npc_val": [2],
@@ -425,6 +434,7 @@
         },
         {
             "name": "Iron Minion",
+            "type": "MINING",
             "items_per_action": [1],
             "items": ["IRON_INGOT"],
             "npc_val": [3],
@@ -474,6 +484,7 @@
         },
         {
             "name": "Gold Minion",
+            "type": "MINING",
             "items_per_action": [1],
             "items": ["GOLD_INGOT"],
             "npc_val": [4],
@@ -523,6 +534,7 @@
         },
         {
             "name": "Diamond Minion",
+            "type": "MINING",
             "items_per_action": [1],
             "items": ["DIAMOND"],
             "npc_val": [8],
@@ -572,6 +584,7 @@
         },
         {
             "name": "Lapis Minion",
+            "type": "MINING",
             "items_per_action": [6],
             "items": ["INK_SACK:4"],
             "npc_val": [1],
@@ -621,6 +634,7 @@
         },
         {
             "name": "Redstone Minion",
+            "type": "MINING",
             "items_per_action": [4.5],
             "items": ["REDSTONE"],
             "npc_val": [1],
@@ -670,6 +684,7 @@
         },
         {
             "name": "Emerald Minion",
+            "type": "MINING",
             "items_per_action": [1],
             "items": ["EMERALD"],
             "npc_val": [6],
@@ -719,6 +734,7 @@
         },
         {
             "name": "Quartz Minion",
+            "type": "MINING",
             "items_per_action": [1],
             "items": ["QUARTZ"],
             "npc_val": [4],
@@ -765,6 +781,7 @@
         },
         {
             "name": "End Stone Minion",
+            "type": "MINING",
             "items_per_action": [1],
             "items": ["ENDER_STONE"],
             "npc_val": [2],
@@ -810,6 +827,7 @@
             }
         },{
             "name": "Mithril Minion",
+            "type": "MINING",
             "items_per_action": [2],
             "items": ["MITHRIL_ORE"],
             "npc_val": [10],
@@ -859,6 +877,7 @@
         },
         {
             "name": "Wheat Minion",
+            "type": "FARMING",
             "items_per_action": [1, 1],
             "items": ["WHEAT", "SEEDS"],
             "npc_val": [1, 0.5],
@@ -905,6 +924,7 @@
         },
         {
             "name": "Melon Minion",
+            "type": "FARMING",
             "items_per_action": [6],
             "items": ["MELON"],
             "npc_val": [1],
@@ -951,6 +971,7 @@
         },
         {
             "name": "Pumpkin Minion",
+            "type": "FARMING",
             "items_per_action": [1],
             "items": ["PUMPKIN"],
             "npc_val": [4],
@@ -997,6 +1018,7 @@
         },
         {
             "name": "Carrot Minion",
+            "type": "FARMING",
             "items_per_action": [3],
             "items": ["CARROT_ITEM"],
             "npc_val": [1],
@@ -1043,6 +1065,7 @@
         },
         {
             "name": "Potato Minion",
+            "type": "FARMING",
             "items_per_action": [3],
             "items": ["POTATO_ITEM"],
             "npc_val": [1],
@@ -1089,6 +1112,7 @@
         },
         {
             "name": "Mushroom Minion",
+            "type": "",
             "items_per_action": [0.5, 0.5],
             "items": ["RED_MUSHROOM", "BROWN_MUSHROOM"],
             "npc_val": [4, 4],
@@ -1135,6 +1159,7 @@
         },
         {
             "name": "Cactus Minion",
+            "type": "",
             "items_per_action": [1],
             "items": ["CACTUS"],
             "npc_val": [1],
@@ -1181,6 +1206,7 @@
         },
         {
             "name": "Cocoa Beans Minion",
+            "type": "FARMING",
             "items_per_action": [3],
             "items": ["INK_SACK:3"],
             "npc_val": [3],
@@ -1227,6 +1253,7 @@
         },
         {
             "name": "Sugar Cane Minion",
+            "type": "FARMING",
             "items_per_action": [1],
             "items": ["SUGAR_CANE"],
             "npc_val": [2],
@@ -1273,6 +1300,7 @@
         },
         {
             "name": "Nether Wart Minion",
+            "type": "",
             "items_per_action": [1],
             "items": ["NETHER_STALK"],
             "npc_val": [3],
@@ -1319,6 +1347,7 @@
         },
         {
             "name": "Flower Minion",
+            "type": "",
             "items_per_action": [0.8, 0.2],
             "items": ["SMALL_FLOWER", "TALL_FLOWER"],
             "npc_val": [1, 2],
@@ -1365,6 +1394,7 @@
         },
         {
             "name": "Fishing Minion",
+            "type": "FISHING",
             "items_per_action": [0.5, 0.25, 0.12, 0.04, 0.03, 0.03, 0.03],
             "items": ["RAW_FISH", "RAW_FISH:1", "RAW_FISH:3", "RAW_FISH:2", "PRISMARINE_CRYSTALS", "PRISMARINE_SHARD", "SPONGE"],
             "npc_val": [6, 10, 15, 20, 5, 5, 50],
@@ -1411,6 +1441,7 @@
         },
         {
             "name": "Zombie Minion",
+            "type": "COMBAT",
             "items_per_action": [1],
             "items": ["ROTTEN_FLESH"],
             "npc_val": [2],
@@ -1457,6 +1488,7 @@
         },
         {
             "name": "Revenant Minion",
+            "type": "COMBAT",
             "items_per_action": [3, 0.2],
             "items": ["ROTTEN_FLESH", "DIAMOND"],
             "npc_val": [2, 8],
@@ -1506,6 +1538,7 @@
         },
         {
             "name": "Skeleton Minion",
+            "type": "COMBAT",
             "items_per_action": [1],
             "items": ["BONE"],
             "npc_val": [2],
@@ -1552,6 +1585,7 @@
         },
         {
             "name": "Creeper Minion",
+            "type": "COMBAT",
             "items_per_action": [1],
             "items": ["SULPHUR"],
             "npc_val": [4],
@@ -1598,6 +1632,7 @@
         },
         {
             "name": "Spider Minion",
+            "type": "COMBAT",
             "items_per_action": [1, 0.5],
             "items": ["STRING", "SPIDER_EYE"],
             "npc_val": [3, 3],
@@ -1644,6 +1679,7 @@
         },
         {
             "name": "Tarantula Minion",
+            "type": "COMBAT",
             "items_per_action": [3.16, 1, 0.2],
             "items": ["STRING", "SPIDER_EYE", "IRON_INGOT"],
             "npc_val": [3, 3, 3],
@@ -1690,6 +1726,7 @@
         },
         {
             "name": "Cave Spider Minion",
+            "type": "COMBAT",
             "items_per_action": [0.5, 1],
             "items": ["STRING", "SPIDER_EYE"],
             "npc_val": [3, 3],
@@ -1736,6 +1773,7 @@
         },
         {
             "name": "Blaze Minion",
+            "type": "COMBAT",
             "items_per_action": [1],
             "items": ["BLAZE_ROD"],
             "npc_val": [9],
@@ -1782,6 +1820,7 @@
         },
         {
             "name": "Magma Cube Minion",
+            "type": "COMBAT",
             "items_per_action": [1.8],
             "items": ["MAGMA_CREAM"],
             "npc_val": [8],
@@ -1828,6 +1867,7 @@
         },
         {
             "name": "Enderman Minion",
+            "type": "COMBAT",
             "items_per_action": [1],
             "items": ["ENDER_PEARL"],
             "npc_val": [10],
@@ -1874,6 +1914,7 @@
         },
         {
             "name": "Ghast Minion",
+            "type": "COMBAT",
             "items_per_action": [1],
             "items": ["GHAST_TEAR"],
             "npc_val": [16],
@@ -1920,6 +1961,7 @@
         },
         {
             "name": "Slime Minion",
+            "type": "COMBAT",
             "items_per_action": [1.8],
             "items": ["SLIME_BALL"],
             "npc_val": [5],
@@ -1966,6 +2008,7 @@
         },
         {
             "name": "Cow Minion",
+            "type": "",
             "items_per_action": [1, 1],
             "items": ["RAW_BEEF", "LEATHER"],
             "npc_val": [4, 3],
@@ -2012,6 +2055,7 @@
         },
         {
             "name": "Pig Minion",
+            "type": "",
             "items_per_action": [1],
             "items": ["PORK"],
             "npc_val": [5],
@@ -2058,6 +2102,7 @@
         },
         {
             "name": "Chicken Minion",
+            "type": "",
             "items_per_action": [1, 1],
             "items": ["RAW_CHICKEN", "FEATHER"], 
             "npc_val": [4, 3], 
@@ -2104,6 +2149,7 @@
         },
         {
             "name": "Sheep Minion",
+            "type": "",
             "items_per_action": [1, 1],
             "items": ["MUTTON", "WOOL"],
             "npc_val": [5, 2], 
@@ -2150,6 +2196,7 @@
         },
         {
             "name": "Rabbit Minion",
+            "type": "",
             "items_per_action": [1, 0.35, 0.35],
             "items": ["RABBIT", "RABBIT_FOOT", "RABBIT_HIDE"],
             "npc_val": [4, 5, 5], 
@@ -2196,6 +2243,7 @@
         },
         {
             "name": "Oak Minion",
+            "type": "FORAGING",
             "items_per_action": [4],
             "items": ["LOG"],
             "npc_val": [2], 
@@ -2242,6 +2290,7 @@
         },
         {
             "name": "Spruce Minion",
+            "type": "FORAGING",
             "items_per_action": [4],
             "items": ["LOG:1"],
             "npc_val": [2], 
@@ -2288,6 +2337,7 @@
         },
         {
             "name": "Birch Minion",
+            "type": "FORAGING",
             "items_per_action": [4],
             "items": ["LOG:2"],
             "npc_val": [2], 
@@ -2334,6 +2384,7 @@
         },
         {
             "name": "Dark Oak Minion",
+            "type": "FORAGING",
             "items_per_action": [4],
             "items": ["LOG_2:1"],
             "npc_val": [2], 
@@ -2380,6 +2431,7 @@
         },
         {
             "name": "Acacia Minion",
+            "type": "FORAGING",
             "items_per_action": [4],
             "items": ["LOG_2"],
             "npc_val": [2], 
@@ -2426,6 +2478,7 @@
         },
         {
             "name": "Jungle Minion",
+            "type": "FORAGING",
             "items_per_action": [4],
             "items": ["LOG:3"],
             "npc_val": [2], 
