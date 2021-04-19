@@ -1159,7 +1159,7 @@
         },
         {
             "name": "Cactus Minion",
-            "type": "",
+            "type": "FARMING",
             "items_per_action": [1],
             "items": ["CACTUS"],
             "npc_val": [1],
@@ -1300,7 +1300,7 @@
         },
         {
             "name": "Nether Wart Minion",
-            "type": "",
+            "type": "FARMING",
             "items_per_action": [1],
             "items": ["NETHER_STALK"],
             "npc_val": [3],
