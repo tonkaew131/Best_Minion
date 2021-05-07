@@ -9,5 +9,6 @@ Using for [BestMinion discord bot](https://hypixel.net/threads/discord-bot-bestm
   * **diamond** - if minion use Auto Smelter, it will be false (remove soon). 
   * **tier** - second between action (not item).
   * **upgrade** - 25600C, C is coins.
+  * **exp** - Exp per 1 item.
 * **item_data_sc3000.json**
 * **item_data_comp.json**
