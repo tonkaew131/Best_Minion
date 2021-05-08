@@ -7,7 +7,7 @@
                 {
                     "name": "COBBLESTONE",
                     "npc_price": 1,
-                    "items_per_actions": 1,
+                    "amount_per_actions": 1,
                     "exp_per_item": {
                         "type": "",
                         "amount": 0
@@ -152,7 +152,7 @@
                 {
                     "name": "OBSIDIAN",
                     "npc_price": 12,
-                    "items_per_actions": 1,
+                    "amount_per_actions": 1,
                     "exp_per_item": {
                         "type": "",
                         "amount": 0
@@ -297,7 +297,7 @@
                 {
                     "name": "GLOWSTONE_DUST",
                     "npc_price": 2,
-                    "items_per_actions": 1.54,
+                    "amount_per_actions": 1.54,
                     "exp_per_item": {
                         "type": "",
                         "amount": 0
@@ -428,7 +428,7 @@
                 {
                     "name": "FLINT",
                     "npc_price": 4,
-                    "items_per_actions": 1,
+                    "amount_per_actions": 1,
                     "exp_per_item": {
                         "type": "",
                         "amount": 0
@@ -559,7 +559,7 @@
                 {
                     "name": "SAND",
                     "npc_price": 2,
-                    "items_per_actions": 1,
+                    "amount_per_actions": 1,
                     "exp_per_item": {
                         "type": "",
                         "amount": 0
@@ -690,7 +690,7 @@
                 {
                     "name": "CLAY_BALL",
                     "npc_price": 3,
-                    "items_per_actions": 4,
+                    "amount_per_actions": 4,
                     "exp_per_item": {
                         "type": "FISHING",
                         "amount": 0.1
@@ -821,7 +821,7 @@
                 {
                     "name": "ICE",
                     "npc_price": 0.5,
-                    "items_per_actions": 1,
+                    "amount_per_actions": 1,
                     "exp_per_item": {
                         "type": "",
                         "amount": 0
@@ -952,7 +952,7 @@
                 {
                     "name": "SNOW_BALL",
                     "npc_price": 1,
-                    "items_per_actions": 4,
+                    "amount_per_actions": 4,
                     "exp_per_item": {
                         "type": "MINING",
                         "amount": 0.1
@@ -1079,7 +1079,7 @@
                 {
                     "name": "COAL",
                     "npc_price": 2,
-                    "items_per_actions": 1,
+                    "amount_per_actions": 1,
                     "exp_per_item": {
                         "type": "",
                         "amount": 0
@@ -1224,7 +1224,7 @@
                 {
                     "name": "IRON_INGOT",
                     "npc_price": 3,
-                    "items_per_actions": 1,
+                    "amount_per_actions": 1,
                     "exp_per_item": {
                         "type": "",
                         "amount": 0
@@ -1369,7 +1369,7 @@
                 {
                     "name": "GOLD_INGOT",
                     "npc_price": 4,
-                    "items_per_actions": 1,
+                    "amount_per_actions": 1,
                     "exp_per_item": {
                         "type": "",
                         "amount": 0
@@ -1514,7 +1514,7 @@
                 {
                     "name": "DIAMOND",
                     "npc_price": 8,
-                    "items_per_actions": 1,
+                    "amount_per_actions": 1,
                     "exp_per_item": {
                         "type": "MINING",
                         "amount": 0.4
@@ -1659,7 +1659,7 @@
                 {
                     "name": "INK_SACK:4",
                     "npc_price": 1,
-                    "items_per_actions": 6,
+                    "amount_per_actions": 6,
                     "exp_per_item": {
                         "type": "",
                         "amount": 0
@@ -1804,7 +1804,7 @@
                 {
                     "name": "REDSTONE",
                     "npc_price": 1,
-                    "items_per_actions": 4.5,
+                    "amount_per_actions": 4.5,
                     "exp_per_item": {
                         "type": "",
                         "amount": 0
@@ -1949,7 +1949,7 @@
                 {
                     "name": "EMERALD",
                     "npc_price": 6,
-                    "items_per_actions": 1,
+                    "amount_per_actions": 1,
                     "exp_per_item": {
                         "type": "",
                         "amount": 0
@@ -2094,7 +2094,7 @@
                 {
                     "name": "QUARTZ",
                     "npc_price": 4,
-                    "items_per_actions": 1,
+                    "amount_per_actions": 1,
                     "exp_per_item": {
                         "type": "",
                         "amount": 0
@@ -2225,7 +2225,7 @@
                 {
                     "name": "ENDER_STONE",
                     "npc_price": 2,
-                    "items_per_actions": 1,
+                    "amount_per_actions": 1,
                     "exp_per_item": {
                         "type": "",
                         "amount": 0
@@ -2356,7 +2356,7 @@
                 {
                     "name": "MITHRIL_ORE",
                     "npc_price": 10,
-                    "items_per_actions": 2,
+                    "amount_per_actions": 2,
                     "exp_per_item": {
                         "type": "",
                         "amount": 0
@@ -2501,7 +2501,7 @@
                 {
                     "name": "WHEAT",
                     "npc_price": 1,
-                    "items_per_actions": 1,
+                    "amount_per_actions": 1,
                     "exp_per_item": {
                         "type": "",
                         "amount": 0
@@ -2510,7 +2510,7 @@
                 {
                     "name": "SEEDS",
                     "npc_price": 0.5,
-                    "items_per_actions": 1,
+                    "amount_per_actions": 1,
                     "exp_per_item": {
                         "type": "",
                         "amount": 0
@@ -2655,7 +2655,7 @@
                 {
                     "name": "MELON",
                     "npc_price": 1,
-                    "items_per_actions": 6,
+                    "amount_per_actions": 6,
                     "exp_per_item": {
                         "type": "",
                         "amount": 0
@@ -2800,7 +2800,7 @@
                 {
                     "name": "PUMPKIN",
                     "npc_price": 4,
-                    "items_per_actions": 1,
+                    "amount_per_actions": 1,
                     "exp_per_item": {
                         "type": "",
                         "amount": 0
@@ -2945,7 +2945,7 @@
                 {
                     "name": "CARROT_ITEM",
                     "npc_price": 1,
-                    "items_per_actions": 3,
+                    "amount_per_actions": 3,
                     "exp_per_item": {
                         "type": "",
                         "amount": 0
@@ -3090,7 +3090,7 @@
                 {
                     "name": "POTATO_ITEM",
                     "npc_price": 1,
-                    "items_per_actions": 3,
+                    "amount_per_actions": 3,
                     "exp_per_item": {
                         "type": "",
                         "amount": 0
@@ -3235,7 +3235,7 @@
                 {
                     "name": "RED_MUSHROOM",
                     "npc_price": 4,
-                    "items_per_actions": 0.5,
+                    "amount_per_actions": 0.5,
                     "exp_per_item": {
                         "type": "",
                         "amount": 0
@@ -3244,7 +3244,7 @@
                 {
                     "name": "BROWN_MUSHROOM",
                     "npc_price": 4,
-                    "items_per_actions": 0.5,
+                    "amount_per_actions": 0.5,
                     "exp_per_item": {
                         "type": "",
                         "amount": 0
@@ -3393,7 +3393,7 @@
                 {
                     "name": "CACTUS",
                     "npc_price": 1,
-                    "items_per_actions": 1,
+                    "amount_per_actions": 1,
                     "exp_per_item": {
                         "type": "",
                         "amount": 0
@@ -3538,7 +3538,7 @@
                 {
                     "name": "INK_SACK:3",
                     "npc_price": 3,
-                    "items_per_actions": 3,
+                    "amount_per_actions": 3,
                     "exp_per_item": {
                         "type": "",
                         "amount": 0
@@ -3683,7 +3683,7 @@
                 {
                     "name": "SUGAR_CANE",
                     "npc_price": 2,
-                    "items_per_actions": 1,
+                    "amount_per_actions": 1,
                     "exp_per_item": {
                         "type": "",
                         "amount": 0
@@ -3828,7 +3828,7 @@
                 {
                     "name": "NETHER_STALK",
                     "npc_price": 3,
-                    "items_per_actions": 1,
+                    "amount_per_actions": 1,
                     "exp_per_item": {
                         "type": "",
                         "amount": 0
@@ -3973,7 +3973,7 @@
                 {
                     "name": "SMALL_FLOWER",
                     "npc_price": 1,
-                    "items_per_actions": 0.8,
+                    "amount_per_actions": 0.8,
                     "exp_per_item": {
                         "type": "",
                         "amount": 0
@@ -3982,7 +3982,7 @@
                 {
                     "name": "TALL_FLOWER",
                     "npc_price": 2,
-                    "items_per_actions": 0.2,
+                    "amount_per_actions": 0.2,
                     "exp_per_item": {
                         "type": "",
                         "amount": 0
@@ -4109,7 +4109,7 @@
                 {
                     "name": "RAW_FISH",
                     "npc_price": 6,
-                    "items_per_actions": 0.5,
+                    "amount_per_actions": 0.5,
                     "exp_per_item": {
                         "type": "",
                         "amount": 0
@@ -4118,7 +4118,7 @@
                 {
                     "name": "RAW_FISH:1",
                     "npc_price": 10,
-                    "items_per_actions": 0.25,
+                    "amount_per_actions": 0.25,
                     "exp_per_item": {
                         "type": "",
                         "amount": 0
@@ -4127,7 +4127,7 @@
                 {
                     "name": "RAW_FISH:3",
                     "npc_price": 15,
-                    "items_per_actions": 0.12,
+                    "amount_per_actions": 0.12,
                     "exp_per_item": {
                         "type": "",
                         "amount": 0
@@ -4136,7 +4136,7 @@
                 {
                     "name": "RAW_FISH:2",
                     "npc_price": 20,
-                    "items_per_actions": 0.04,
+                    "amount_per_actions": 0.04,
                     "exp_per_item": {
                         "type": "",
                         "amount": 0
@@ -4145,7 +4145,7 @@
                 {
                     "name": "PRISMARINE_CRYSTALS",
                     "npc_price": 5,
-                    "items_per_actions": 0.03,
+                    "amount_per_actions": 0.03,
                     "exp_per_item": {
                         "type": "",
                         "amount": 0
@@ -4154,7 +4154,7 @@
                 {
                     "name": "PRISMARINE_SHARD",
                     "npc_price": 5,
-                    "items_per_actions": 0.03,
+                    "amount_per_actions": 0.03,
                     "exp_per_item": {
                         "type": "",
                         "amount": 0
@@ -4163,7 +4163,7 @@
                 {
                     "name": "SPONGE",
                     "npc_price": 50,
-                    "items_per_actions": 0.03,
+                    "amount_per_actions": 0.03,
                     "exp_per_item": {
                         "type": "",
                         "amount": 0
@@ -4294,7 +4294,7 @@
                 {
                     "name": "ROTTEN_FLESH",
                     "npc_price": 2,
-                    "items_per_actions": 1,
+                    "amount_per_actions": 1,
                     "exp_per_item": {
                         "type": "",
                         "amount": 0
@@ -4425,7 +4425,7 @@
                 {
                     "name": "ROTTEN_FLESH",
                     "npc_price": 2,
-                    "items_per_actions": 3,
+                    "amount_per_actions": 3,
                     "exp_per_item": {
                         "type": "",
                         "amount": 0
@@ -4434,7 +4434,7 @@
                 {
                     "name": "DIAMOND",
                     "npc_price": 8,
-                    "items_per_actions": 0.2,
+                    "amount_per_actions": 0.2,
                     "exp_per_item": {
                         "type": "",
                         "amount": 0
@@ -4623,7 +4623,7 @@
                 {
                     "name": "BONE",
                     "npc_price": 2,
-                    "items_per_actions": 1,
+                    "amount_per_actions": 1,
                     "exp_per_item": {
                         "type": "",
                         "amount": 0
@@ -4754,7 +4754,7 @@
                 {
                     "name": "SULPHUR",
                     "npc_price": 4,
-                    "items_per_actions": 1,
+                    "amount_per_actions": 1,
                     "exp_per_item": {
                         "type": "",
                         "amount": 0
@@ -4885,7 +4885,7 @@
                 {
                     "name": "STRING",
                     "npc_price": 3,
-                    "items_per_actions": 1,
+                    "amount_per_actions": 1,
                     "exp_per_item": {
                         "type": "",
                         "amount": 0
@@ -4894,7 +4894,7 @@
                 {
                     "name": "SPIDER_EYE",
                     "npc_price": 3,
-                    "items_per_actions": 0.5,
+                    "amount_per_actions": 0.5,
                     "exp_per_item": {
                         "type": "",
                         "amount": 0
@@ -5025,7 +5025,7 @@
                 {
                     "name": "STRING",
                     "npc_price": 3,
-                    "items_per_actions": 3.16,
+                    "amount_per_actions": 3.16,
                     "exp_per_item": {
                         "type": "",
                         "amount": 0
@@ -5034,7 +5034,7 @@
                 {
                     "name": "SPIDER_EYE",
                     "npc_price": 3,
-                    "items_per_actions": 1,
+                    "amount_per_actions": 1,
                     "exp_per_item": {
                         "type": "",
                         "amount": 0
@@ -5043,7 +5043,7 @@
                 {
                     "name": "IRON_INGOT",
                     "npc_price": 3,
-                    "items_per_actions": 0.2,
+                    "amount_per_actions": 0.2,
                     "exp_per_item": {
                         "type": "",
                         "amount": 0
@@ -5238,7 +5238,7 @@
                 {
                     "name": "STRING",
                     "npc_price": 3,
-                    "items_per_actions": 0.5,
+                    "amount_per_actions": 0.5,
                     "exp_per_item": {
                         "type": "",
                         "amount": 0
@@ -5247,7 +5247,7 @@
                 {
                     "name": "SPIDER_EYE",
                     "npc_price": 3,
-                    "items_per_actions": 1,
+                    "amount_per_actions": 1,
                     "exp_per_item": {
                         "type": "",
                         "amount": 0
@@ -5378,7 +5378,7 @@
                 {
                     "name": "BLAZE_ROD",
                     "npc_price": 9,
-                    "items_per_actions": 1,
+                    "amount_per_actions": 1,
                     "exp_per_item": {
                         "type": "",
                         "amount": 0
@@ -5509,7 +5509,7 @@
                 {
                     "name": "MAGMA_CREAM",
                     "npc_price": 8,
-                    "items_per_actions": 1.8,
+                    "amount_per_actions": 1.8,
                     "exp_per_item": {
                         "type": "",
                         "amount": 0
@@ -5640,7 +5640,7 @@
                 {
                     "name": "ENDER_PEARL",
                     "npc_price": 10,
-                    "items_per_actions": 1,
+                    "amount_per_actions": 1,
                     "exp_per_item": {
                         "type": "",
                         "amount": 0
@@ -5771,7 +5771,7 @@
                 {
                     "name": "GHAST_TEAR",
                     "npc_price": 16,
-                    "items_per_actions": 1,
+                    "amount_per_actions": 1,
                     "exp_per_item": {
                         "type": "",
                         "amount": 0
@@ -5902,7 +5902,7 @@
                 {
                     "name": "SLIME_BALL",
                     "npc_price": 5,
-                    "items_per_actions": 1.8,
+                    "amount_per_actions": 1.8,
                     "exp_per_item": {
                         "type": "",
                         "amount": 0
@@ -6033,7 +6033,7 @@
                 {
                     "name": "RAW_BEEF",
                     "npc_price": 4,
-                    "items_per_actions": 1,
+                    "amount_per_actions": 1,
                     "exp_per_item": {
                         "type": "",
                         "amount": 0
@@ -6042,7 +6042,7 @@
                 {
                     "name": "LEATHER",
                     "npc_price": 3,
-                    "items_per_actions": 1,
+                    "amount_per_actions": 1,
                     "exp_per_item": {
                         "type": "",
                         "amount": 0
@@ -6187,7 +6187,7 @@
                 {
                     "name": "PORK",
                     "npc_price": 5,
-                    "items_per_actions": 1,
+                    "amount_per_actions": 1,
                     "exp_per_item": {
                         "type": "",
                         "amount": 0
@@ -6332,7 +6332,7 @@
                 {
                     "name": "RAW_CHICKEN",
                     "npc_price": 4,
-                    "items_per_actions": 1,
+                    "amount_per_actions": 1,
                     "exp_per_item": {
                         "type": "",
                         "amount": 0
@@ -6341,7 +6341,7 @@
                 {
                     "name": "FEATHER",
                     "npc_price": 3,
-                    "items_per_actions": 1,
+                    "amount_per_actions": 1,
                     "exp_per_item": {
                         "type": "",
                         "amount": 0
@@ -6486,7 +6486,7 @@
                 {
                     "name": "MUTTON",
                     "npc_price": 5,
-                    "items_per_actions": 1,
+                    "amount_per_actions": 1,
                     "exp_per_item": {
                         "type": "",
                         "amount": 0
@@ -6495,7 +6495,7 @@
                 {
                     "name": "WOOL",
                     "npc_price": 2,
-                    "items_per_actions": 1,
+                    "amount_per_actions": 1,
                     "exp_per_item": {
                         "type": "",
                         "amount": 0
@@ -6640,7 +6640,7 @@
                 {
                     "name": "RABBIT",
                     "npc_price": 4,
-                    "items_per_actions": 1,
+                    "amount_per_actions": 1,
                     "exp_per_item": {
                         "type": "",
                         "amount": 0
@@ -6649,7 +6649,7 @@
                 {
                     "name": "RABBIT_FOOT",
                     "npc_price": 5,
-                    "items_per_actions": 0.35,
+                    "amount_per_actions": 0.35,
                     "exp_per_item": {
                         "type": "",
                         "amount": 0
@@ -6658,7 +6658,7 @@
                 {
                     "name": "RABBIT_HIDE",
                     "npc_price": 5,
-                    "items_per_actions": 0.35,
+                    "amount_per_actions": 0.35,
                     "exp_per_item": {
                         "type": "",
                         "amount": 0
@@ -6803,7 +6803,7 @@
                 {
                     "name": "LOG",
                     "npc_price": 2,
-                    "items_per_actions": 4,
+                    "amount_per_actions": 4,
                     "exp_per_item": {
                         "type": "",
                         "amount": 0
@@ -6934,7 +6934,7 @@
                 {
                     "name": "LOG:1",
                     "npc_price": 2,
-                    "items_per_actions": 4,
+                    "amount_per_actions": 4,
                     "exp_per_item": {
                         "type": "",
                         "amount": 0
@@ -7065,7 +7065,7 @@
                 {
                     "name": "LOG:2",
                     "npc_price": 2,
-                    "items_per_actions": 4,
+                    "amount_per_actions": 4,
                     "exp_per_item": {
                         "type": "",
                         "amount": 0
@@ -7196,7 +7196,7 @@
                 {
                     "name": "LOG_2:1",
                     "npc_price": 2,
-                    "items_per_actions": 4,
+                    "amount_per_actions": 4,
                     "exp_per_item": {
                         "type": "",
                         "amount": 0
@@ -7327,7 +7327,7 @@
                 {
                     "name": "LOG_2",
                     "npc_price": 2,
-                    "items_per_actions": 4,
+                    "amount_per_actions": 4,
                     "exp_per_item": {
                         "type": "",
                         "amount": 0
@@ -7458,7 +7458,7 @@
                 {
                     "name": "LOG:3",
                     "npc_price": 2,
-                    "items_per_actions": 4,
+                    "amount_per_actions": 4,
                     "exp_per_item": {
                         "type": "",
                         "amount": 0
