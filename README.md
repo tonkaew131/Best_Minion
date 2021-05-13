@@ -3,7 +3,7 @@ Using for [BestMinion discord bot](https://hypixel.net/threads/discord-bot-bestm
 
 ## Files
 
-* **minion_data.json**
+* **minion_data.json** - remove soon, will move and chance structure in /resources
   * **items_per_action** - how many item that products in n actions (mostly 2).
   * **npc_val** - price sell to npc (per item).
   * **diamond** - if minion use Auto Smelter, it will be false (remove soon). 
