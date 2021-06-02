@@ -151,11 +151,11 @@
             "items": [
                 {
                     "name": "OBSIDIAN",
-                    "npc_price": 12,
+                    "npc_price": 7,
                     "amount_per_actions": 1,
                     "exp_per_item": {
-                        "type": "",
-                        "amount": 0
+                        "type": "MINING",
+                        "amount": 0.4
                     }
                 }
             ],
@@ -4469,8 +4469,8 @@
                             "amount": 140
                         },
                         {
-                            "name": "ROTTEN_FLESH",
-                            "amount": 80
+                            "name": "ZOMBIE_MINION_1",
+                            "amount": 1
                         }
                     ]
                 },
@@ -4483,8 +4483,8 @@
                             "amount": 280
                         },
                         {
-                            "name": "ROTTEN_FLESH",
-                            "amount": 160
+                            "name": "ZOMBIE_MINION_2",
+                            "amount": 1
                         }
                     ]
                 },
@@ -4497,8 +4497,8 @@
                             "amount": 448
                         },
                         {
-                            "name": "ROTTEN_FLESH",
-                            "amount": 320
+                            "name": "ZOMBIE_MINION_3",
+                            "amount": 1
                         }
                     ]
                 },
@@ -4511,8 +4511,8 @@
                             "amount": 7
                         },
                         {
-                            "name": "ROTTEN_FLESH",
-                            "amount": 512
+                            "name": "ZOMBIE_MINION_4",
+                            "amount": 1
                         }
                     ]
                 },
@@ -4525,8 +4525,8 @@
                             "amount": 14
                         },
                         {
-                            "name": "ENCHANTED_ROTTEN_FLESH",
-                            "amount": 8
+                            "name": "ZOMBIE_MINION_5",
+                            "amount": 1
                         }
                     ]
                 },
@@ -4539,8 +4539,8 @@
                             "amount": 28
                         },
                         {
-                            "name": "ENCHANTED_ROTTEN_FLESH",
-                            "amount": 16
+                            "name": "ZOMBIE_MINION_6",
+                            "amount": 1
                         }
                     ]
                 },
@@ -4553,8 +4553,8 @@
                             "amount": 56
                         },
                         {
-                            "name": "ENCHANTED_ROTTEN_FLESH",
-                            "amount": 32
+                            "name": "ZOMBIE_MINION_7",
+                            "amount": 1
                         }
                     ]
                 },
@@ -4567,8 +4567,8 @@
                             "amount": 112
                         },
                         {
-                            "name": "ENCHANTED_ROTTEN_FLESH",
-                            "amount": 64
+                            "name": "ZOMBIE_MINION_8",
+                            "amount": 1
                         }
                     ]
                 },
@@ -4581,8 +4581,8 @@
                             "amount": 224
                         },
                         {
-                            "name": "ENCHANTED_ROTTEN_FLESH",
-                            "amount": 128
+                            "name": "ZOMBIE_MINION_9",
+                            "amount": 1
                         }
                     ]
                 },
@@ -4595,8 +4595,8 @@
                             "amount": 448
                         },
                         {
-                            "name": "ENCHANTED_ROTTEN_FLESH",
-                            "amount": 256
+                            "name": "ZOMBIE_MINION_10",
+                            "amount": 1
                         }
                     ]
                 },
@@ -4611,6 +4611,177 @@
                         {
                             "name": "COINS",
                             "amount": 2000000
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "name": "Voidling Minion",
+            "type": "COMBAT",
+            "items": [
+                {
+                    "name": "OBSIDIAN",
+                    "npc_price": 7,
+                    "amount_per_actions": 2.5,
+                    "exp_per_item": {
+                        "type": "MINING",
+                        "amount": 0.4
+                    }
+                }
+            ],
+            "tier": {
+                "1": {
+                    "times_between_action": 45,
+                    "storage_slot": 64,
+                    "upgrade_items": [
+                        {
+                            "name": "NULL_SPHERE",
+                            "amount": 80
+                        },
+                        {
+                            "name": "ENDERMAN_MINION_1",
+                            "amount": 1
+                        }
+                    ]
+                },
+                "2": {
+                    "times_between_action": 45,
+                    "storage_slot": 192,
+                    "upgrade_items": [
+                        {
+                            "name": "NULL_SPHERE",
+                            "amount": 140
+                        },
+                        {
+                            "name": "OBSIDIAN_MINION_1",
+                            "amount": 1
+                        }
+                    ]
+                },
+                "3": {
+                    "times_between_action": 42,
+                    "storage_slot": 192,
+                    "upgrade_items": [
+                        {
+                            "name": "NULL_SPHERE",
+                            "amount": 280
+                        },
+                        {
+                            "name": "ENDERMAN_MINION_2",
+                            "amount": 1
+                        }
+                    ]
+                },
+                "4": {
+                    "times_between_action": 42,
+                    "storage_slot": 384,
+                    "upgrade_items": [
+                        {
+                            "name": "NULL_SPHERE",
+                            "amount": 448
+                        },
+                        {
+                            "name": "OBSIDIAN_MINION_3",
+                            "amount": 1
+                        }
+                    ]
+                },
+                "5": {
+                    "times_between_action": 39,
+                    "storage_slot": 384,
+                    "upgrade_items": [
+                        {
+                            "name": "NULL_OVOID",
+                            "amount": 7
+                        },
+                        {
+                            "name": "ENDERMAN_MINION_4",
+                            "amount": 1
+                        }
+                    ]
+                },
+                "6": {
+                    "times_between_action": 39,
+                    "storage_slot": 576,
+                    "upgrade_items": [
+                        {
+                            "name": "NULL_OVOID",
+                            "amount": 14
+                        },
+                        {
+                            "name": "OBSIDIAN_MINION_5",
+                            "amount": 1
+                        }
+                    ]
+                },
+                "7": {
+                    "times_between_action": 35,
+                    "storage_slot": 576,
+                    "upgrade_items": [
+                        {
+                            "name": "NULL_OVOID",
+                            "amount": 28
+                        },
+                        {
+                            "name": "ENDERMAN_MINION_6",
+                            "amount": 1
+                        }
+                    ]
+                },
+                "8": {
+                    "times_between_action": 35,
+                    "storage_slot": 768,
+                    "upgrade_items": [
+                        {
+                            "name": "NULL_OVOID",
+                            "amount": 56
+                        },
+                        {
+                            "name": "OBSIDIAN_MINION_7",
+                            "amount": 1
+                        }
+                    ]
+                },
+                "9": {
+                    "times_between_action": 30,
+                    "storage_slot": 768,
+                    "upgrade_items": [
+                        {
+                            "name": "NULL_OVOID",
+                            "amount": 112
+                        },
+                        {
+                            "name": "ENDERMAN_MINION_8",
+                            "amount": 1
+                        }
+                    ]
+                },
+                "10": {
+                    "times_between_action": 30,
+                    "storage_slot": 960,
+                    "upgrade_items": [
+                        {
+                            "name": "NULL_OVOID",
+                            "amount": 224
+                        },
+                        {
+                            "name": "OBSIDIAN_MINION_9",
+                            "amount": 1
+                        }
+                    ]
+                },
+                "11": {
+                    "times_between_action": 24,
+                    "storage_slot": 960,
+                    "upgrade_items": [
+                        {
+                            "name": "NULL_OVOID",
+                            "amount": 448
+                        },
+                        {
+                            "name": "ENDERMAN_MINION_10",
+                            "amount": 1
                         }
                     ]
                 }
@@ -5074,8 +5245,8 @@
                             "amount": 140
                         },
                         {
-                            "name": "STRING",
-                            "amount": 80
+                            "name": "SPIDER_MINION_1",
+                            "amount": 1
                         }
                     ]
                 },
@@ -5088,8 +5259,8 @@
                             "amount": 280
                         },
                         {
-                            "name": "STRING",
-                            "amount": 240
+                            "name": "SPIDER_MINION_2",
+                            "amount": 1
                         }
                     ]
                 },
@@ -5102,8 +5273,8 @@
                             "amount": 448
                         },
                         {
-                            "name": "STRING",
-                            "amount": 560
+                            "name": "SPIDER_MINION_3",
+                            "amount": 1
                         }
                     ]
                 },
@@ -5116,8 +5287,8 @@
                             "amount": 7
                         },
                         {
-                            "name": "STRING",
-                            "amount": 1072
+                            "name": "SPIDER_MINION_4",
+                            "amount": 1
                         }
                     ]
                 },
@@ -5130,12 +5301,8 @@
                             "amount": 14
                         },
                         {
-                            "name": "ENCHANTED_STRING",
-                            "amount": 8
-                        },
-                        {
-                            "name": "STRING",
-                            "amount": 1072
+                            "name": "SPIDER_MINION_5",
+                            "amount": 1
                         }
                     ]
                 },
@@ -5148,12 +5315,8 @@
                             "amount": 28
                         },
                         {
-                            "name": "ENCHANTED_STRING",
-                            "amount": 24
-                        },
-                        {
-                            "name": "STRING",
-                            "amount": 1072
+                            "name": "SPIDER_MINION_6",
+                            "amount": 1
                         }
                     ]
                 },
@@ -5166,12 +5329,8 @@
                             "amount": 56
                         },
                         {
-                            "name": "ENCHANTED_STRING",
-                            "amount": 56
-                        },
-                        {
-                            "name": "STRING",
-                            "amount": 1072
+                            "name": "SPIDER_MINION_7",
+                            "amount": 1
                         }
                     ]
                 },
@@ -5184,12 +5343,8 @@
                             "amount": 112
                         },
                         {
-                            "name": "ENCHANTED_STRING",
-                            "amount": 120
-                        },
-                        {
-                            "name": "STRING",
-                            "amount": 1072
+                            "name": "SPIDER_MINION_8",
+                            "amount": 1
                         }
                     ]
                 },
@@ -5202,12 +5357,8 @@
                             "amount": 224
                         },
                         {
-                            "name": "ENCHANTED_STRING",
-                            "amount": 248
-                        },
-                        {
-                            "name": "STRING",
-                            "amount": 1072
+                            "name": "SPIDER_MINION_9",
+                            "amount": 1
                         }
                     ]
                 },
@@ -5220,12 +5371,8 @@
                             "amount": 448
                         },
                         {
-                            "name": "ENCHANTED_STRING",
-                            "amount": 504
-                        },
-                        {
-                            "name": "STRING",
-                            "amount": 1072
+                            "name": "SPIDER_MINION_10",
+                            "amount": 1
                         }
                     ]
                 }
