@@ -2096,8 +2096,8 @@
                     "npc_price": 4,
                     "amount_per_actions": 1,
                     "exp_per_item": {
-                        "type": "",
-                        "amount": 0
+                        "type": "MINING",
+                        "amount": 0.3
                     }
                 }
             ],
@@ -4627,6 +4627,15 @@
                     "exp_per_item": {
                         "type": "MINING",
                         "amount": 0.4
+                    }
+                },
+                {
+                    "name": "QUARTZ",
+                    "npc_price": 4,
+                    "amount_per_actions": 0.4,
+                    "exp_per_item": {
+                        "type": "MINING",
+                        "amount": 0.3
                     }
                 }
             ],
