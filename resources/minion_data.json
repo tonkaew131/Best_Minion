@@ -3092,8 +3092,8 @@
                     "npc_price": 1,
                     "amount_per_actions": 3,
                     "exp_per_item": {
-                        "type": "",
-                        "amount": 0
+                        "type": "FARMING",
+                        "amount": 0.1
                     }
                 }
             ],
