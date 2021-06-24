@@ -1,0 +1,344 @@
+{
+    "items": {
+        "COBBLESTONE": {
+            "to": "ENCHANTED_COBBLESTONE",
+            "count": 160
+        },
+        "OBSIDIAN": {
+            "to": "ENCHANTED_OBSIDIAN",
+            "count": 160
+        },
+        "GLOWSTONE_DUST": {
+            "to": "ENCHANTED_GLOWSTONE_DUST",
+            "count": 160
+        },
+        "ENCHANTED_GLOWSTONE_DUST": {
+            "to": "ENCHANTED_GLOWSTONE",
+            "count": 192
+        },
+        "FLINT": {
+            "to": "ENCHANTED_FLINT",
+            "count": 160
+        },
+        "SAND": {
+            "to": "ENCHANTED_SAND",
+            "count": 160
+        },
+        "CLAY_BALL": {
+            "to": "ENCHANTED_CLAY_BALL",
+            "count": 160
+        },
+        "ICE": {
+            "to": "ENCHANTED_ICE",
+            "count": 160
+        },
+        "ENCHANTED_ICE": {
+            "to": "ENCHANTED_PACKED_ICE",
+            "count": 160
+        },
+        "SNOW_BALL": {
+            "to": "ENCHANTED_SNOW_BLOCK",
+            "count": 640
+        },
+        "COAL": {
+            "to": "ENCHANTED_COAL",
+            "count": 160
+        },
+        "ENCHANTED_COAL": {
+            "to": "ENCHANTED_COAL_BLOCK",
+            "count": 160
+        },
+        "IRON_INGOT": {
+            "to": "ENCHANTED_IRON",
+            "count": 160
+        },
+        "ENCHANTED_IRON": {
+            "to": "ENCHANTED_IRON_BLOCK",
+            "count": 160
+        },
+        "GOLD_INGOT": {
+            "to": "ENCHANTED_GOLD",
+            "count": 160
+        },
+        "ENCHANTED_GOLD": {
+            "to": "ENCHANTED_GOLD_BLOCK",
+            "count": 160
+        },
+        "DIAMOND": {
+            "to": "ENCHANTED_DIAMOND",
+            "count": 160
+        },
+        "ENCHANTED_DIAMOND": {
+            "to": "ENCHANTED_DIAMOND_BLOCK",
+            "count": 160
+        },
+        "INK_SACK:4": {
+            "to": "ENCHANTED_LAPIS_LAZULI",
+            "count": 160
+        },
+        "ENCHANTED_LAPIS_LAZULI": {
+            "to": "ENCHANTED_LAPIS_LAZULI_BLOCK",
+            "count": 160
+        },
+        "REDSTONE": {
+            "to": "ENCHANTED_REDSTONE",
+            "count": 160
+        },
+        "ENCHANTED_REDSTONE": {
+            "to": "ENCHANTED_REDSTONE_BLOCK",
+            "count": 160
+        },
+        "EMERALD": {
+            "to": "ENCHANTED_EMERALD",
+            "count": 160
+        },
+        "ENCHANTED_EMERALD": {
+            "to": "ENCHANTED_EMERALD_BLOCK",
+            "count": 160
+        },
+        "QUARTZ": {
+            "to": "ENCHANTED_QUARTZ",
+            "count": 160
+        },
+        "ENCHANTED_QUARTZ": {
+            "to": "ENCHANTED_QUARTZ_BLOCK",
+            "count": 160
+        },
+        "ENDER_STONE": {
+            "to": "ENCHANTED_ENDSTONE",
+            "count": 160
+        },
+        "WHEAT": {
+            "to": "ENCHANTED_HAY_BLOCK",
+            "count": 1296
+        },
+        "SEEDS": {
+            "to": "ENCHANTED_SEEDS",
+            "count": 160
+        },
+        "MELON": {
+            "to": "ENCHANTED_MELON",
+            "count": 160
+        },
+        "ENCHANTED_MELON": {
+            "to": "ENCHANTED_MELON_BLOCK",
+            "count": 160
+        },
+        "PUMPKIN": {
+            "to": "ENCHANTED_PUMPKIN",
+            "count": 160
+        },
+        "CARROT_ITEM": {
+            "to": "ENCHANTED_CARROT",
+            "count": 160
+        },
+        "POTATO_ITEM": {
+            "to": "ENCHANTED_POTATO",
+            "count": 160
+        },
+        "ENCHANTED_POTATO": {
+            "to": "ENCHANTED_BAKED_POTATO",
+            "count": 160
+        },
+        "ENCHANTED_BAKED_POTATO": {
+            "to": "HOT_POTATO_BOOK",
+            "count": 1
+        },
+        "RED_MUSHROOM": {
+            "to": "ENCHANTED_RED_MUSHROOM",
+            "count": 160
+        },
+        "BROWN_MUSHROOM": {
+            "to": "ENCHANTED_BROWN_MUSHROOM",
+            "count": 160
+        },
+        "CACTUS": {
+            "to": "ENCHANTED_CACTUS_GREEN",
+            "count": 160
+        },
+        "ENCHANTED_CACTUS_GREEN": {
+            "to": "ENCHANTED_CACTUS",
+            "count": 160
+        },
+        "INK_SACK:3": {
+            "to": "ENCHANTED_COCOA",
+            "count": 160
+        },
+        "ENCHANTED_COCOA": {
+            "to": "ENCHANTED_COOKIE",
+            "count": 128
+        },
+        "SUGAR_CANE": {
+            "to": "ENCHANTED_SUGAR",
+            "count": 160
+        },
+        "ENCHANTED_SUGAR": {
+            "to": "ENCHANTED_SUGAR_CANE",
+            "count": 160
+        },
+        "NETHER_STALK": {
+            "to": "ENCHANTED_NETHER_STALK",
+            "count": 160
+        },
+        "RAW_FISH": {
+            "to": "ENCHANTED_RAW_FISH",
+            "count": 160
+        },
+        "RAW_FISH:1": {
+            "to": "ENCHANTED_RAW_SALMON",
+            "count": 160
+        },
+        "RAW_FISH:3": {
+            "to": "ENCHANTED_PUFFERFISH",
+            "count": 160
+        },
+        "RAW_FISH:2": {
+            "to": "ENCHANTED_CLOWNFISH",
+            "count": 160
+        },
+        "PRISMARINE_CRYSTALS": {
+            "to": "ENCHANTED_PRISMARINE_CRYSTALS",
+            "count": 80
+        },
+        "PRISMARINE_SHARD": {
+            "to": "ENCHANTED_PRISMARINE_SHARD",
+            "count": 80
+        },
+        "SPONGE": {
+            "to": "ENCHANTED_SPONGE",
+            "count": 40
+        },
+        "ENCHANTED_SPONGE": {
+            "to": "ENCHANTED_WET_SPONGE",
+            "count": 40
+        },
+        "ROTTEN_FLESH": {
+            "to": "ENCHANTED_ROTTEN_FLESH",
+            "count": 160
+        },
+        "BONE": {
+            "to": "ENCHANTED_BONE",
+            "count": 160
+        },
+        "ENCHANTED_BONE": {
+            "to": "ENCHANTED_BONE_BLOCK",
+            "count": 160
+        },
+        "SULPHUR": {
+            "to": "ENCHANTED_GUNPOWDER",
+            "count": 160
+        },
+        "ENCHANTED_GUNPOWDER": {
+            "to": "ENCHANTED_FIREWORK_ROCKET",
+            "count": 64
+        },
+        "STRING": {
+            "to": "ENCHANTED_STRING",
+            "count": 192
+        },
+        "SPIDER_EYE": {
+            "to": "ENCHANTED_SPIDER_EYE",
+            "count": 160
+        },
+        "ENCHANTED_SPIDER_EYE": {
+            "to": "ENCHANTED_FERMENTED_SPIDER_EYE",
+            "count": 64
+        },
+        "BLAZE_ROD": {
+            "to": "ENCHANTED_BLAZE_POWDER",
+            "count": 160
+        },
+        "ENCHANTED_BLAZE_POWDER": {
+            "to": "ENCHANTED_BLAZE_ROD",
+            "count": 160
+        },
+        "MAGMA_CREAM": {
+            "to": "ENCHANTED_MAGMA_CREAM",
+            "count": 160
+        },
+        "ENDER_PEARL": {
+            "to": "ENCHANTED_ENDER_PEARL",
+            "count": 20
+        },
+        "GHAST_TEAR": {
+            "to": "ENCHANTED_GHAST_TEAR",
+            "count": 5
+        },
+        "SLIME_BALL": {
+            "to": "ENCHANTED_SLIME_BALL",
+            "count": 160
+        },
+        "ENCHANTED_SLIME_BALL": {
+            "to": "ENCHANTED_SLIME_BLOCK",
+            "count": 160
+        },
+        "RAW_BEEF": {
+            "to": "ENCHANTED_RAW_BEEF",
+            "count": 160
+        },
+        "LEATHER": {
+            "to": "ENCHANTED_LEATHER",
+            "count": 576
+        },
+        "PORK": {
+            "to": "ENCHANTED_PORK",
+            "count": 160
+        },
+        "ENCHANTED_PORK": {
+            "to": "ENCHANTED_GRILLED_PORK",
+            "count": 160
+        },
+        "RAW_CHICKEN": {
+            "to": "ENCHANTED_RAW_CHICKEN",
+            "count": 160
+        },
+        "FEATHER": {
+            "to": "ENCHANTED_FEATHER",
+            "count": 160
+        },
+        "MUTTON": {
+            "to": "ENCHANTED_MUTTON",
+            "count": 160
+        },
+        "ENCHANTED_MUTTON": {
+            "to": "ENCHANTED_COOKED_MUTTON",
+            "count": 160
+        },
+        "RABBIT": {
+            "to": "ENCHANTED_RABBIT",
+            "count": 160
+        },
+        "RABBIT_FOOT": {
+            "to": "ENCHANTED_RABBIT_FOOT",
+            "count": 160
+        },
+        "RABBIT_HIDE": {
+            "to": "ENCHANTED_RABBIT_HIDE",
+            "count": 576
+        },
+        "LOG": {
+            "to": "ENCHANTED_OAK_LOG",
+            "count": 160
+        },
+        "LOG:1": {
+            "to": "ENCHANTED_SPRUCE_LOG",
+            "count": 160
+        },
+        "LOG:2": {
+            "to": "ENCHANTED_BIRCH_LOG",
+            "count": 160
+        },
+        "LOG_2:1": {
+            "to": "ENCHANTED_DARK_OAK_LOG",
+            "count": 160
+        },
+        "LOG_2": {
+            "to": "ENCHANTED_ACACIA_LOG",
+            "count": 160
+        },
+        "LOG:3": {
+            "to": "ENCHANTED_JUNGLE_LOG",
+            "count": 160
+        }
+    }
+}
