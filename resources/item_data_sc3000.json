@@ -296,6 +296,14 @@
             "to": "ENCHANTED_FEATHER",
             "count": 160
         },
+        "EGG": {
+            "to": "ENCHANTED_EGG",
+            "count": 144
+        },
+        "ENCHANTED_EGG": {
+            "to": "SUPER_EGG",
+            "count": 144
+        },
         "MUTTON": {
             "to": "ENCHANTED_MUTTON",
             "count": 160
