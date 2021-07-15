@@ -2495,6 +2495,151 @@
             }
         },
         {
+            "name": "Hard Stone Minion",
+            "type": "MINING",
+            "items": [
+                {
+                    "name": "HARD_STONE",
+                    "npc_price": 1,
+                    "amount_per_actions": 1,
+                    "exp_per_item": {
+                        "type": "",
+                        "amount": 0
+                    }
+                }
+            ],
+            "tier": {
+                "1": {
+                    "times_between_action": 14,
+                    "storage_slot": 64,
+                    "upgrade_items": [
+                        {
+                            "name": "HARD_STONE",
+                            "amount": 256
+                        },
+                        {
+                            "name": "WOODEN_PICKAXE",
+                            "amount": 1
+                        }
+                    ]
+                },
+                "2": {
+                    "times_between_action": 14,
+                    "storage_slot": 192,
+                    "upgrade_items": [
+                        {
+                            "name": "HARD_STONE",
+                            "amount": 512
+                        }
+                    ]
+                },
+                "3": {
+                    "times_between_action": 12,
+                    "storage_slot": 192,
+                    "upgrade_items": [
+                        {
+                            "name": "ENCHANTED_HARD_STONE",
+                            "amount": 8
+                        }
+                    ]
+                },
+                "4": {
+                    "times_between_action": 12,
+                    "storage_slot": 384,
+                    "upgrade_items": [
+                        {
+                            "name": "ENCHANTED_HARD_STONE",
+                            "amount": 16
+                        }
+                    ]
+                },
+                "5": {
+                    "times_between_action": 10,
+                    "storage_slot": 384,
+                    "upgrade_items": [
+                        {
+                            "name": "ENCHANTED_HARD_STONE",
+                            "amount": 32
+                        }
+                    ]
+                },
+                "6": {
+                    "times_between_action": 10,
+                    "storage_slot": 576,
+                    "upgrade_items": [
+                        {
+                            "name": "ENCHANTED_HARD_STONE",
+                            "amount": 64
+                        }
+                    ]
+                },
+                "7": {
+                    "times_between_action": 9,
+                    "storage_slot": 576,
+                    "upgrade_items": [
+                        {
+                            "name": "ENCHANTED_HARD_STONE",
+                            "amount": 128
+                        }
+                    ]
+                },
+                "8": {
+                    "times_between_action": 9,
+                    "storage_slot": 768,
+                    "upgrade_items": [
+                        {
+                            "name": "ENCHANTED_HARD_STONE",
+                            "amount": 256
+                        }
+                    ]
+                },
+                "9": {
+                    "times_between_action": 8,
+                    "storage_slot": 768,
+                    "upgrade_items": [
+                        {
+                            "name": "ENCHANTED_HARD_STONE",
+                            "amount": 512
+                        }
+                    ]
+                },
+                "10": {
+                    "times_between_action": 8,
+                    "storage_slot": 960,
+                    "upgrade_items": [
+                        {
+                            "name": "CONCENTRATED_STONE",
+                            "amount": 8
+                        }
+                    ]
+                },
+                "11": {
+                    "times_between_action": 7,
+                    "storage_slot": 960,
+                    "upgrade_items": [
+                        {
+                            "name": "CONCENTRATED_STONE",
+                            "amount": 16
+                        }
+                    ]
+                },
+                "12": {
+                    "times_between_action": 6,
+                    "storage_slot": 960,
+                    "upgrade_items": [
+                        {
+                            "name": "CONCENTRATED_STONE",
+                            "amount": 32
+                        },
+                        {
+                            "name": "COINS",
+                            "amount": 2000000
+                        }
+                    ]
+                }
+            }
+        },
+        {
             "name": "Wheat Minion",
             "type": "FARMING",
             "items": [
