@@ -4768,7 +4768,7 @@
                 {
                     "name": "OBSIDIAN",
                     "npc_price": 7,
-                    "amount_per_actions": 2.5,
+                    "amount_per_actions": 2.42,
                     "exp_per_item": {
                         "type": "MINING",
                         "amount": 0.4
