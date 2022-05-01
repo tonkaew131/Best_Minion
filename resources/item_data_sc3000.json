@@ -24,6 +24,22 @@
             "to": "ENCHANTED_SAND",
             "count": 160
         },
+        "RED_SAND": {
+            "to": "ENCHANTED_RED_SAND",
+            "count": 160
+        },
+        "ENCHANTED_RED_SAND": {
+            "to": "ENCHANTED_RED_SAND_CUBE",
+            "count": 160
+        },
+        "MYCELIUM": {
+            "to": "ENCHANTED_MYCELIUM",
+            "count": 160
+        },
+        "ENCHANTED_MYCELIUM": {
+            "to": "ENCHANTED_MYCELIUM_CUBE",
+            "count": 160
+        },
         "CLAY_BALL": {
             "to": "ENCHANTED_CLAY_BALL",
             "count": 160
