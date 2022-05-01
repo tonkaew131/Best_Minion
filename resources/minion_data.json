@@ -684,6 +684,296 @@
             }
         },
         {
+            "name": "Red Sand Minion",
+            "type": "MINING",
+            "items": [
+                {
+                    "name": "RED_SAND",
+                    "npc_price": 5,
+                    "amount_per_actions": 1,
+                    "exp_per_item": {
+                        "type": "MINING",
+                        "amount": 0.2
+                    }
+                }
+            ],
+            "tier": {
+                "1": {
+                    "times_between_action": 26,
+                    "storage_slot": 64,
+                    "upgrade_items": [
+                        {
+                            "name": "RED_SAND",
+                            "amount": 80
+                        },
+                        {
+                            "name": "WOODEN_SHOVEL",
+                            "amount": 1
+                        }
+                    ]
+                },
+                "2": {
+                    "times_between_action": 26,
+                    "storage_slot": 192,
+                    "upgrade_items": [
+                        {
+                            "name": "RED_SAND",
+                            "amount": 256
+                        }
+                    ]
+                },
+                "3": {
+                    "times_between_action": 25,
+                    "storage_slot": 192,
+                    "upgrade_items": [
+                        {
+                            "name": "RED_SAND",
+                            "amount": 512
+                        }
+                    ]
+                },
+                "4": {
+                    "times_between_action": 24,
+                    "storage_slot": 384,
+                    "upgrade_items": [
+                        {
+                            "name": "ENCHANTED_RED_SAND",
+                            "amount": 16
+                        }
+                    ]
+                },
+                "5": {
+                    "times_between_action": 23,
+                    "storage_slot": 384,
+                    "upgrade_items": [
+                        {
+                            "name": "ENCHANTED_RED_SAND",
+                            "amount": 32
+                        }
+                    ]
+                },
+                "6": {
+                    "times_between_action": 22,
+                    "storage_slot": 576,
+                    "upgrade_items": [
+                        {
+                            "name": "ENCHANTED_RED_SAND",
+                            "amount": 64
+                        }
+                    ]
+                },
+                "7": {
+                    "times_between_action": 21,
+                    "storage_slot": 576,
+                    "upgrade_items": [
+                        {
+                            "name": "ENCHANTED_RED_SAND",
+                            "amount": 128
+                        }
+                    ]
+                },
+                "8": {
+                    "times_between_action": 20,
+                    "storage_slot": 768,
+                    "upgrade_items": [
+                        {
+                            "name": "ENCHANTED_RED_SAND",
+                            "amount": 256
+                        }
+                    ]
+                },
+                "9": {
+                    "times_between_action": 19,
+                    "storage_slot": 768,
+                    "upgrade_items": [
+                        {
+                            "name": "ENCHANTED_RED_SAND",
+                            "amount": 512
+                        }
+                    ]
+                },
+                "10": {
+                    "times_between_action": 16,
+                    "storage_slot": 960,
+                    "upgrade_items": [
+                        {
+                            "name": "ENCHANTED_RED_SAND_CUBE",
+                            "amount": 8
+                        }
+                    ]
+                },
+                "11": {
+                    "times_between_action": 13,
+                    "storage_slot": 960,
+                    "upgrade_items": [
+                        {
+                            "name": "ENCHANTED_RED_SAND_CUBE",
+                            "amount": 16
+                        }
+                    ]
+                },
+                "12": {
+                    "times_between_action": 11,
+                    "storage_slot": 960,
+                    "upgrade_items": [
+                        {
+                            "name": "ENCHANTED_RED_SAND_CUBE",
+                            "amount": 32
+                        },
+                        {
+                            "name": "COINS",
+                            "amount": 2000000
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "name": "Mycelium Minion",
+            "type": "MINING",
+            "items": [
+                {
+                    "name": "MYCELIUM",
+                    "npc_price": 5,
+                    "amount_per_actions": 1,
+                    "exp_per_item": {
+                        "type": "MINING",
+                        "amount": 0.2
+                    }
+                }
+            ],
+            "tier": {
+                "1": {
+                    "times_between_action": 26,
+                    "storage_slot": 64,
+                    "upgrade_items": [
+                        {
+                            "name": "MYCELIUM",
+                            "amount": 80
+                        },
+                        {
+                            "name": "WOODEN_SHOVEL",
+                            "amount": 1
+                        }
+                    ]
+                },
+                "2": {
+                    "times_between_action": 26,
+                    "storage_slot": 192,
+                    "upgrade_items": [
+                        {
+                            "name": "MYCELIUM",
+                            "amount": 256
+                        }
+                    ]
+                },
+                "3": {
+                    "times_between_action": 25,
+                    "storage_slot": 192,
+                    "upgrade_items": [
+                        {
+                            "name": "MYCELIUM",
+                            "amount": 512
+                        }
+                    ]
+                },
+                "4": {
+                    "times_between_action": 24,
+                    "storage_slot": 384,
+                    "upgrade_items": [
+                        {
+                            "name": "ENCHANTED_MYCELIUM",
+                            "amount": 16
+                        }
+                    ]
+                },
+                "5": {
+                    "times_between_action": 23,
+                    "storage_slot": 384,
+                    "upgrade_items": [
+                        {
+                            "name": "ENCHANTED_MYCELIUM",
+                            "amount": 32
+                        }
+                    ]
+                },
+                "6": {
+                    "times_between_action": 22,
+                    "storage_slot": 576,
+                    "upgrade_items": [
+                        {
+                            "name": "ENCHANTED_MYCELIUM",
+                            "amount": 64
+                        }
+                    ]
+                },
+                "7": {
+                    "times_between_action": 21,
+                    "storage_slot": 576,
+                    "upgrade_items": [
+                        {
+                            "name": "ENCHANTED_MYCELIUM",
+                            "amount": 128
+                        }
+                    ]
+                },
+                "8": {
+                    "times_between_action": 20,
+                    "storage_slot": 768,
+                    "upgrade_items": [
+                        {
+                            "name": "ENCHANTED_MYCELIUM",
+                            "amount": 256
+                        }
+                    ]
+                },
+                "9": {
+                    "times_between_action": 19,
+                    "storage_slot": 768,
+                    "upgrade_items": [
+                        {
+                            "name": "ENCHANTED_MYCELIUM",
+                            "amount": 512
+                        }
+                    ]
+                },
+                "10": {
+                    "times_between_action": 16,
+                    "storage_slot": 960,
+                    "upgrade_items": [
+                        {
+                            "name": "ENCHANTED_MYCELIUM_CUBE",
+                            "amount": 8
+                        }
+                    ]
+                },
+                "11": {
+                    "times_between_action": 13,
+                    "storage_slot": 960,
+                    "upgrade_items": [
+                        {
+                            "name": "ENCHANTED_MYCELIUM_CUBE",
+                            "amount": 16
+                        }
+                    ]
+                },
+                "12": {
+                    "times_between_action": 11,
+                    "storage_slot": 960,
+                    "upgrade_items": [
+                        {
+                            "name": "ENCHANTED_MYCELIUM_CUBE",
+                            "amount": 32
+                        },
+                        {
+                            "name": "COINS",
+                            "amount": 2000000
+                        }
+                    ]
+                }
+            }
+        },
+        {
             "name": "Clay Minion",
             "type": "FISHING",
             "items": [
