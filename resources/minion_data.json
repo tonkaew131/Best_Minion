@@ -6469,7 +6469,7 @@
                     ]
                 },
                 "10": {
-                    "times_between_action": 28,
+                    "times_between_action": 38,
                     "storage_slot": 960,
                     "upgrade_items": [
                         {
@@ -6485,6 +6485,20 @@
                         {
                             "name": "ENCHANTED_GHAST_TEAR",
                             "amount": 12800
+                        }
+                    ]
+                },
+                "12": {
+                    "times_between_action": 30,
+                    "storage_slot": 960,
+                    "upgrade_items": [
+                        {
+                            "name": "ENCHANTED_GHAST_TEAR",
+                            "amount": 25600
+                        },
+                        {
+                            "name": "COIN",
+                            "amount": 2000000
                         }
                     ]
                 }
