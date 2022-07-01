@@ -5240,7 +5240,7 @@
             "items": [
                 {
                     "name": "CRUDE_GABAGOOL",
-                    "npc_price": 7,
+                    "npc_price": 1,
                     "amount_per_actions": 1,
                     "exp_per_item": {
                         "type": "",
@@ -5249,7 +5249,7 @@
                 },
                 {
                     "name": "DYE_FLAME",
-                    "npc_price": 4,
+                    "npc_price": 0,
                     "amount_per_actions": 0.000001,
                     "exp_per_item": {
                         "type": "",
