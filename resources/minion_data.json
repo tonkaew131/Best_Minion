@@ -5234,6 +5234,165 @@
                     ]
                 }
             }
+        },{
+            "name": "Inferno Minion",
+            "type": "COMBAT",
+            "items": [
+                {
+                    "name": "CRUDE_GABAGOOL",
+                    "npc_price": 7,
+                    "amount_per_actions": 1,
+                    "exp_per_item": {
+                        "type": "",
+                        "amount": 0
+                    }
+                },
+                {
+                    "name": "DYE_FLAME",
+                    "npc_price": 4,
+                    "amount_per_actions": 0.000001,
+                    "exp_per_item": {
+                        "type": "",
+                        "amount": 0
+                    }
+                }
+            ],
+            "tier": {
+                "1": {
+                    "times_between_action": 1102,
+                    "storage_slot": 64,
+                    "upgrade_items": [
+                        {
+                            "name": "DERELICT_ASHE",
+                            "amount": 80
+                        },
+                        {
+                            "name": "BLAZE_MINION_1",
+                            "amount": 1
+                        }
+                    ]
+                },
+                "2": {
+                    "times_between_action": 1068,
+                    "storage_slot": 192,
+                    "upgrade_items": [
+                        {
+                            "name": "DERELICT_ASHE",
+                            "amount": 320
+                        }
+                    ]
+                },
+                "3": {
+                    "times_between_action": 1033,
+                    "storage_slot": 192,
+                    "upgrade_items": [
+                        {
+                            "name": "MOLTEN_POWDER",
+                            "amount": 8
+                        }
+                    ]
+                },
+                "4": {
+                    "times_between_action": 999,
+                    "storage_slot": 384,
+                    "upgrade_items": [
+                        {
+                            "name": "MOLTEN_POWDER",
+                            "amount": 16
+                        }
+                    ]
+                },
+                "5": {
+                    "times_between_action": 964,
+                    "storage_slot": 384,
+                    "upgrade_items": [
+                        {
+                            "name": "MOLTEN_POWDER",
+                            "amount": 32
+                        }
+                    ]
+                },
+                "6": {
+                    "times_between_action": 930,
+                    "storage_slot": 576,
+                    "upgrade_items": [
+                        {
+                            "name": "MOLTEN_POWDER",
+                            "amount": 64
+                        }
+                    ]
+                },
+                "7": {
+                    "times_between_action": 895,
+                    "storage_slot": 576,
+                    "upgrade_items": [
+                        {
+                            "name": "MOLTEN_POWDER",
+                            "amount": 128
+                        }
+                    ]
+                },
+                "8": {
+                    "times_between_action": 861,
+                    "storage_slot": 768,
+                    "upgrade_items": [
+                        {
+                            "name": "MOLTEN_POWDER",
+                            "amount": 256
+                        }
+                    ]
+                },
+                "9": {
+                    "times_between_action": 827,
+                    "storage_slot": 768,
+                    "upgrade_items": [
+                        {
+                            "name": "MOLTEN_POWDER",
+                            "amount": 128
+                        },
+                        {
+                            "name": "INFERNO_VERTEX",
+                            "amount": 16
+                        }
+                    ]
+                },
+                "10": {
+                    "times_between_action": 792,
+                    "storage_slot": 960,
+                    "upgrade_items": [
+                        {
+                            "name": "MOLTEN_POWDER",
+                            "amount": 256
+                        },
+                        {
+                            "name": "INFERNO_VERTEX",
+                            "amount": 48
+                        }
+                    ]
+                },
+                "11": {
+                    "times_between_action": 758,
+                    "storage_slot": 960,
+                    "upgrade_items": [
+                        {
+                            "name": "MOLTEN_POWDER",
+                            "amount": 256
+                        },
+                        {
+                            "name": "INFERNO_VERTEX",
+                            "amount": 48
+                        },
+                        {
+                            "name": "INFERNO_APEX",
+                            "amount": 1
+                        },
+                        {
+                            "name": "INFERNO_MINION_8",
+                            "amount": 1
+                        }
+                    ]
+                }
+            }
         },
         {
             "name": "Skeleton Minion",
