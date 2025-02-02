@@ -1,0 +1,352 @@
+{
+    "minions": {
+        "Cobblestone Minion": {
+            "head": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/a/a0/Cobblestone_Minion_I.png/revision/latest?cb=20191128042804",
+            "full": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/c/cf/Cobblestone_Minion.png/revision/latest?cb=20191218170726",
+            "color": "#649fbd",
+            "wiki_link": "https://hypixel-skyblock.fandom.com/wiki/Cobblestone_Minion"
+        },
+        "Obsidian Minion": {
+            "head": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/5/56/Obsidian_Minion_I.png/revision/latest?cb=20200402103252",
+            "full": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/f/f0/Obsidian_Minion.png/revision/latest?cb=20200531170409",
+            "color": "#171717",
+            "wiki_link": "https://hypixel-skyblock.fandom.com/wiki/Obsidian_Minion"
+        },
+        "Glowstone Minion": {
+            "head": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/2/24/Glowstone_Minion_I.png/revision/latest?cb=20200402103214",
+            "full": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/4/42/Glowstone_Minion.png/revision/latest?cb=20200531170318",
+            "color": "#19313d",
+            "wiki_link": "https://hypixel-skyblock.fandom.com/wiki/Glowstone_Minion"
+        },
+        "Gravel Minion": {
+            "head": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/8/84/Gravel_Minion_I.png/revision/latest?cb=20200504150941",
+            "full": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/2/23/Gravel_Minion.png/revision/latest/scale-to-width-down/310?cb=20190716142743",
+            "color": "#a32727",
+            "wiki_link": "https://hypixel-skyblock.fandom.com/wiki/Gravel_Minion"
+        },
+        "Sand Minion": {
+            "head": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/3/35/Sand_Minion_I.png/revision/latest?cb=20200402103218",
+            "full": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/7/72/Sand_Minion.png/revision/latest?cb=20200531170650",
+            "color": "#fff74a",
+            "wiki_link": "https://hypixel-skyblock.fandom.com/wiki/Sand_Minion"
+        },
+        "Red Sand Minion": {
+            "head": "https://wiki.hypixel.net/images/a/ab/SkyBlock_items_red_sand_generator_1.png",
+            "full": "https://wiki.hypixel.net/images/7/70/SkyBlock_minion_red_sand_minion.png",
+            "color": "#e7b28a",
+            "wiki_link": "https://wiki.hypixel.net/Red_Sand_Minion"
+        },
+        "Mycelium Minion": {
+            "head": "https://wiki.hypixel.net/images/1/1f/SkyBlock_items_mycelium_generator_1.png",
+            "full": "https://wiki.hypixel.net/images/e/e3/SkyBlock_minion_mycelium_minion.png",
+            "color": "#aea7b9",
+            "wiki_link": "https://wiki.hypixel.net/Mycelium_Minion"
+        },
+        "Clay Minion": {
+            "head": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/8/8e/Clay_Minion_I.png/revision/latest?cb=20200402103222",
+            "full": "https://hywikis.com/skyblock/images/c/c1/Clay_Minion.png",
+            "color": "#7c4e1d",
+            "wiki_link": "https://hypixel-skyblock.fandom.com/wiki/Clay_Minion"
+        },
+        "Ice Minion": {
+            "head": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/f/f7/Ice_Minion_I.png/revision/latest?cb=20200402103227",
+            "full": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/8/86/Ice_Minion.png/revision/latest?cb=20200531170336",
+            "color": "#c0eaff",
+            "wiki_link": "https://hypixel-skyblock.fandom.com/wiki/Ice_Minion"
+        },
+        "Snow Minion": {
+            "head": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/5/58/Snow_Minion_I.png/revision/latest?cb=20191220062451",
+            "full": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/f/fe/Snow_Minion.png/revision/latest?cb=20200531170706",
+            "color": "#e0f2fc",
+            "wiki_link": "https://hypixel-skyblock.fandom.com/wiki/Snow_Minion"
+        },
+        "Coal Minion": {
+            "head": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/5/5c/Coal_Minion_I.png/revision/latest?cb=20200402103257",
+            "full": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/7/7e/Coal_Minion.png/revision/latest?cb=20200529190545",
+            "color": "#19303e",
+            "wiki_link": "https://hypixel-skyblock.fandom.com/wiki/Coal_Minion"
+        },
+        "Iron Minion": {
+            "head": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/7/75/Iron_Minion_I.png/revision/latest?cb=20200402103232",
+            "full": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/6/6f/Iron_Minion.png/revision/latest/scale-to-width-down/310?cb=20190716142908",
+            "color": "#bdbdbd",
+            "wiki_link": "https://hypixel-skyblock.fandom.com/wiki/Iron_Minion"
+        },
+        "Gold Minion": {
+            "head": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/c/ce/Gold_Minion_I.png/revision/latest?cb=20200402103241",
+            "full": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/9/9a/Gold_Minion.png/revision/latest?cb=20200531170326",
+            "color": "#ffdc06",
+            "wiki_link": "https://hypixel-skyblock.fandom.com/wiki/Gold_Minion"
+        },
+        "Diamond Minion": {
+            "head": "https://static.wikia.nocookie.net/hypixel-skyblock/images/7/7b/Diamond_Minion_I.png/revision/latest/scale-to-width-down/300?cb=20210704032749",
+            "full": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/1/16/Diamond_Minion.png/revision/latest?cb=20200529190555",
+            "color": "#1da881",
+            "wiki_link": "https://hypixel-skyblock.fandom.com/wiki/Diamond_Minion"
+        },
+        "Lapis Minion": {
+            "head": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/7/70/Lapis_Minion_I.png/revision/latest?cb=20200402103242",
+            "full": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/f/fe/Lapis_Minion.png/revision/latest?cb=20200531170346",
+            "color": "#1f4e84",
+            "wiki_link": "https://hypixel-skyblock.fandom.com/wiki/Lapis_Minion"
+        },
+        "Redstone Minion": {
+            "head": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/c/cd/Redstone_Minion_I.png/revision/latest?cb=20200402103247",
+            "full": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/c/cc/Redstone_Minion.png/revision/latest?cb=20200531170649",
+            "color": "#b5472e",
+            "wiki_link": "https://hypixel-skyblock.fandom.com/wiki/Redstone_Minion"
+        },
+        "Emerald Minion": {
+            "head": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/b/b4/Emerald_Minion_I.png/revision/latest?cb=20200402103302",
+            "full": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/0/09/Emerald_Minion.png/revision/latest?cb=20200529190606",
+            "color": "#84ca50",
+            "wiki_link": "https://hypixel-skyblock.fandom.com/wiki/Emerald_Minion"
+        },
+        "Quartz Minion": {
+            "head": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/4/46/Quartz_Minion_I.png/revision/latest?cb=20200402103306",
+            "full": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/5/5e/Quartz_Minion.png/revision/latest?cb=20200531170648",
+            "color": "#ebebeb",
+            "wiki_link": "https://hypixel-skyblock.fandom.com/wiki/Quartz_Minion"
+        },
+        "End Stone Minion": {
+            "head": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/e/ea/End_Stone_Minion_I.png/revision/latest?cb=20200402103310",
+            "full": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/c/c9/End_Stone_Minion.png/revision/latest?cb=20200529190613",
+            "color": "#f7f8cc",
+            "wiki_link": "https://hypixel-skyblock.fandom.com/wiki/End_Stone_Minion"
+        },
+        "Mithril Minion": {
+            "head": "https://static.wikia.nocookie.net/hypixel-skyblock/images/a/a9/Mithril_Minion_I.png/revision/latest/scale-to-width-down/300?cb=20210116030232",
+            "full": "https://static.wikia.nocookie.net/hypixel-skyblock/images/a/a9/Mithril_Minion_I.png/revision/latest/scale-to-width-down/300?cb=20210116030232",
+            "color": "#d19f3f",
+            "wiki_link": "https://hypixel-skyblock.fandom.com/wiki/Mithril_Minion"
+        },
+        "Hard Stone Minion": {
+            "head": "https://static.wikia.nocookie.net/hypixel-skyblock/images/c/c6/Hard_Stone_Minion_I.png/revision/latest/scale-to-width-down/300?cb=20210706194047",
+            "full": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/f/f2/Wheat_Minion.png/revision/latest?cb=20200531170718",
+            "color": "#26316f",
+            "wiki_link": "https://hypixel-skyblock.fandom.com/wiki/Hard_Stone_Minion"
+        },
+        "Wheat Minion": {
+            "head": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/1/13/Wheat_Minion_I.png/revision/latest/scale-to-width-down/310?cb=20190724144437",
+            "full": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/f/f2/Wheat_Minion.png/revision/latest?cb=20200531170718",
+            "color": "#f9ea45",
+            "wiki_link": "https://hypixel-skyblock.fandom.com/wiki/Wheat_Minion"
+        },
+        "Melon Minion": {
+            "head": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/d/db/Melon_Minion_I.png/revision/latest?cb=20200402103314",
+            "full": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/f/f9/Melon_Minion.png/revision/latest?cb=20200531170352",
+            "color": "#1d4d27",
+            "wiki_link": "https://hypixel-skyblock.fandom.com/wiki/Melon_Minion"
+        },
+        "Pumpkin Minion": {
+            "head": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/4/4b/Pumpkin_Minion_I.png/revision/latest?cb=20200402103318",
+            "full": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/2/2d/Pumpkin_Minion.png/revision/latest?cb=20200531170648",
+            "color": "#ffa506",
+            "wiki_link": "https://hypixel-skyblock.fandom.com/wiki/Pumpkin_Minion"
+        },
+        "Carrot Minion": {
+            "head": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/5/51/Carrot_Minion_I.png/revision/latest?cb=20200121174919",
+            "full": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/6/63/Carrot_Minion.png/revision/latest?cb=20200529190543",
+            "color": "#fefef4",
+            "wiki_link": "https://hypixel-skyblock.fandom.com/wiki/Carrot_Minion"
+        },
+        "Potato Minion": {
+            "head": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/9/97/Potato_Minion_I.png/revision/latest?cb=20200402103323",
+            "full": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/4/41/Potato_Minion.png/revision/latest?cb=20200531170409",
+            "color": "#fefef4",
+            "wiki_link": "https://hypixel-skyblock.fandom.com/wiki/Potato_Minion"
+        },
+        "Mushroom Minion": {
+            "head": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/e/e6/Mushroom_Minion_I.png/revision/latest?cb=20200402103332",
+            "full": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/6/68/Mushroom_Minion.png/revision/latest?cb=20200531170352",
+            "color": "#d0134d",
+            "wiki_link": "https://hypixel-skyblock.fandom.com/wiki/Mushroom_Minion"
+        },
+        "Cactus Minion": {
+            "head": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/9/96/Cactus_Minion_I.png/revision/latest?cb=20200430172802",
+            "full": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/0/0c/Cactus_Minion.png/revision/latest?cb=20200529190534",
+            "color": "#93e34c",
+            "wiki_link": "https://hypixel-skyblock.fandom.com/wiki/Cactus_Minion"
+        },
+        "Cocoa Beans Minion": {
+            "head": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/b/b2/Cocoa_Beans_Minion_I.png/revision/latest?cb=20200430172803",
+            "full": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/4/4b/Cocoa_Beans_Minion.png/revision/latest/scale-to-width-down/310?cb=20190716142616",
+            "color": "#985504",
+            "wiki_link": "https://hypixel-skyblock.fandom.com/wiki/Cocoa_Beans_Minion"
+        },
+        "Sugar Cane Minion": {
+            "head": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/4/4e/Sugar_Cane_Minion_I.png/revision/latest?cb=20200430172806",
+            "full": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/4/4b/Sugar_Cane_Minion.png/revision/latest?cb=20200531170707",
+            "color": "#45effc",
+            "wiki_link": "https://hypixel-skyblock.fandom.com/wiki/Sugar_Cane_Minion"
+        },
+        "Nether Wart Minion": {
+            "head": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/4/48/Nether_Wart_Minion_I.png/revision/latest?cb=20200430172805",
+            "full": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/8/84/Nether_Wart_Minion.png/revision/latest?cb=20200531170354",
+            "color": "#c73de8",
+            "wiki_link": "https://hypixel-skyblock.fandom.com/wiki/Nether_Wart_Minion"
+        },
+        "Flower Minion": {
+            "head": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/3/36/Flower_Minion_I.png/revision/latest?cb=20191206043058",
+            "full": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/1/13/Flower_Minion.png/revision/latest?cb=20200529190615",
+            "color": "#53fbc6",
+            "wiki_link": "https://hypixel-skyblock.fandom.com/wiki/Flower_Minion"
+        },
+        "Fishing Minion": {
+            "head": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/4/4a/Fishing_Minion_I.png/revision/latest?cb=20200430172807",
+            "full": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/3/3f/Fishing_Minion.png/revision/latest?cb=20200529190614",
+            "color": "#94caee",
+            "wiki_link": "https://hypixel-skyblock.fandom.com/wiki/Fishing_Minion"
+        },
+        "Zombie Minion": {
+            "head": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/5/5c/Zombie_Minion_I.png/revision/latest?cb=20200430172808",
+            "full": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/c/ca/Zombie_Minion.png/revision/latest?cb=20200531170757",
+            "color": "#b9f8a9",
+            "wiki_link": "https://hypixel-skyblock.fandom.com/wiki/Zombie_Minion"
+        },
+        "Revenant Minion": {
+            "head": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/1/18/Revenant_Minion_I.png/revision/latest?cb=20200430172809",
+            "full": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/0/07/Revenant_Minion.png/revision/latest?cb=20200531170650",
+            "color": "#87c7c7",
+            "wiki_link": "https://hypixel-skyblock.fandom.com/wiki/Revenant_Minion"
+        },
+        "Voidling Minion": {
+            "head": "https://static.wikia.nocookie.net/hypixel-skyblock/images/c/ca/Voidling_Minion_I.png/revision/latest/scale-to-width-down/300?cb=20210601163248",
+            "full": "https://static.wikia.nocookie.net/hypixel-skyblock/images/a/a0/Voidling_Minion.png/revision/latest/scale-to-width-down/306?cb=20210621222206",
+            "color": "#232323",
+            "wiki_link": "https://hypixel-skyblock.fandom.com/wiki/Voidling_Minion"
+        },
+        "Inferno Minion": {
+            "head": "https://static.wikia.nocookie.net/hypixel-skyblock/images/2/2b/Inferno_Minion_I.png/revision/latest?cb=20220404135206",
+            "full": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/f/f2/Wheat_Minion.png/revision/latest?cb=20200531170718",
+            "color": "#ff8506",
+            "wiki_link": "https://hypixel-skyblock.fandom.com/wiki/Inferno_Minion"
+        },
+        "Skeleton Minion": {
+            "head": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/6/69/Skeleton_Minion_I.png/revision/latest?cb=20200430172810",
+            "full": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/b/b7/Skeleton_Minion.png/revision/latest?cb=20200531170658",
+            "color": "#5dbcd2",
+            "wiki_link": "https://hypixel-skyblock.fandom.com/wiki/Skeleton_Minion"
+        },
+        "Creeper Minion": {
+            "head": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/7/7e/Creeper_Minion_I.png/revision/latest?cb=20191110044346",
+            "full": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/3/39/Creeper_Minion.png/revision/latest?cb=20200529190553",
+            "color": "#ceff72",
+            "wiki_link": "https://hypixel-skyblock.fandom.com/wiki/Creeper_Minion"
+        },
+        "Spider Minion": {
+            "head": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/9/91/Spider_Minion_I.png/revision/latest?cb=20200430172813",
+            "full": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/c/c0/Spider_Minion.png/revision/latest?cb=20200531170706",
+            "color": "#b5987a",
+            "wiki_link": "https://hypixel-skyblock.fandom.com/wiki/Spider_Minion"
+        },
+        "Tarantula Minion": {
+            "head": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/d/d0/Tarantula_Minion_I.png/revision/latest?cb=20200430172814",
+            "full": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/e/e4/Tarantula_Minion.png/revision/latest?cb=20200531170711",
+            "color": "#001f33",
+            "wiki_link": "https://hypixel-skyblock.fandom.com/wiki/Tarantula_Minion"
+        },
+        "Cave Spider Minion": {
+            "head": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/7/78/Cave_Spider_Minion_I.png/revision/latest?cb=20200430172815",
+            "full": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/9/9e/Cave_Spider_Minion.png/revision/latest?cb=20200529190543",
+            "color": "#373b3e",
+            "wiki_link": "https://hypixel-skyblock.fandom.com/wiki/Cave_Spider_Minion"
+        },
+        "Blaze Minion": {
+            "head": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/5/59/Blaze_Minion_I.png/revision/latest?cb=20200430172816",
+            "full": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/5/56/Blaze_Minion.png/revision/latest?cb=20200529190529",
+            "color": "#ffdd05",
+            "wiki_link": "https://hypixel-skyblock.fandom.com/wiki/Blaze_Minion"
+        },
+        "Magma Cube Minion": {
+            "head": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/7/7c/Magma_Cube_Minion_I.png/revision/latest?cb=20200430172817",
+            "full": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/2/29/Magma_Cube_Minion.png/revision/latest?cb=20200531170347",
+            "color": "#ffa506",
+            "wiki_link": "https://hypixel-skyblock.fandom.com/wiki/Magma_Cube_Minion"
+        },
+        "Enderman Minion": {
+            "head": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/3/30/Enderman_Minion_I.png/revision/latest?cb=20200430172818",
+            "full": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/4/4d/Enderman_Minion.png/revision/latest?cb=20200529190613",
+            "color": "#232323",
+            "wiki_link": "https://hypixel-skyblock.fandom.com/wiki/Enderman_Minion"
+        },
+        "Ghast Minion": {
+            "head": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/1/1e/Ghast_Minion_I.png/revision/latest?cb=20200430172819",
+            "full": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/6/68/Ghast_Minion.png/revision/latest?cb=20200529190628",
+            "color": "#e9f2f1",
+            "wiki_link": "https://hypixel-skyblock.fandom.com/wiki/Ghast_Minion"
+        },
+        "Slime Minion": {
+            "head": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/4/49/Slime_Minion_I.png/revision/latest?cb=20200430172821",
+            "full": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/4/4e/Slime_Minion.png/revision/latest?cb=20200531170705",
+            "color": "#88ef48",
+            "wiki_link": "https://hypixel-skyblock.fandom.com/wiki/Slime_Minion"
+        },
+        "Cow Minion": {
+            "head": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/b/bd/Cow_Minion_I.png/revision/latest?cb=20200430172822",
+            "full": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/a/a2/Cow_Minion.png/revision/latest?cb=20200529190519",
+            "color": "#fefefe",
+            "wiki_link": "https://hypixel-skyblock.fandom.com/wiki/Cow_Minion"
+        },
+        "Pig Minion": {
+            "head": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/7/7d/Pig_Minion_I.png/revision/latest?cb=20200430172823",
+            "full": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/d/dd/Pig_Minion.png/revision/latest?cb=20200531170409",
+            "color": "#ff95cd",
+            "wiki_link": "https://hypixel-skyblock.fandom.com/wiki/Pig_Minion"
+        },
+        "Chicken Minion": {
+            "head": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/8/8a/Chicken_Minion_I.png/revision/latest?cb=20200430172824",
+            "full": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/2/28/Chicken_Minion.png/revision/latest?cb=20200529190544",
+            "color": "#fefef4",
+            "wiki_link": "https://hypixel-skyblock.fandom.com/wiki/Chicken_Minion"
+        },
+        "Sheep Minion": {
+            "head": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/1/1b/Sheep_Minion_I.png/revision/latest?cb=20200430173112",
+            "full": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/7/75/Sheep_Minion.png/revision/latest?cb=20200531170658",
+            "color": "#d4fefa",
+            "wiki_link": "https://hypixel-skyblock.fandom.com/wiki/Sheep_Minion"
+        },
+        "Rabbit Minion": {
+            "head": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/d/d5/Rabbit_Minion_I.png/revision/latest?cb=20200430173113",
+            "full": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/e/ef/Rabbit_Minion.png/revision/latest?cb=20200531170649",
+            "color": "#fefef4",
+            "wiki_link": "https://hypixel-skyblock.fandom.com/wiki/Rabbit_Minion"
+        },
+        "Oak Minion": {
+            "head": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/6/69/Oak_Minion_I.png/revision/latest?cb=20200430173114",
+            "full": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/a/a3/Oak_Minion.png/revision/latest?cb=20200531170401",
+            "color": "#fff15d",
+            "wiki_link": "https://hypixel-skyblock.fandom.com/wiki/Oak_Minion"
+        },
+        "Spruce Minion": {
+            "head": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/4/4e/Spruce_Minion_I.png/revision/latest?cb=20200430173116",
+            "full": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/5/5f/Spruce_Minion.png/revision/latest?cb=20200531170707",
+            "color": "#0691ae",
+            "wiki_link": "https://hypixel-skyblock.fandom.com/wiki/Spruce_Minion"
+        },
+        "Birch Minion": {
+            "head": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/d/d0/Birch_Minion_I.png/revision/latest?cb=20200430173117",
+            "full": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/a/a2/Birch_Minion.png/revision/latest?cb=20200529190529",
+            "color": "#d8edf0",
+            "wiki_link": "https://hypixel-skyblock.fandom.com/wiki/Birch_Minion"
+        },
+        "Dark Oak Minion": {
+            "head": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/5/50/Dark_Oak_Minion_I.png/revision/latest?cb=20200430173118",
+            "full": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/f/f8/Dark_Oak_Minion.png/revision/latest?cb=20200529190554",
+            "color": "#5dbcd2",
+            "wiki_link": "https://hypixel-skyblock.fandom.com/wiki/Dark_Oak_Minion"
+        },
+        "Acacia Minion": {
+            "head": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/3/3d/Acacia_Minion_I.png/revision/latest?cb=20200430173119",
+            "full": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/e/e6/Acacia_Minion.png/revision/latest?cb=20190716142418",
+            "color": "#e84097",
+            "wiki_link": "https://hypixel-skyblock.fandom.com/wiki/Acacia_Minion"
+        },
+        "Jungle Minion": {
+            "head": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/1/13/Jungle_Minion_I.png/revision/latest?cb=20200430173121",
+            "full": "https://vignette.wikia.nocookie.net/hypixel-skyblock/images/2/26/Jungle_Minion.png/revision/latest?cb=20200531170336",
+            "color": "#a7f353",
+            "wiki_link": "https://hypixel-skyblock.fandom.com/wiki/Jungle_Minion"
+        }
+    }
+}

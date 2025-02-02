@@ -1,0 +1,3276 @@
+{
+    "talisman_upgrades": {
+        "WOLF_TALISMAN": [
+            "WOLF_RING"
+        ],
+        "RING_POTION_AFFINITY": [
+            "ARTIFACT_POTION_AFFINITY"
+        ],
+        "POTION_AFFINITY_TALISMAN": [
+            "RING_POTION_AFFINITY",
+            "ARTIFACT_POTION_AFFINITY"
+        ],
+        "FEATHER_RING": [
+            "FEATHER_ARTIFACT"
+        ],
+        "FEATHER_TALISMAN": [
+            "FEATHER_RING",
+            "FEATHER_ARTIFACT"
+        ],
+        "SEA_CREATURE_RING": [
+            "SEA_CREATURE_ARTIFACT"
+        ],
+        "SEA_CREATURE_TALISMAN": [
+            "SEA_CREATURE_RING",
+            "SEA_CREATURE_ARTIFACT"
+        ],
+        "HEALING_TALISMAN": [
+            "HEALING_RING"
+        ],
+        "CANDY_ARTIFACT": [
+            "CANDY_RELIC"
+        ],
+        "CANDY_RING": [
+            "CANDY_ARTIFACT",
+            "CANDY_RELIC"
+        ],
+        "CANDY_TALISMAN": [
+            "CANDY_RING",
+            "CANDY_ARTIFACT",
+            "CANDY_RELIC"
+        ],
+        "INTIMIDATION_RING": [
+            "INTIMIDATION_ARTIFACT"
+        ],
+        "INTIMIDATION_TALISMAN": [
+            "INTIMIDATION_RING",
+            "INTIMIDATION_ARTIFACT"
+        ],
+        "SPIDER_RING": [
+            "SPIDER_ARTIFACT"
+        ],
+        "SPIDER_TALISMAN": [
+            "SPIDER_RING",
+            "SPIDER_ARTIFACT"
+        ],
+        "RED_CLAW_RING": [
+            "RED_CLAW_ARTIFACT"
+        ],
+        "RED_CLAW_TALISMAN": [
+            "RED_CLAW_RING",
+            "RED_CLAW_ARTIFACT"
+        ],
+        "HUNTER_TALISMAN": [
+            "HUNTER_RING"
+        ],
+        "ZOMBIE_RING": [
+            "ZOMBIE_ARTIFACT"
+        ],
+        "ZOMBIE_TALISMAN": [
+            "ZOMBIE_RING",
+            "ZOMBIE_ARTIFACT"
+        ],
+        "BAT_RING": [
+            "BAT_ARTIFACT"
+        ],
+        "BAT_TALISMAN": [
+            "BAT_RING",
+            "BAT_ARTIFACT"
+        ],
+        "BROKEN_PIGGY_BANK": [
+            "CRACKED_PIGGY_BANK",
+            "PIGGY_BANK"
+        ],
+        "CRACKED_PIGGY_BANK": [
+            "PIGGY_BANK"
+        ],
+        "SPEED_TALISMAN": [
+            "SPEED_RING",
+            "SPEED_ARTIFACT"
+        ],
+        "SPEED_RING": [
+            "SPEED_ARTIFACT"
+        ],
+        "PERSONAL_COMPACTOR_4000": [
+            "PERSONAL_COMPACTOR_5000",
+            "PERSONAL_COMPACTOR_6000",
+            "PERSONAL_COMPACTOR_7000"
+        ],
+        "PERSONAL_COMPACTOR_5000": [
+            "PERSONAL_COMPACTOR_6000",
+            "PERSONAL_COMPACTOR_7000"
+        ],
+        "PERSONAL_COMPACTOR_6000": [
+            "PERSONAL_COMPACTOR_7000"
+        ],
+        "PERSONAL_DELETOR_4000": [
+            "PERSONAL_DELETOR_5000",
+            "PERSONAL_DELETOR_6000",
+            "PERSONAL_DELETOR_7000"
+        ],
+        "PERSONAL_DELETOR_5000": [
+            "PERSONAL_DELETOR_6000",
+            "PERSONAL_DELETOR_7000"
+        ],
+        "PERSONAL_DELETOR_6000": [
+            "PERSONAL_DELETOR_7000"
+        ],
+        "SCARF_STUDIES": [
+            "SCARF_THESIS",
+            "SCARF_GRIMOIRE"
+        ],
+        "SCARF_THESIS": [
+            "SCARF_GRIMOIRE"
+        ],
+        "CAT_TALISMAN": [
+            "LYNX_TALISMAN",
+            "CHEETAH_TALISMAN"
+        ],
+        "LYNX_TALISMAN": [
+            "CHEETAH_TALISMAN"
+        ],
+        "SHADY_RING": [
+            "CROOKED_ARTIFACT",
+            "SEAL_OF_THE_FAMILY"
+        ],
+        "CROOKED_ARTIFACT": [
+            "SEAL_OF_THE_FAMILY"
+        ],
+        "TREASURE_TALISMAN": [
+            "TREASURE_RING",
+            "TREASURE_ARTIFACT"
+        ],
+        "TREASURE_RING": [
+            "TREASURE_ARTIFACT"
+        ],
+        "BEASTMASTER_CREST_COMMON": [
+            "BEASTMASTER_CREST_UNCOMMON",
+            "BEASTMASTER_CREST_RARE",
+            "BEASTMASTER_CREST_EPIC",
+            "BEASTMASTER_CREST_LEGENDARY"
+        ],
+        "BEASTMASTER_CREST_UNCOMMON": [
+            "BEASTMASTER_CREST_RARE",
+            "BEASTMASTER_CREST_EPIC",
+            "BEASTMASTER_CREST_LEGENDARY"
+        ],
+        "BEASTMASTER_CREST_RARE": [
+            "BEASTMASTER_CREST_EPIC",
+            "BEASTMASTER_CREST_LEGENDARY"
+        ],
+        "BEASTMASTER_CREST_EPIC": [
+            "BEASTMASTER_CREST_LEGENDARY"
+        ],
+        "RAGGEDY_SHARK_TOOTH_NECKLACE": [
+            "DULL_SHARK_TOOTH_NECKLACE",
+            "HONED_SHARK_TOOTH_NECKLACE",
+            "SHARP_SHARK_TOOTH_NECKLACE",
+            "RAZOR_SHARP_SHARK_TOOTH_NECKLACE"
+        ],
+        "DULL_SHARK_TOOTH_NECKLACE": [
+            "HONED_SHARK_TOOTH_NECKLACE",
+            "SHARP_SHARK_TOOTH_NECKLACE",
+            "RAZOR_SHARP_SHARK_TOOTH_NECKLACE"
+        ],
+        "HONED_SHARK_TOOTH_NECKLACE": [
+            "SHARP_SHARK_TOOTH_NECKLACE",
+            "RAZOR_SHARP_SHARK_TOOTH_NECKLACE"
+        ],
+        "SHARP_SHARK_TOOTH_NECKLACE": [
+            "RAZOR_SHARP_SHARK_TOOTH_NECKLACE"
+        ],
+        "BAT_PERSON_TALISMAN": [
+            "BAT_PERSON_RING",
+            "BAT_PERSON_ARTIFACT"
+        ],
+        "BAT_PERSON_RING": [
+            "BAT_PERSON_ARTIFACT"
+        ],
+        "LUCKY_HOOF": [
+            "ETERNAL_HOOF"
+        ],
+        "WITHER_ARTIFACT": [
+            "WITHER_RELIC"
+        ],
+        "WEDDING_RING_0": [
+            "WEDDING_RING_2",
+            "WEDDING_RING_4",
+            "WEDDING_RING_7",
+            "WEDDING_RING_9"
+        ],
+        "WEDDING_RING_2": [
+            "WEDDING_RING_4",
+            "WEDDING_RING_7",
+            "WEDDING_RING_9"
+        ],
+        "WEDDING_RING_4": [
+            "WEDDING_RING_7",
+            "WEDDING_RING_9"
+        ],
+        "WEDDING_RING_7": [
+            "WEDDING_RING_9"
+        ],
+        "CAMPFIRE_TALISMAN_1": [
+            "CAMPFIRE_TALISMAN_4",
+            "CAMPFIRE_TALISMAN_8",
+            "CAMPFIRE_TALISMAN_13",
+            "CAMPFIRE_TALISMAN_21"
+        ],
+        "CAMPFIRE_TALISMAN_4": [
+            "CAMPFIRE_TALISMAN_8",
+            "CAMPFIRE_TALISMAN_13",
+            "CAMPFIRE_TALISMAN_21"
+        ],
+        "CAMPFIRE_TALISMAN_8": [
+            "CAMPFIRE_TALISMAN_13",
+            "CAMPFIRE_TALISMAN_21"
+        ],
+        "CAMPFIRE_TALISMAN_13": [
+            "CAMPFIRE_TALISMAN_21"
+        ],
+        "JERRY_TALISMAN_GREEN": [
+            "JERRY_TALISMAN_BLUE",
+            "JERRY_TALISMAN_PURPLE",
+            "JERRY_TALISMAN_GOLDEN"
+        ],
+        "JERRY_TALISMAN_BLUE": [
+            "JERRY_TALISMAN_PURPLE",
+            "JERRY_TALISMAN_GOLDEN"
+        ],
+        "JERRY_TALISMAN_PURPLE": [
+            "JERRY_TALISMAN_GOLDEN"
+        ],
+        "TITANIUM_TALISMAN": [
+            "TITANIUM_RING",
+            "TITANIUM_ARTIFACT",
+            "TITANIUM_RELIC"
+        ],
+        "TITANIUM_RING": [
+            "TITANIUM_ARTIFACT",
+            "TITANIUM_RELIC"
+        ],
+        "TITANIUM_ARTIFACT": [
+            "TITANIUM_RELIC"
+        ],
+        "BAIT_RING": [
+            "SPIKED_ATROCITY"
+        ],
+        "MASTER_SKULL_TIER_1": [
+            "MASTER_SKULL_TIER_2",
+            "MASTER_SKULL_TIER_3",
+            "MASTER_SKULL_TIER_4",
+            "MASTER_SKULL_TIER_5",
+            "MASTER_SKULL_TIER_6",
+            "MASTER_SKULL_TIER_7"
+        ],
+        "MASTER_SKULL_TIER_2": [
+            "MASTER_SKULL_TIER_3",
+            "MASTER_SKULL_TIER_4",
+            "MASTER_SKULL_TIER_5",
+            "MASTER_SKULL_TIER_6",
+            "MASTER_SKULL_TIER_7"
+        ],
+        "MASTER_SKULL_TIER_3": [
+            "MASTER_SKULL_TIER_4",
+            "MASTER_SKULL_TIER_5",
+            "MASTER_SKULL_TIER_6",
+            "MASTER_SKULL_TIER_7"
+        ],
+        "MASTER_SKULL_TIER_4": [
+            "MASTER_SKULL_TIER_5",
+            "MASTER_SKULL_TIER_6",
+            "MASTER_SKULL_TIER_7"
+        ],
+        "MASTER_SKULL_TIER_5": [
+            "MASTER_SKULL_TIER_6",
+            "MASTER_SKULL_TIER_7"
+        ],
+        "MASTER_SKULL_TIER_6": [
+            "MASTER_SKULL_TIER_7"
+        ],
+        "SOULFLOW_PILE": [
+            "SOULFLOW_BATTERY",
+            "SOULFLOW_SUPERCELL"
+        ],
+        "SOULFLOW_BATTERY": [
+            "SOULFLOW_SUPERCELL"
+        ],
+        "ENDER_ARTIFACT": [
+            "ENDER_RELIC"
+        ],
+        "POWER_TALISMAN": [
+            "POWER_RING",
+            "POWER_ARTIFACT"
+        ],
+        "POWER_RING": [
+            "POWER_ARTIFACT"
+        ],
+        "BINGO_TALISMAN": [
+            "BINGO_RING"
+        ]
+    },
+    "talisman_duplicates": {
+        "WEDDING_RING_0": [
+            "WEDDING_RING_1"
+        ],
+        "WEDDING_RING_2": [
+            "WEDDING_RING_3"
+        ],
+        "WEDDING_RING_4": [
+            "WEDDING_RING_5",
+            "WEDDING_RING_6"
+        ],
+        "WEDDING_RING_7": [
+            "WEDDING_RING_8"
+        ],
+        "CAMPFIRE_TALISMAN_1": [
+            "CAMPFIRE_TALISMAN_2",
+            "CAMPFIRE_TALISMAN_3"
+        ],
+        "CAMPFIRE_TALISMAN_4": [
+            "CAMPFIRE_TALISMAN_5",
+            "CAMPFIRE_TALISMAN_6",
+            "CAMPFIRE_TALISMAN_7"
+        ],
+        "CAMPFIRE_TALISMAN_8": [
+            "CAMPFIRE_TALISMAN_9",
+            "CAMPFIRE_TALISMAN_10",
+            "CAMPFIRE_TALISMAN_11",
+            "CAMPFIRE_TALISMAN_12"
+        ],
+        "CAMPFIRE_TALISMAN_13": [
+            "CAMPFIRE_TALISMAN_14",
+            "CAMPFIRE_TALISMAN_15",
+            "CAMPFIRE_TALISMAN_16",
+            "CAMPFIRE_TALISMAN_17",
+            "CAMPFIRE_TALISMAN_18",
+            "CAMPFIRE_TALISMAN_19",
+            "CAMPFIRE_TALISMAN_20"
+        ],
+        "CAMPFIRE_TALISMAN_21": [
+            "CAMPFIRE_TALISMAN_22",
+            "CAMPFIRE_TALISMAN_23",
+            "CAMPFIRE_TALISMAN_24",
+            "CAMPFIRE_TALISMAN_25",
+            "CAMPFIRE_TALISMAN_26",
+            "CAMPFIRE_TALISMAN_27",
+            "CAMPFIRE_TALISMAN_28",
+            "CAMPFIRE_TALISMAN_29"
+        ]
+    },
+    "talismans": {
+        "WEDDING_RING_0": {
+            "name": "Shiny Yellow Rock",
+            "rarity": "common",
+            "texture": "/item/WEDDING_RING_0"
+        },
+        "WEDDING_RING_2": {
+            "name": "Mediocre Ring of Love",
+            "rarity": "uncommon",
+            "texture": "/head/8fb265c8cc6136063b4eb15450fe1fe1ab7738b0bf54d265490e1ef49da60b7c",
+            "upgraded_of": "WEDDING_RING_0"
+        },
+        "WEDDING_RING_4": {
+            "name": "Modest Ring of Love",
+            "rarity": "rare",
+            "texture": "/head/8fb265c8cc6136063b4eb15450fe1fe1ab7738b0bf54d265490e1ef49da60b7c",
+            "upgraded_of": "WEDDING_RING_2"
+        },
+        "WEDDING_RING_7": {
+            "name": "Exquisite Ring of Love",
+            "rarity": "epic",
+            "texture": "/head/8fb265c8cc6136063b4eb15450fe1fe1ab7738b0bf54d265490e1ef49da60b7c",
+            "upgraded_of": "WEDDING_RING_4"
+        },
+        "WEDDING_RING_9": {
+            "name": "Legendary Ring of Love",
+            "rarity": "legendary",
+            "texture": "/head/8fb265c8cc6136063b4eb15450fe1fe1ab7738b0bf54d265490e1ef49da60b7c",
+            "upgraded_of": "WEDDING_RING_7"
+        },
+        "CAMPFIRE_TALISMAN_1": {
+            "name": "Campfire Initiate Badge",
+            "rarity": "common",
+            "texture": "/head/af41cc2250d2f5cfcf4384aa0cf3e23c19767549a2a8abd7532bd52c5a1de"
+        },
+        "CAMPFIRE_TALISMAN_4": {
+            "name": "Campfire Adept Badge",
+            "rarity": "uncommon",
+            "texture": "/head/af41cc2250d2f5cfcf4384aa0cf3e23c19767549a2a8abd7532bd52c5a1de",
+            "upgraded_of": "CAMPFIRE_TALISMAN_1"
+        },
+        "CAMPFIRE_TALISMAN_8": {
+            "name": "Campfire Cultist Badge",
+            "rarity": "rare",
+            "texture": "/head/a3cfd94e925eab4330a768afcae6c128b0a28e23149eee41c9c6df894c24f3de",
+            "upgraded_of": "CAMPFIRE_TALISMAN_4"
+        },
+        "CAMPFIRE_TALISMAN_13": {
+            "name": "Campfire Scion Badge",
+            "rarity": "epic",
+            "texture": "/head/a3cfd94e925eab4330a768afcae6c128b0a28e23149eee41c9c6df894c24f3de",
+            "upgraded_of": "CAMPFIRE_TALISMAN_8"
+        },
+        "CAMPFIRE_TALISMAN_21": {
+            "name": "Campfire God Badge",
+            "rarity": "legendary",
+            "texture": "/head/4080bbefca87dc0f36536b6508425cfc4b95ba6e8f5e6a46ff9e9cb488a9ed",
+            "upgraded_of": "CAMPFIRE_TALISMAN_13"
+        },
+        "FARMING_TALISMAN": {
+            "name": "Farming Talisman",
+            "acquire_methods": [
+                {
+                    "type": "craft",
+                    "required": {
+                        "type": "collection",
+                        "name": "WHEAT_3",
+                        "amount": 500
+                    },
+                    "recipe": [
+                        {
+                            "name": "HAY_BLOCK",
+                            "amount": 5,
+                            "type": "bz"
+                        },
+                        {
+                            "name": "SEEDS",
+                            "amount": 4,
+                            "type": "bz"
+                        }
+                    ]
+                },
+                {
+                    "type": "ah"
+                }
+            ]
+        },
+        "VACCINE_TALISMAN": {
+            "name": "Vaccine Talisman",
+            "rarity": "common",
+            "texture": "/head/71408ede8b4f444015c59abd5cd32b8769de51881edabcc15abb6519f5b49",
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                },
+                {
+                    "type": "craft",
+                    "recipe": [
+                        {
+                            "name": "POISONOUS_POTATO",
+                            "amount": 9,
+                            "type": "ah"
+                        }
+                    ]
+                }
+            ]
+        },
+        "WOOD_TALISMAN": {
+            "name": "Wood Affinity Talisman",
+            "rarity": "uncommon",
+            "texture": "/head/219ad5215ba6c7e4e4d0668f02d3a9c937ac536acc75ac49e7bd7b1c8ccf80",
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                }
+            ]
+        },
+        "SKELETON_TALISMAN": {
+            "name": "Skeleton Talisman",
+            "acquire_methods": [
+                {
+                    "type": "npc",
+                    "npc": "Adventurer",
+                    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Adventurer",
+                    "price": 500
+                },
+                {
+                    "type": "ah"
+                }
+            ]
+        },
+        "COIN_TALISMAN": {
+            "name": "Talisman of Coins",
+            "rarity": "common",
+            "texture": "/head/452dca68c8f8af533fb737faeeacbe717b968767fc18824dc2d37ac789fc77",
+            "acquire_methods": [
+                {
+                    "type": "craft",
+                    "recipe": [
+                        {
+                            "name": "EMERALD",
+                            "amount": 20,
+                            "type": "bz"
+                        },
+                        {
+                            "name": "GOLD_INGOT",
+                            "amount": 5,
+                            "type": "bz"
+                        }
+                    ]
+                },
+                {
+                    "type": "ah"
+                }
+            ]
+        },
+        "MAGNETIC_TALISMAN": {
+            "name": "Magnetic Talisman",
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                },
+                {
+                    "type": "craft",
+                    "recipe": [
+                        {
+                            "name": "EMERALD",
+                            "amount": 128,
+                            "type": "bz"
+                        },
+                        {
+                            "name": "REDSTONE",
+                            "amount": 32,
+                            "type": "bz"
+                        }
+                    ]
+                }
+            ]
+        },
+        "GRAVITY_TALISMAN": {
+            "name": "Gravity Talisman",
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                },
+                {
+                    "type": "craft",
+                    "recipe": [
+                        {
+                            "name": "OBSIDIAN",
+                            "amount": 144,
+                            "type": "bz"
+                        }
+                    ]
+                }
+            ]
+        },
+        "VILLAGE_TALISMAN": {
+            "name": "Village Affinity Talisman",
+            "acquire_methods": [
+                {
+                    "type": "npc",
+                    "npc": "Adventurer",
+                    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Adventurer",
+                    "price": 2500
+                },
+                {
+                    "type": "ah"
+                }
+            ]
+        },
+        "MINE_TALISMAN": {
+            "name": "Mine Affinity Talisman",
+            "acquire_methods": [
+                {
+                    "type": "npc",
+                    "npc": "Adventurer",
+                    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Adventurer",
+                    "price": 2500
+                },
+                {
+                    "type": "ah"
+                }
+            ]
+        },
+        "NIGHT_VISION_CHARM": {
+            "acquire_methods": [
+                {
+                    "type": "craft",
+                    "recipe": [
+                        {
+                            "name": "ENCHANTED_RED_MUSHROOM",
+                            "amount": 4,
+                            "type": "bz"
+                        },
+                        {
+                            "name": "ENCHANTED_BROWN_MUSHROOM",
+                            "amount": 4,
+                            "type": "bz"
+                        }
+                    ]
+                },
+                {
+                    "type": "ah"
+                }
+            ]
+        },
+        "LAVA_TALISMAN": {
+            "acquire_methods": [
+                {
+                    "type": "craft",
+                    "recipe": [
+                        {
+                            "name": "ENCHANTED_MAGMA_CREAM",
+                            "amount": 9,
+                            "type": "bz"
+                        }
+                    ]
+                },
+                {
+                    "type": "ah"
+                }
+            ]
+        },
+        "SCAVENGER_TALISMAN": {
+            "acquire_methods": [
+                {
+                    "type": "npc",
+                    "npc": "Adventurer",
+                    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Adventurer",
+                    "price": 10000
+                },
+                {
+                    "type": "ah"
+                }
+            ]
+        },
+        "FIRE_TALISMAN": {
+            "acquire_methods": [
+                {
+                    "type": "craft",
+                    "recipe": [
+                        {
+                            "name": "ENCHANTED_BLAZE_POWDER",
+                            "amount": 9,
+                            "type": "bz"
+                        }
+                    ]
+                },
+                {
+                    "type": "ah"
+                }
+            ]
+        },
+        "PIGGY_BANK": {
+            "upgraded_of": "CRACKED_PIGGY_BANK",
+            "acquire_methods": [
+                {
+                    "type": "craft",
+                    "recipe": [
+                        {
+                            "name": "ENCHANTED_PORK",
+                            "amount": 40,
+                            "type": "bz"
+                        },
+                        {
+                            "name": "CHEST",
+                            "amount": 1,
+                            "type": "item"
+                        }
+                    ]
+                }
+            ]
+        },
+        "CRACKED_PIGGY_BANK": {
+            "upgraded_of": "BROKEN_PIGGY_BANK"
+        },
+        "BROKEN_PIGGY_BANK": null,
+        "PIGS_FOOT": {
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                },
+                {
+                    "type": "quest",
+                    "description": "The Pig's Foot is obtained by beating Guber in a race on The End island.",
+                    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pig%27s_Foot"
+                }
+            ]
+        },
+        "WOLF_PAW": {
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                },
+                {
+                    "type": "quest",
+                    "description": "The Wolf Paw is obtained by completing the Woods Race in 32 seconds or less, then talking to Gustave.",
+                    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Wolf_Paw"
+                }
+            ]
+        },
+        "FROZEN_CHICKEN": {
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                },
+                {
+                    "type": "quest",
+                    "description": "To get Frozen Chicken, you need to beat the 3rd Checkpoint of the Chicken Race.",
+                    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Frozen_Chicken"
+                }
+            ]
+        },
+        "FISH_AFFINITY_TALISMAN": {
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                }
+            ]
+        },
+        "FARMER_ORB": {
+            "acquire_methods": [
+                {
+                    "type": "craft",
+                    "recipe": [
+                        {
+                            "name": "ENCHANTED_PUMPKIN",
+                            "amount": 8,
+                            "type": "bz"
+                        },
+                        {
+                            "name": "ENCHANTED_GLOWSTONE",
+                            "amount": 1,
+                            "type": "bz"
+                        }
+                    ]
+                }
+            ]
+        },
+        "HASTE_RING": {
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                },
+                {
+                    "type": "craft",
+                    "recipe": [
+                        {
+                            "name": "ENCHANTED_COBBLESTONE",
+                            "amount": 256,
+                            "type": "bz"
+                        }
+                    ]
+                }
+            ]
+        },
+        "EXPERIENCE_ARTIFACT": {
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                },
+                {
+                    "type": "craft",
+                    "recipe": [
+                        {
+                            "name": "ENCHANTED_LAPIS_LAZULI_BLOCK",
+                            "amount": 9,
+                            "type": "bz"
+                        }
+                    ]
+                }
+            ]
+        },
+        "NEW_YEAR_CAKE_BAG": {
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                },
+                {
+                    "type": "npc",
+                    "npc": "Baker",
+                    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Baker",
+                    "price": 250000
+                }
+            ]
+        },
+        "DAY_CRYSTAL": {
+            "name": "Day Crystal",
+            "rarity": "rare",
+            "texture": "/item/DAY_CRYSTAL",
+            "acquire_methods": [
+                {
+                    "type": "craft",
+                    "recipe": [
+                        {
+                            "name": "ENCHANTED_QUARTZ",
+                            "amount": 4,
+                            "type": "bz"
+                        },
+                        {
+                            "name": "ENCHANTED_QUARTZ_BLOCK",
+                            "amount": 1,
+                            "type": "bz"
+                        }
+                    ]
+                }
+            ]
+        },
+        "NIGHT_CRYSTAL": {
+            "name": "Night Crystal",
+            "rarity": "rare",
+            "texture": "/item/NIGHT_CRYSTAL",
+            "acquire_methods": [
+                {
+                    "type": "craft",
+                    "recipe": [
+                        {
+                            "name": "ENCHANTED_QUARTZ",
+                            "amount": 4,
+                            "type": "bz"
+                        },
+                        {
+                            "name": "ENCHANTED_QUARTZ_BLOCK",
+                            "amount": 1,
+                            "type": "bz"
+                        }
+                    ]
+                }
+            ]
+        },
+        "FEATHER_TALISMAN": {
+            "acquire_methods": [
+                {
+                    "type": "craft",
+                    "recipe": [
+                        {
+                            "name": "FEATHER",
+                            "amount": 108,
+                            "type": "bz"
+                        }
+                    ]
+                }
+            ]
+        },
+        "FEATHER_RING": {
+            "upgraded_of": "FEATHER_TALISMAN",
+            "acquire_methods": [
+                {
+                    "type": "craft",
+                    "recipe": [
+                        {
+                            "name": "ENCHANTED_FEATHER",
+                            "amount": 7,
+                            "type": "bz"
+                        },
+                        {
+                            "name": "FEATHER_TALISMAN",
+                            "amount": 1,
+                            "type": "talisman"
+                        }
+                    ]
+                }
+            ]
+        },
+        "FEATHER_ARTIFACT": {
+            "upgraded_of": "FEATHER_RING",
+            "acquire_methods": [
+                {
+                    "type": "craft",
+                    "recipe": [
+                        {
+                            "name": "ENCHANTED_FEATHER",
+                            "amount": 128,
+                            "type": "bz"
+                        },
+                        {
+                            "name": "FEATHER_RING",
+                            "amount": 1,
+                            "type": "talisman"
+                        }
+                    ]
+                },
+                {
+                    "type": "ah"
+                }
+            ]
+        },
+        "POTION_AFFINITY_TALISMAN": {
+            "name": "Potion Affinity Talisman",
+            "wiki": "https://hypixel-skyblock.fandom.com/wiki/Potion_Affinity_Talisman",
+            "acquire_methods": [
+                {
+                    "type": "craft",
+                    "recipe": [
+                        {
+                            "name": "NETHER_STALK",
+                            "amount": 144,
+                            "type": "bz"
+                        }
+                    ]
+                }
+            ]
+        },
+        "RING_POTION_AFFINITY": {
+            "name": "Potion Affinity Ring",
+            "wiki": "https://hypixel-skyblock.fandom.com/wiki/Potion_Affinity_Ring",
+            "upgraded_of": "POTION_AFFINITY_TALISMAN",
+            "acquire_methods": [
+                {
+                    "type": "craft",
+                    "recipe": [
+                        {
+                            "name": "ENCHANTED_NETHER_STALK",
+                            "amount": 8,
+                            "type": "bz"
+                        },
+                        {
+                            "name": "POTION_AFFINITY_TALISMAN",
+                            "amount": 1,
+                            "type": "talisman"
+                        }
+                    ]
+                }
+            ]
+        },
+        "ARTIFACT_POTION_AFFINITY": {
+            "name": "Potion Affinity Artifact",
+            "wiki": "https://hypixel-skyblock.fandom.com/wiki/Potion_Affinity_Artifact",
+            "upgraded_of": "RING_POTION_AFFINITY",
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                },
+                {
+                    "type": "craft",
+                    "recipe": [
+                        {
+                            "name": "ENCHANTED_NETHER_STALK",
+                            "amount": 256,
+                            "type": "bz"
+                        },
+                        {
+                            "name": "RING_POTION_AFFINITY",
+                            "amount": 1,
+                            "type": "talisman"
+                        }
+                    ]
+                }
+            ]
+        },
+        "HEALING_TALISMAN": {
+            "name": "Healing Talisman",
+            "wiki": "https://hypixel-skyblock.fandom.com/wiki/Healing_Talisman",
+            "acquire_methods": [
+                {
+                    "type": "craft",
+                    "recipe": [
+                        {
+                            "name": "WATER_LILY",
+                            "amount": 144,
+                            "type": "bz"
+                        }
+                    ]
+                }
+            ]
+        },
+        "HEALING_RING": {
+            "name": "Healing Ring",
+            "wiki": "https://hypixel-skyblock.fandom.com/wiki/Healing_Ring",
+            "upgraded_of": "HEALING_TALISMAN",
+            "acquire_methods": [
+                {
+                    "type": "craft",
+                    "recipe": [
+                        {
+                            "name": "ENCHANTED_WATER_LILY",
+                            "amount": 4,
+                            "type": "bz"
+                        },
+                        {
+                            "name": "HEALING_TALISMAN",
+                            "amount": 1,
+                            "type": "talisman"
+                        }
+                    ]
+                }
+            ]
+        },
+        "CANDY_TALISMAN": {
+            "name": "Candy Talisman",
+            "wiki": "https://hypixel-skyblock.fandom.com/wiki/Candy_Talisman",
+            "acquire_methods": [
+                {
+                    "type": "npc_trade",
+                    "npc": "Fear Mongerer",
+                    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Fear_Mongerer",
+                    "recipe": [
+                        {
+                            "name": "GREEN_CANDY",
+                            "amount": 16,
+                            "type": "bz"
+                        }
+                    ]
+                },
+                {
+                    "type": "ah"
+                }
+            ]
+        },
+        "CANDY_RING": {
+            "name": "Candy Ring",
+            "wiki": "https://hypixel-skyblock.fandom.com/wiki/Candy_Ring",
+            "upgraded_of": "CANDY_TALISMAN",
+            "acquire_methods": [
+                {
+                    "type": "npc_trade",
+                    "npc": "Fear Mongerer",
+                    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Fear_Mongerer",
+                    "recipe": [
+                        {
+                            "name": "GREEN_CANDY",
+                            "amount": 64,
+                            "type": "bz"
+                        },
+                        {
+                            "name": "CANDY_TALISMAN",
+                            "amount": 1,
+                            "type": "talisman"
+                        }
+                    ]
+                },
+                {
+                    "type": "ah"
+                }
+            ]
+        },
+        "CANDY_ARTIFACT": {
+            "name": "",
+            "wiki": "https://hypixel-skyblock.fandom.com/wiki/Candy_Artifact",
+            "upgraded_of": "CANDY_RING",
+            "acquire_methods": [
+                {
+                    "type": "npc_trade",
+                    "npc": "Fear Mongerer",
+                    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Fear_Mongerer",
+                    "recipe": [
+                        {
+                            "name": "PURPLE_CANDY",
+                            "amount": 32,
+                            "type": "bz"
+                        },
+                        {
+                            "name": "CANDY_RING",
+                            "amount": 1,
+                            "type": "talisman"
+                        }
+                    ]
+                },
+                {
+                    "type": "ah"
+                }
+            ]
+        },
+        "MELODY_HAIR": {
+            "name": "Melody's Hair",
+            "rarity": "epic",
+            "texture": "/item/MELODY_HAIR",
+            "acquire_methods": [
+                {
+                    "type": "quest",
+                    "description": "Upon completing the main Harp songs (excluding the Personal Harp songs, Through the Campfire and Pachelbel) with a 100% score, Melody will reward you with a strand of her hair.",
+                    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Melody's_Hair"
+                }
+            ]
+        },
+        "SEA_CREATURE_TALISMAN": {
+            "name": "Sea Creature Talisman",
+            "rarity": "common",
+            "texture": "/head/eaa44b170d749ce4099aa78d98945d193651484089efb87ba88892c6fed2af31",
+            "acquire_methods": [
+                {
+                    "type": "craft",
+                    "recipe": [
+                        {
+                            "name": "SPONGE",
+                            "amount": 18,
+                            "type": "bz"
+                        }
+                    ]
+                }
+            ]
+        },
+        "SEA_CREATURE_RING": {
+            "upgraded_of": "SEA_CREATURE_TALISMAN",
+            "acquire_methods": [
+                {
+                    "type": "craft",
+                    "recipe": [
+                        {
+                            "name": "SPONGE",
+                            "amount": 6,
+                            "type": "bz"
+                        },
+                        {
+                            "name": "ENCHANTED_SPONGE",
+                            "amount": 2,
+                            "type": "bz"
+                        }
+                    ]
+                }
+            ]
+        },
+        "SEA_CREATURE_ARTIFACT": {
+            "upgraded_of": "SEA_CREATURE_RING",
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                },
+                {
+                    "type": "craft",
+                    "recipe": [
+                        {
+                            "name": "ENCHANTED_SPONGE",
+                            "amount": 64,
+                            "type": "bz"
+                        }
+                    ]
+                }
+            ]
+        },
+        "INTIMIDATION_TALISMAN": {
+            "acquire_methods": [
+                {
+                    "type": "npc",
+                    "npc": "Adventurer",
+                    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Adventurer",
+                    "price": 10000
+                }
+            ]
+        },
+        "INTIMIDATION_RING": {
+            "upgraded_of": "INTIMIDATION_TALISMAN",
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                },
+                {
+                    "type": "npc_trade",
+                    "npc": "Fear Mongerer",
+                    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Fear_Mongerer",
+                    "recipe": [
+                        {
+                            "name": "GREEN_CANDY",
+                            "amount": 100,
+                            "type": "bz"
+                        },
+                        {
+                            "name": "INTIMIDATION_TALISMAN",
+                            "amount": 1,
+                            "type": "talisman"
+                        }
+                    ]
+                }
+            ]
+        },
+        "INTIMIDATION_ARTIFACT": {
+            "upgraded_of": "INTIMIDATION_RING",
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                },
+                {
+                    "type": "npc_trade",
+                    "npc": "Fear Mongerer",
+                    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Fear_Mongerer",
+                    "recipe": [
+                        {
+                            "name": "PURPLE_CANDY",
+                            "amount": 100,
+                            "type": "bz"
+                        },
+                        {
+                            "name": "INTIMIDATION_RING",
+                            "amount": 1,
+                            "type": "talisman"
+                        }
+                    ]
+                }
+            ]
+        },
+        "WOLF_TALISMAN": null,
+        "WOLF_RING": {
+            "upgraded_of": "WOLF_TALISMAN",
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                },
+                {
+                    "type": "craft",
+                    "recipe": [
+                        {
+                            "name": "WOLF_TALISMAN",
+                            "amount": 1,
+                            "type": "talisman"
+                        },
+                        {
+                            "name": "WEAK_WOLF_CATALYST",
+                            "amount": 1,
+                            "type": "ah"
+                        },
+                        {
+                            "name": "ENCHANTED_BONE",
+                            "amount": 14,
+                            "type": "bz"
+                        }
+                    ]
+                }
+            ]
+        },
+        "BAT_TALISMAN": {
+            "name": "Bat Talisman",
+            "wiki": "https://hypixel-skyblock.fandom.com/wiki/Bat_Talisman",
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                }
+            ]
+        },
+        "BAT_RING": {
+            "name": "Bat Ring",
+            "wiki": "https://hypixel-skyblock.fandom.com/wiki/Bat_Ring",
+            "upgraded_of": "BAT_TALISMAN",
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                },
+                {
+                    "type": "npc_trade",
+                    "npc": "Fear Mongerer",
+                    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Fear_Mongerer",
+                    "recipe": [
+                        {
+                            "name": "GREEN_CANDY",
+                            "amount": 64,
+                            "type": "bz"
+                        },
+                        {
+                            "name": "BAT_TALISMAN",
+                            "amount": 1,
+                            "type": "talisman"
+                        }
+                    ]
+                }
+            ]
+        },
+        "BAT_ARTIFACT": {
+            "name": "Bat Artifact",
+            "wiki": "https://hypixel-skyblock.fandom.com/wiki/Bat_Artifact",
+            "upgraded_of": "BAT_RING",
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                },
+                {
+                    "type": "npc_trade",
+                    "npc": "Fear Mongerer",
+                    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Fear_Mongerer",
+                    "recipe": [
+                        {
+                            "name": "PURPLE_CANDY",
+                            "amount": 64,
+                            "type": "bz"
+                        },
+                        {
+                            "name": "BAT_RING",
+                            "amount": 1,
+                            "type": "talisman"
+                        }
+                    ]
+                }
+            ]
+        },
+        "DEVOUR_RING": {
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                },
+                {
+                    "type": "craft",
+                    "recipe": [
+                        {
+                            "name": "ENCHANTED_RAW_CHICKEN",
+                            "amount": 2,
+                            "type": "bz"
+                        },
+                        {
+                            "name": "REVENANT_VISCERA",
+                            "amount": 39,
+                            "type": "bz"
+                        },
+                        {
+                            "name": "ENCHANTED_RAW_SALMON",
+                            "amount": 8,
+                            "type": "bz"
+                        }
+                    ]
+                }
+            ]
+        },
+        "ZOMBIE_TALISMAN": {
+            "acquire_methods": [
+                {
+                    "type": "npc",
+                    "npc": "Adventurer",
+                    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Adventurer",
+                    "price": 500
+                }
+            ]
+        },
+        "ZOMBIE_RING": {
+            "upgraded_of": "ZOMBIE_TALISMAN",
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                },
+                {
+                    "type": "craft",
+                    "recipe": [
+                        {
+                            "name": "ZOMBIE_TALISMAN",
+                            "amount": 1,
+                            "type": "talisman"
+                        },
+                        {
+                            "name": "REVENANT_FLESH",
+                            "amount": 64,
+                            "type": "bz"
+                        }
+                    ]
+                }
+            ]
+        },
+        "ZOMBIE_ARTIFACT": {
+            "upgraded_of": "ZOMBIE_RING",
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                },
+                {
+                    "type": "craft",
+                    "recipe": [
+                        {
+                            "name": "ENCHANTED_IRON",
+                            "amount": 32,
+                            "type": "bz"
+                        },
+                        {
+                            "name": "ZOMBIE_RING",
+                            "amount": 1,
+                            "type": "talisman"
+                        },
+                        {
+                            "name": "REVENANT_VISCERA",
+                            "amount": 48,
+                            "type": "bz"
+                        },
+                        {
+                            "name": "ENCHANTED_DIAMOND",
+                            "amount": 16,
+                            "type": "bz"
+                        }
+                    ]
+                }
+            ]
+        },
+        "SPIDER_TALISMAN": {
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                }
+            ]
+        },
+        "SPIDER_RING": {
+            "upgraded_of": "SPIDER_TALISMAN",
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                },
+                {
+                    "type": "craft",
+                    "recipe": [
+                        {
+                            "name": "SPIDER_TALISMAN",
+                            "amount": 1,
+                            "type": "talisman"
+                        },
+                        {
+                            "name": "TARANTULA_WEB",
+                            "amount": 64,
+                            "type": "bz"
+                        }
+                    ]
+                }
+            ]
+        },
+        "SPIDER_ARTIFACT": {
+            "upgraded_of": "SPIDER_RING",
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                },
+                {
+                    "type": "craft",
+                    "recipe": [
+                        {
+                            "name": "SPIDER_RING",
+                            "amount": 1,
+                            "type": "talisman"
+                        },
+                        {
+                            "name": "TARANTULA_SILK",
+                            "amount": 32,
+                            "type": "bz"
+                        },
+                        {
+                            "name": "ENCHANTED_EMERALD",
+                            "amount": 32,
+                            "type": "bz"
+                        }
+                    ]
+                }
+            ]
+        },
+        "ENDER_ARTIFACT": {
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                }
+            ]
+        },
+        "TARANTULA_TALISMAN": {
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                }
+            ]
+        },
+        "SURVIVOR_CUBE": {
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                }
+            ]
+        },
+        "WITHER_ARTIFACT": {
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                }
+            ]
+        },
+        "RED_CLAW_TALISMAN": {
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                },
+                {
+                    "type": "craft",
+                    "recipe": [
+                        {
+                            "name": "ENCHANTED_BONE",
+                            "amount": 1,
+                            "type": "bz"
+                        },
+                        {
+                            "name": "WOLF_TOOTH",
+                            "amount": 8,
+                            "type": "bz"
+                        }
+                    ]
+                }
+            ]
+        },
+        "RED_CLAW_RING": {
+            "upgraded_of": "RED_CLAW_TALISMAN",
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                },
+                {
+                    "type": "craft",
+                    "recipe": [
+                        {
+                            "name": "RED_CLAW_TALISMAN",
+                            "amount": 1,
+                            "type": "talisman"
+                        },
+                        {
+                            "name": "GOLDEN_TOOTH",
+                            "amount": 8,
+                            "type": "bz"
+                        },
+                        {
+                            "name": "ENCHANTED_LEATHER",
+                            "amount": 32,
+                            "type": "bz"
+                        }
+                    ]
+                }
+            ]
+        },
+        "RED_CLAW_ARTIFACT": {
+            "upgraded_of": "RED_CLAW_RING",
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                },
+                {
+                    "type": "craft",
+                    "recipe": [
+                        {
+                            "name": "RED_CLAW_RING",
+                            "amount": 1,
+                            "type": "talisman"
+                        },
+                        {
+                            "name": "RED_CLAW_RING",
+                            "amount": 1,
+                            "type": "ah"
+                        },
+                        {
+                            "name": "GOLDEN_TOOTH",
+                            "amount": 54,
+                            "type": "bz"
+                        },
+                        {
+                            "name": "ENCHANTED_LEATHER",
+                            "amount": 128,
+                            "type": "bz"
+                        }
+                    ]
+                }
+            ]
+        },
+        "BAIT_RING": {
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                },
+                {
+                    "type": "craft",
+                    "recipe": [
+                        {
+                            "name": "ENCHANTED_INK_SACK",
+                            "amount": 288,
+                            "type": "bz"
+                        }
+                    ]
+                }
+            ]
+        },
+        "SHADY_RING": {
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                }
+            ]
+        },
+        "CROOKED_ARTIFACT": {
+            "upgraded_of": "SHADY_RING",
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                }
+            ]
+        },
+        "SEAL_OF_THE_FAMILY": {
+            "upgraded_of": "CROOKED_ARTIFACT",
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                }
+            ]
+        },
+        "HUNTER_TALISMAN": {
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                },
+                {
+                    "type": "craft",
+                    "recipe": [
+                        {
+                            "name": "GOLDEN_TOOTH",
+                            "amount": 64,
+                            "type": "bz"
+                        },
+                        {
+                            "name": "ENCHANTED_ROTTEN_FLESH",
+                            "amount": 32,
+                            "type": "bz"
+                        }
+                    ]
+                }
+            ]
+        },
+        "HUNTER_RING": {
+            "upgraded_of": "HUNTER_TALISMAN",
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                },
+                {
+                    "type": "craft",
+                    "recipe": [
+                        {
+                            "name": "HUNTER_TALISMAN",
+                            "amount": 1,
+                            "type": "talisman"
+                        },
+                        {
+                            "name": "GOLDEN_TOOTH",
+                            "amount": 224,
+                            "type": "bz"
+                        },
+                        {
+                            "name": "GRIZZLY_BAIT",
+                            "amount": 1,
+                            "type": "ah"
+                        }
+                    ]
+                }
+            ]
+        },
+        "PARTY_HAT_CRAB": {
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                }
+            ]
+        },
+        "POTATO_TALISMAN": {
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                }
+            ]
+        },
+        "EMERALD_RING": {
+            "name": "Emerald Ring",
+            "rarity": "uncommon",
+            "texture": "/head/f36b821c1afdd5a5d14e3b3bd0a32263c8df5df5db6e1e88bf65e97b27a8530",
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                },
+                {
+                    "type": "craft",
+                    "recipe": [
+                        {
+                            "name": "ENCHANTED_EMERALD",
+                            "amount": 32,
+                            "type": "bz"
+                        }
+                    ]
+                }
+            ]
+        },
+        "PERSONAL_COMPACTOR_4000": {
+            "name": "Personal Compactor 4000",
+            "rarity": "uncommon",
+            "texture": "/item/PERSONAL_COMPACTOR_4000",
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                },
+                {
+                    "type": "craft",
+                    "recipe": [
+                        {
+                            "name": "ENCHANTED_REDSTONE_BLOCK",
+                            "amount": 7,
+                            "type": "bz"
+                        },
+                        {
+                            "name": "SUPER_COMPACTOR_3000",
+                            "amount": 1,
+                            "type": "bz"
+                        }
+                    ]
+                }
+            ]
+        },
+        "PERSONAL_COMPACTOR_5000": {
+            "name": "Personal Compactor 5000",
+            "rarity": "rare",
+            "texture": "/item/PERSONAL_COMPACTOR_5000",
+            "upgraded_of": "PERSONAL_COMPACTOR_4000",
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                },
+                {
+                    "type": "craft",
+                    "recipe": [
+                        {
+                            "name": "ENCHANTED_REDSTONE_BLOCK",
+                            "amount": 14,
+                            "type": "bz"
+                        },
+                        {
+                            "name": "PERSONAL_COMPACTOR_4000",
+                            "amount": 1,
+                            "type": "talisman"
+                        }
+                    ]
+                }
+            ]
+        },
+        "PERSONAL_COMPACTOR_6000": {
+            "name": "Personal Compactor 6000",
+            "rarity": "epic",
+            "texture": "/item/PERSONAL_COMPACTOR_6000",
+            "upgraded_of": "PERSONAL_COMPACTOR_5000",
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                },
+                {
+                    "type": "craft",
+                    "recipe": [
+                        {
+                            "name": "ENCHANTED_REDSTONE_BLOCK",
+                            "amount": 28,
+                            "type": "bz"
+                        },
+                        {
+                            "name": "PERSONAL_COMPACTOR_5000",
+                            "amount": 1,
+                            "type": "talisman"
+                        }
+                    ]
+                }
+            ]
+        },
+        "PERSONAL_COMPACTOR_7000": {
+            "name": "Personal Compactor 7000",
+            "rarity": "legendary",
+            "texture": "/item/PERSONAL_COMPACTOR_7000",
+            "upgraded_of": "PERSONAL_COMPACTOR_6000",
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                },
+                {
+                    "type": "craft",
+                    "recipe": [
+                        {
+                            "name": "ENCHANTED_REDSTONE_BLOCK",
+                            "amount": 56,
+                            "type": "bz"
+                        },
+                        {
+                            "name": "PERSONAL_COMPACTOR_6000",
+                            "amount": 1,
+                            "type": "talisman"
+                        }
+                    ]
+                }
+            ]
+        },
+        "PERSONAL_DELETOR_4000": {
+            "name": "Personal Deletor 4000",
+            "rarity": "uncommon",
+            "texture": "/item/PERSONAL_DELETOR_4000",
+            "acquire_methods": [
+                {
+                    "type": "craft",
+                    "recipe": [
+                        {
+                            "name": "ENCHANTED_LAVA_BUCKET",
+                            "amount": 1,
+                            "type": "bz"
+                        },
+                        {
+                            "name": "ENCHANTED_REDSTONE_BLOCK",
+                            "amount": 1,
+                            "type": "bz"
+                        },
+                        {
+                            "name": "ENCHANTED_IRON",
+                            "amount": 112,
+                            "type": "bz"
+                        }
+                    ]
+                }
+            ]
+        },
+        "PERSONAL_DELETOR_5000": {
+            "name": "Personal Deletor 5000",
+            "rarity": "rare",
+            "texture": "/item/PERSONAL_DELETOR_5000",
+            "upgraded_of": "PERSONAL_DELETOR_4000",
+            "acquire_methods": [
+                {
+                    "type": "craft",
+                    "recipe": [
+                        {
+                            "name": "PERSONAL_DELETOR_4000",
+                            "amount": 1,
+                            "type": "talisman"
+                        },
+                        {
+                            "name": "ENCHANTED_IRON",
+                            "amount": 224,
+                            "type": "bz"
+                        }
+                    ]
+                }
+            ]
+        },
+        "PERSONAL_DELETOR_6000": {
+            "name": "Personal Deletor 6000",
+            "rarity": "epic",
+            "texture": "/item/PERSONAL_DELETOR_6000",
+            "upgraded_of": "PERSONAL_DELETOR_5000",
+            "acquire_methods": [
+                {
+                    "type": "craft",
+                    "recipe": [
+                        {
+                            "name": "PERSONAL_DELETOR_5000",
+                            "amount": 1,
+                            "type": "talisman"
+                        },
+                        {
+                            "name": "ENCHANTED_IRON",
+                            "amount": 448,
+                            "type": "bz"
+                        }
+                    ]
+                }
+            ]
+        },
+        "PERSONAL_DELETOR_7000": {
+            "name": "Personal Deletor 7000",
+            "rarity": "legendary",
+            "texture": "/item/PERSONAL_DELETOR_7000",
+            "upgraded_of": "PERSONAL_DELETOR_6000",
+            "acquire_methods": [
+                {
+                    "type": "craft",
+                    "recipe": [
+                        {
+                            "name": "PERSONAL_DELETOR_6000",
+                            "amount": 1,
+                            "type": "talisman"
+                        },
+                        {
+                            "name": "ENCHANTED_IRON_BLOCK",
+                            "amount": 7,
+                            "type": "bz"
+                        }
+                    ]
+                }
+            ]
+        },
+        "SPEED_TALISMAN": {
+            "name": "Speed Talisman",
+            "rarity": "common",
+            "texture": "/head/8624bacb5f1986e6477abce4ae7dca1820a5260b6233b55ba1d9ba936c84b",
+            "acquire_methods": [
+                {
+                    "type": "craft",
+                    "recipe": [
+                        {
+                            "name": "SUGAR_CANE",
+                            "amount": 108,
+                            "type": "bz"
+                        }
+                    ]
+                }
+            ]
+        },
+        "SPEED_RING": {
+            "name": "Speed Ring",
+            "rarity": "uncommon",
+            "texture": "/head/c2da40a91f8fa7e1cbdd934da92a7668dc95d75b57c9c80a381c5e178cee6ba7",
+            "upgraded_of": "SPEED_TALISMAN",
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                },
+                {
+                    "type": "craft",
+                    "recipe": [
+                        {
+                            "name": "SPEED_TALISMAN",
+                            "amount": 1,
+                            "type": "talisman"
+                        },
+                        {
+                            "name": "ENCHANTED_SUGAR",
+                            "amount": 96,
+                            "type": "bz"
+                        }
+                    ]
+                }
+            ]
+        },
+        "SPEED_ARTIFACT": {
+            "name": "Speed Artifact",
+            "rarity": "rare",
+            "texture": "/head/f06706eecb2d558ace27abda0b0b7b801d36d17dd7a890a9520dbe522374f8a6",
+            "upgraded_of": "SPEED_RING",
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                },
+                {
+                    "type": "craft",
+                    "recipe": [
+                        {
+                            "name": "SPEED_RING",
+                            "amount": 1,
+                            "type": "talisman"
+                        },
+                        {
+                            "name": "ENCHANTED_SUGAR_CANE",
+                            "amount": 48,
+                            "type": "bz"
+                        }
+                    ]
+                }
+            ]
+        },
+        "CAT_TALISMAN": {
+            "name": "Cat Talisman",
+            "rarity": "uncommon",
+            "texture": "/head/3a12188258601bcb7f76e3e2489555a26c0d76e6efec2fd966ca372b6dde00",
+            "acquire_methods": [
+                {
+                    "type": "quest",
+                    "description": "It is obtained through the Dungeon Hub by completing 4/4 of any of the Dungeon Races. Races can be started by talking to Guildford next to the start race pad.",
+                    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Cat_Talisman"
+                }
+            ]
+        },
+        "LYNX_TALISMAN": {
+            "name": "Lynx Talisman",
+            "rarity": "rare",
+            "texture": "/head/12b84e9c79815a39b7be8ce6e91248d71f760f42b5a4de5e266b44b87a952229",
+            "upgraded_of": "CAT_TALISMAN"
+        },
+        "CHEETAH_TALISMAN": {
+            "name": "Cheetah Talisman",
+            "rarity": "epic",
+            "texture": "/head/1553f8856dd46de7e05d46f5fc2fb58eafba6829b11b160a1545622e89caaa33",
+            "upgraded_of": "LYNX_TALISMAN"
+        },
+        "SCARF_STUDIES": {
+            "name": "Scarf's Studies",
+            "rarity": "rare",
+            "texture": "/head/6de4ab129e137f9f4cbf7060318ee1748dc39da9b5d129a8da0e614e2337693",
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                }
+            ]
+        },
+        "SCARF_THESIS": {
+            "name": "Scarf's Thesis",
+            "rarity": "epic",
+            "texture": "/head/8ce4c87eb4dde27459e3e7f85921e7e57b11199260caa5ce63f139ee3d188c",
+            "upgraded_of": "SCARF_STUDIES",
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                },
+                {
+                    "type": "craft",
+                    "recipe": [
+                        {
+                            "name": "SCARF_STUDIES",
+                            "amount": 1,
+                            "type": "talisman"
+                        },
+                        {
+                            "name": "SCARF_STUDIES",
+                            "amount": 3,
+                            "type": "ah"
+                        }
+                    ]
+                }
+            ]
+        },
+        "SCARF_GRIMOIRE": {
+            "name": "Scarf's Grimoire",
+            "rarity": "legendary",
+            "texture": "/head/bafb195cc75f31b619a077b7853653254ac18f220dc32d1412982ff437b4d57a",
+            "upgraded_of": "SCARF_THESIS",
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                },
+                {
+                    "type": "craft",
+                    "recipe": [
+                        {
+                            "name": "SCARF_THESIS",
+                            "amount": 1,
+                            "type": "talisman"
+                        },
+                        {
+                            "name": "SCARF_THESIS",
+                            "amount": 3,
+                            "type": "ah"
+                        }
+                    ]
+                }
+            ]
+        },
+        "TREASURE_TALISMAN": {
+            "name": "Treasure Talisman",
+            "rarity": "rare",
+            "texture": "/head/31f320025142596396032cc0088e2ac36489f24cfa5e9dda13e081cf69f77f4d",
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                }
+            ]
+        },
+        "TREASURE_RING": {
+            "name": "Treasure Ring",
+            "rarity": "epic",
+            "texture": "/head/6a1cc5525a217a399b5b86c32f0f22dd91378874b5f44d5a383e18bc0f3bc301",
+            "upgraded_of": "TREASURE_TALISMAN",
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                },
+                {
+                    "type": "craft",
+                    "recipe": [
+                        {
+                            "name": "TREASURE_TALISMAN",
+                            "amount": 1,
+                            "type": "talisman"
+                        },
+                        {
+                            "name": "TREASURE_TALISMAN",
+                            "amount": 7,
+                            "type": "ah"
+                        }
+                    ]
+                }
+            ]
+        },
+        "TREASURE_ARTIFACT": {
+            "name": "Treasure Artifact",
+            "rarity": "legendary",
+            "texture": "/head/e10f20a55b6e188ebe7578459b64a6fbd825067bc497b925ca43c2643d059025",
+            "upgraded_of": "TREASURE_RING",
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                },
+                {
+                    "type": "craft",
+                    "recipe": [
+                        {
+                            "name": "TREASURE_RING",
+                            "amount": 1,
+                            "type": "talisman"
+                        },
+                        {
+                            "name": "TREASURE_RING",
+                            "amount": 7,
+                            "type": "ah"
+                        }
+                    ]
+                }
+            ]
+        },
+        "MINERAL_TALISMAN": {
+            "name": "Mineral Talisman",
+            "rarity": "rare",
+            "texture": "/head/3cbd70f73e2e09566ef914c697b13f48b97bfd6c11c83e540a15ff4d736b9c16",
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                },
+                {
+                    "type": "craft",
+                    "recipe": [
+                        {
+                            "name": "REFINED_MINERAL",
+                            "amount": 9,
+                            "type": "bz"
+                        }
+                    ]
+                }
+            ]
+        },
+        "BEASTMASTER_CREST_COMMON": {
+            "name": "Beastmaster Crest",
+            "rarity": "common",
+            "texture": "/head/53415667de3fb89c5f40c880c39e4971a0caa7f3a9d2c8f712ba37fadcee",
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                },
+                {
+                    "type": "craft",
+                    "recipe": [
+                        {
+                            "name": "MILK_BUCKET",
+                            "amount": 1,
+                            "type": "item"
+                        },
+                        {
+                            "name": "ANCIENT_CLAW",
+                            "amount": 40,
+                            "type": "bz"
+                        },
+                        {
+                            "name": "GRIFFIN_FEATHER",
+                            "amount": 4,
+                            "type": "bz"
+                        }
+                    ]
+                }
+            ]
+        },
+        "BEASTMASTER_CREST_UNCOMMON": {
+            "name": "Beastmaster Crest",
+            "rarity": "uncommon",
+            "texture": "/head/53415667de3fb89c5f40c880c39e4971a0caa7f3a9d2c8f712ba37fadcee",
+            "upgraded_of": "BEASTMASTER_CREST_COMMON",
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                },
+                {
+                    "type": "craft",
+                    "recipe": [
+                        {
+                            "name": "BEASTMASTER_CREST_COMMON",
+                            "amount": 1,
+                            "type": "talisman"
+                        },
+                        {
+                            "name": "ANCIENT_CLAW",
+                            "amount": 80,
+                            "type": "bz"
+                        },
+                        {
+                            "name": "GRIFFIN_FEATHER",
+                            "amount": 8,
+                            "type": "bz"
+                        }
+                    ]
+                }
+            ]
+        },
+        "BEASTMASTER_CREST_RARE": {
+            "name": "Beastmaster Crest",
+            "rarity": "rare",
+            "texture": "/head/53415667de3fb89c5f40c880c39e4971a0caa7f3a9d2c8f712ba37fadcee",
+            "upgraded_of": "BEASTMASTER_CREST_UNCOMMON",
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                },
+                {
+                    "type": "craft",
+                    "recipe": [
+                        {
+                            "name": "BEASTMASTER_CREST_UNCOMMON",
+                            "amount": 1,
+                            "type": "talisman"
+                        },
+                        {
+                            "name": "ANCIENT_CLAW",
+                            "amount": 256,
+                            "type": "bz"
+                        },
+                        {
+                            "name": "GRIFFIN_FEATHER",
+                            "amount": 32,
+                            "type": "bz"
+                        }
+                    ]
+                }
+            ]
+        },
+        "BEASTMASTER_CREST_EPIC": {
+            "name": "Beastmaster Crest",
+            "rarity": "epic",
+            "texture": "/head/53415667de3fb89c5f40c880c39e4971a0caa7f3a9d2c8f712ba37fadcee",
+            "upgraded_of": "BEASTMASTER_CREST_RARE",
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                },
+                {
+                    "type": "craft",
+                    "recipe": [
+                        {
+                            "name": "BEASTMASTER_CREST_RARE",
+                            "amount": 1,
+                            "type": "talisman"
+                        },
+                        {
+                            "name": "ENCHANTED_ANCIENT_CLAW",
+                            "amount": 4,
+                            "type": "bz"
+                        },
+                        {
+                            "name": "GRIFFIN_FEATHER",
+                            "amount": 128,
+                            "type": "bz"
+                        }
+                    ]
+                }
+            ]
+        },
+        "BEASTMASTER_CREST_LEGENDARY": {
+            "name": "Beastmaster Crest",
+            "rarity": "legendary",
+            "texture": "/head/53415667de3fb89c5f40c880c39e4971a0caa7f3a9d2c8f712ba37fadcee",
+            "upgraded_of": "BEASTMASTER_CREST_EPIC",
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                },
+                {
+                    "type": "craft",
+                    "recipe": [
+                        {
+                            "name": "BEASTMASTER_CREST_EPIC",
+                            "amount": 1,
+                            "type": "talisman"
+                        },
+                        {
+                            "name": "ENCHANTED_ANCIENT_CLAW",
+                            "amount": 32,
+                            "type": "bz"
+                        },
+                        {
+                            "name": "GRIFFIN_FEATHER",
+                            "amount": 256,
+                            "type": "bz"
+                        }
+                    ]
+                }
+            ]
+        },
+        "RAGGEDY_SHARK_TOOTH_NECKLACE": {
+            "name": "Raggedy Shark Tooth Necklace",
+            "rarity": "common",
+            "texture": "/head/d77309ddebbdc278ee2772d92fa4905dd850c5f213a77ffaed5a67eecb23984a",
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                }
+            ]
+        },
+        "DULL_SHARK_TOOTH_NECKLACE": {
+            "name": "Dull Shark Tooth Necklace",
+            "rarity": "uncommon",
+            "texture": "/head/f3ab3aa1ade74915dacd298613904361c18877eebfa81d9f936309f271e1389a",
+            "upgraded_of": "RAGGEDY_SHARK_TOOTH_NECKLACE",
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                }
+            ]
+        },
+        "HONED_SHARK_TOOTH_NECKLACE": {
+            "name": "Honed Shark Tooth Necklace",
+            "rarity": "rare",
+            "texture": "/head/e6b120938d83bf49ddab3a78666a0bf37a3de7b46b9d97b984da3be62ce3e5e3",
+            "upgraded_of": "DULL_SHARK_TOOTH_NECKLACE",
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                }
+            ]
+        },
+        "SHARP_SHARK_TOOTH_NECKLACE": {
+            "name": "Sharp Shark Tooth Necklace",
+            "rarity": "epic",
+            "texture": "/head/228e3fb6bd9887d60434ccd279ec3e59227826c9a2f8dd9ce9899ea6683d4ee8",
+            "upgraded_of": "HONED_SHARK_TOOTH_NECKLACE",
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                }
+            ]
+        },
+        "RAZOR_SHARP_SHARK_TOOTH_NECKLACE": {
+            "name": "Razor Sharp Shark Tooth Necklace",
+            "rarity": "legendary",
+            "texture": "/head/7792676664ac711488641f72b25961835613da9ffd43ea3bdd163cb365343a6",
+            "upgraded_of": "SHARP_SHARK_TOOTH_NECKLACE",
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                }
+            ]
+        },
+        "HEGEMONY_ARTIFACT": {
+            "name": "Hegemony Artifact",
+            "rarity": "legendary",
+            "texture": "/head/313384a293cfbba3489b483ebc1de7584ca2726d7f5c3a620513474925e87b97",
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                }
+            ]
+        },
+        "BITS_TALISMAN": {
+            "name": "Bits Talisman",
+            "rarity": "rare",
+            "texture": "/head/2ebadb1725aa85bb2810d0b73bf7cd74db3d9d8fc61c4cf9e543dbcc199187cc",
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                }
+            ]
+        },
+        "BAT_PERSON_TALISMAN": {
+            "name": "Bat Person Talisman",
+            "rarity": "common",
+            "texture": "/head/b841a49b199a59c431bf3fc3783f6b6545ce78c38042617f66ebd87cdd548e8c",
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                }
+            ]
+        },
+        "BAT_PERSON_RING": {
+            "name": "Bat Person Ring",
+            "rarity": "uncommon",
+            "texture": "/head/b4451ecf2584a36de4297031c6d852977d3e249e85a3f0add967fcd7d6bde953",
+            "upgraded_of": "BAT_PERSON_TALISMAN",
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                },
+                {
+                    "type": "craft",
+                    "recipe": [
+                        {
+                            "name": "BAT_PERSON_TALISMAN",
+                            "amount": 1,
+                            "type": "talisman"
+                        },
+                        {
+                            "name": "ECTOPLASM",
+                            "amount": 32,
+                            "type": "bz"
+                        },
+                        {
+                            "name": "SPOOKY_SHARD",
+                            "amount": 4,
+                            "type": "bz"
+                        }
+                    ]
+                }
+            ]
+        },
+        "BAT_PERSON_ARTIFACT": {
+            "name": "Bat Person Artifact",
+            "rarity": "rare",
+            "texture": "/head/c4444c3982720b30938f504c4374232b11a4f6f56cd57c973d8abb07fd0dcff7",
+            "upgraded_of": "BAT_PERSON_RING",
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                },
+                {
+                    "type": "craft",
+                    "recipe": [
+                        {
+                            "name": "BAT_PERSON_RING",
+                            "amount": 1,
+                            "type": "talisman"
+                        },
+                        {
+                            "name": "ECTOPLASM",
+                            "amount": 128,
+                            "type": "bz"
+                        },
+                        {
+                            "name": "SPOOKY_SHARD",
+                            "amount": 16,
+                            "type": "bz"
+                        }
+                    ]
+                }
+            ]
+        },
+        "CANDY_RELIC": {
+            "name": "Candy Relic",
+            "rarity": "legendary",
+            "texture": "/head/39668767f1141835e2c49ad2b415598f1b166be9173902a0257e77704f913e1f",
+            "upgraded_of": "CANDY_ARTIFACT",
+            "acquire_methods": [
+                {
+                    "type": "npc_trade",
+                    "npc": "Fear Mongerer",
+                    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Fear_Mongerer",
+                    "recipe": [
+                        {
+                            "name": "PURPLE_CANDY",
+                            "amount": 1024,
+                            "type": "bz"
+                        },
+                        {
+                            "name": "CANDY_ARTIFACT",
+                            "amount": 1,
+                            "type": "talisman"
+                        }
+                    ]
+                },
+                {
+                    "type": "ah"
+                }
+            ]
+        },
+        "LUCKY_HOOF": {
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                }
+            ]
+        },
+        "ETERNAL_HOOF": {
+            "upgraded_of": "LUCKY_HOOF",
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                },
+                {
+                    "type": "craft",
+                    "recipe": [
+                        {
+                            "name": "LUCKY_HOOF",
+                            "amount": 1,
+                            "type": "talisman"
+                        },
+                        {
+                            "name": "SOUL_FRAGMENT",
+                            "amount": 8,
+                            "type": "bz"
+                        }
+                    ]
+                }
+            ]
+        },
+        "WITHER_RELIC": {
+            "name": "Wither Relic",
+            "rarity": "legendary",
+            "texture": "/head/964e1c3e315c8d8fffc37985b6681c5bd16a6f97ffd07199e8a05efbef103793",
+            "upgraded_of": "WITHER_ARTIFACT",
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                },
+                {
+                    "type": "craft",
+                    "recipe": [
+                        {
+                            "name": "WITHER_ARTIFACT",
+                            "amount": 1,
+                            "type": "talisman"
+                        },
+                        {
+                            "name": "WITHER_CATALYST",
+                            "amount": 8,
+                            "type": "ah"
+                        }
+                    ]
+                }
+            ]
+        },
+        "CATACOMBS_EXPERT_RING": {
+            "name": "Catacombs Expert Ring",
+            "rarity": "epic",
+            "texture": "/head/c078c68f6f9669370ea39be72945a3a8688e0e024e5d6158fd854fb2b80fb",
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                },
+                {
+                    "type": "craft",
+                    "recipe": [
+                        {
+                            "name": "WITHER_CATALYST",
+                            "amount": 24,
+                            "type": "ah"
+                        }
+                    ]
+                }
+            ]
+        },
+        "AUTO_RECOMBOBULATOR": {
+            "name": "Auto Recombobulator",
+            "rarity": "legendary",
+            "texture": "/head/5dff8dbbab15bfbb11e23b1f50b34ef548ad9832c0bd7f5a13791adad0057e1b",
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                }
+            ]
+        },
+        "JERRY_TALISMAN_GOLDEN": {
+            "name": "Golden Jerry Artifact",
+            "rarity": "legendary",
+            "texture": "/head/29251e18657e7304eaceac5f8d446d248ea46af2eab145f8185cece779f1648",
+            "upgraded_of": "JERRY_TALISMAN_PURPLE",
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                },
+                {
+                    "type": "craft",
+                    "recipe": [
+                        {
+                            "name": "JERRY_TALISMAN_PURPLE",
+                            "amount": 4,
+                            "type": "ah"
+                        },
+                        {
+                            "name": "JERRY_TALISMAN_PURPLE",
+                            "amount": 1,
+                            "type": "talisman"
+                        }
+                    ]
+                }
+            ]
+        },
+        "JERRY_TALISMAN_PURPLE": {
+            "name": "Purple Jerry Talisman",
+            "rarity": "epic",
+            "texture": "/head/ff8bd61b60a425d2e0deb1df9665327750ceba822a0be85e2f4a3a722e20f7d6",
+            "upgraded_of": "JERRY_TALISMAN_BLUE",
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                },
+                {
+                    "type": "craft",
+                    "recipe": [
+                        {
+                            "name": "JERRY_TALISMAN_BLUE",
+                            "amount": 4,
+                            "type": "ah"
+                        },
+                        {
+                            "name": "JERRY_TALISMAN_BLUE",
+                            "amount": 1,
+                            "type": "talisman"
+                        }
+                    ]
+                }
+            ]
+        },
+        "JERRY_TALISMAN_BLUE": {
+            "name": "Blue Jerry Talisman",
+            "rarity": "rare",
+            "texture": "/head/d3b919f040922eb17733b42d216b7cdefeaea366be14c1ae6993ca7e5909e0f0",
+            "upgraded_of": "JERRY_TALISMAN_GREEN",
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                },
+                {
+                    "type": "craft",
+                    "recipe": [
+                        {
+                            "name": "JERRY_TALISMAN_GREEN",
+                            "amount": 4,
+                            "type": "ah"
+                        },
+                        {
+                            "name": "JERRY_TALISMAN_GREEN",
+                            "amount": 1,
+                            "type": "talisman"
+                        }
+                    ]
+                }
+            ]
+        },
+        "JERRY_TALISMAN_GREEN": {
+            "name": "Green Jerry Talisman",
+            "rarity": "uncommon",
+            "texture": "/head/2567251d71b6f3a4dc03fa01e441de7edf9354794e74aec16c04f141ddf31c70",
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                }
+            ]
+        },
+        "KING_TALISMAN": {
+            "name": "King Talisman",
+            "rarity": "common",
+            "texture": "/head/ba3fe344a6a027b6c66d8541146d4819df36ab91e9fc4df532748a0d76d74b13",
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                },
+                {
+                    "type": "quest",
+                    "description": "The King Talisman is obtained after speaking to all seven kings while they are the active king.",
+                    "wiki": "https://hypixel-skyblock.fandom.com/wiki/King_Talisman"
+                }
+            ]
+        },
+        "TITANIUM_TALISMAN": {
+            "name": "Titanium Talisman",
+            "rarity": "uncommon",
+            "texture": "/head/10feda53576c8a6e57466f5dbdb99ea480ed122a09fdd850ed8c2e755f55cac2",
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                },
+                {
+                    "type": "forge",
+                    "required": {
+                        "type": "hotm",
+                        "level": 2
+                    },
+                    "time": 50400,
+                    "recipe": [
+                        {
+                            "name": "REFINED_TITANIUM",
+                            "amount": 2,
+                            "type": "bz"
+                        }
+                    ]
+                }
+            ]
+        },
+        "TITANIUM_RING": {
+            "name": "Titanium Ring",
+            "rarity": "rare",
+            "texture": "/head/2c3edd919c0cc6d9668ffd210e46d2c07fe088c44d85f47d251b4f87481174f5",
+            "upgraded_of": "TITANIUM_TALISMAN",
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                },
+                {
+                    "type": "forge",
+                    "required": {
+                        "type": "hotm",
+                        "level": 3
+                    },
+                    "time": 72000,
+                    "recipe": [
+                        {
+                            "name": "REFINED_TITANIUM",
+                            "amount": 6,
+                            "type": "bz"
+                        },
+                        {
+                            "name": "TITANIUM_TALISMAN",
+                            "amount": 1,
+                            "type": "talisman"
+                        }
+                    ]
+                }
+            ]
+        },
+        "TITANIUM_ARTIFACT": {
+            "name": "Titanium Artifact",
+            "rarity": "epic",
+            "texture": "/head/98ec21d20f1aaf5635f48beda88626403c6385b81673fb7cfa7ff82179c63e39",
+            "upgraded_of": "TITANIUM_RING",
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                },
+                {
+                    "type": "forge",
+                    "required": {
+                        "type": "hotm",
+                        "level": 4
+                    },
+                    "time": 129600,
+                    "recipe": [
+                        {
+                            "name": "REFINED_TITANIUM",
+                            "amount": 12,
+                            "type": "bz"
+                        },
+                        {
+                            "name": "TITANIUM_RING",
+                            "amount": 1,
+                            "type": "talisman"
+                        }
+                    ]
+                }
+            ]
+        },
+        "TITANIUM_RELIC": {
+            "name": "Titanium Relic",
+            "rarity": "legendary",
+            "texture": "/head/d2f2405a7b8defddb0b8268bea8f2e12fc09bbc7de12981f85db2a7001ac81eb",
+            "upgraded_of": "TITANIUM_ARTIFACT",
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                },
+                {
+                    "type": "forge",
+                    "required": {
+                        "type": "hotm",
+                        "level": 5
+                    },
+                    "time": 259200,
+                    "recipe": [
+                        {
+                            "name": "REFINED_TITANIUM",
+                            "amount": 20,
+                            "type": "bz"
+                        },
+                        {
+                            "name": "TITANIUM_ARTIFACT",
+                            "amount": 1,
+                            "type": "talisman"
+                        }
+                    ]
+                }
+            ]
+        },
+        "REAPER_ORB": {
+            "name": "Reaper Orb",
+            "rarity": "legendary",
+            "texture": "/head/3a7cda9004fc197d66afbc2b003a5b9ef13cf4600b1fc7490067590f047181e",
+            "required": {
+                "type": "slayer",
+                "name": "zombie",
+                "level": 8
+            },
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                },
+                {
+                    "type": "craft",
+                    "recipe": [
+                        {
+                            "name": "SCYTHE_BLADE",
+                            "amount": 8,
+                            "type": "ah"
+                        }
+                    ]
+                }
+            ]
+        },
+        "DANTE_TALISMAN": {
+            "name": "Dante Talisman",
+            "rarity": "common",
+            "texture": "/head/cf92982f1a302310643a20ce51623f8199b7545e70dc6b93ed6bd61dc42ff213"
+        },
+        "SPIKED_ATROCITY": {
+            "name": "Spiked Atrocity",
+            "rarity": "epic",
+            "texture": "/head/df4eeca825dddb7f861352ecb0be2df4615728b63894b7c54418af0105a39172",
+            "upgraded_of": "BAIT_RING",
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                },
+                {
+                    "type": "craft",
+                    "recipe": [
+                        {
+                            "name": "SPIKED_BAIT",
+                            "amount": 128,
+                            "type": "bz"
+                        },
+                        {
+                            "name": "ENCHANTED_INK_SACK",
+                            "amount": 128,
+                            "type": "bz"
+                        },
+                        {
+                            "name": "BAIT_RING",
+                            "amount": 1,
+                            "type": "talisman"
+                        }
+                    ]
+                }
+            ]
+        },
+        "BLOOD_GOD_CREST": {
+            "name": "Blood God Crest",
+            "rarity": "common",
+            "texture": "/head/5b8b51eaefe0e3a10ad7fa1627801d2ce4412b4e432685906192f83283708233",
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                }
+            ]
+        },
+        "MASTER_SKULL_TIER_1": {
+            "name": "Master Skull - Tier 1",
+            "rarity": "common",
+            "texture": "/head/d48935509b5dee1e0daa28f51a3cc741b2b2e18b4efa1aab5883a5378623",
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                }
+            ]
+        },
+        "MASTER_SKULL_TIER_2": {
+            "name": "Master Skull - Tier 2",
+            "rarity": "common",
+            "texture": "/head/d48935509b5dee1e0daa28f51a3cc741b2b2e18b4efa1aab5883a5378623",
+            "upgraded_of": "MASTER_SKULL_TIER_1",
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                },
+                {
+                    "type": "craft",
+                    "recipe": [
+                        {
+                            "name": "MASTER_SKULL_TIER_1",
+                            "amount": 3,
+                            "type": "ah"
+                        },
+                        {
+                            "name": "MASTER_SKULL_TIER_1",
+                            "amount": 1,
+                            "type": "talisman"
+                        }
+                    ]
+                }
+            ]
+        },
+        "MASTER_SKULL_TIER_3": {
+            "name": "Master Skull - Tier 3",
+            "rarity": "uncommon",
+            "texture": "/head/d48935509b5dee1e0daa28f51a3cc741b2b2e18b4efa1aab5883a5378623",
+            "upgraded_of": "MASTER_SKULL_TIER_2",
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                },
+                {
+                    "type": "craft",
+                    "recipe": [
+                        {
+                            "name": "MASTER_SKULL_TIER_2",
+                            "amount": 3,
+                            "type": "ah"
+                        },
+                        {
+                            "name": "MASTER_SKULL_TIER_2",
+                            "amount": 1,
+                            "type": "talisman"
+                        }
+                    ]
+                }
+            ]
+        },
+        "MASTER_SKULL_TIER_4": {
+            "name": "Master Skull - Tier 4",
+            "rarity": "uncommon",
+            "texture": "/head/d48935509b5dee1e0daa28f51a3cc741b2b2e18b4efa1aab5883a5378623",
+            "upgraded_of": "MASTER_SKULL_TIER_3",
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                },
+                {
+                    "type": "craft",
+                    "recipe": [
+                        {
+                            "name": "MASTER_SKULL_TIER_3",
+                            "amount": 3,
+                            "type": "ah"
+                        },
+                        {
+                            "name": "MASTER_SKULL_TIER_3",
+                            "amount": 1,
+                            "type": "talisman"
+                        }
+                    ]
+                }
+            ]
+        },
+        "MASTER_SKULL_TIER_5": {
+            "name": "Master Skull - Tier 5",
+            "rarity": "rare",
+            "texture": "/head/d48935509b5dee1e0daa28f51a3cc741b2b2e18b4efa1aab5883a5378623",
+            "upgraded_of": "MASTER_SKULL_TIER_4",
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                },
+                {
+                    "type": "craft",
+                    "recipe": [
+                        {
+                            "name": "MASTER_SKULL_TIER_4",
+                            "amount": 3,
+                            "type": "ah"
+                        },
+                        {
+                            "name": "MASTER_SKULL_TIER_4",
+                            "amount": 1,
+                            "type": "talisman"
+                        }
+                    ]
+                }
+            ]
+        },
+        "MASTER_SKULL_TIER_6": {
+            "name": "Master Skull - Tier 6",
+            "rarity": "epic",
+            "texture": "/head/d48935509b5dee1e0daa28f51a3cc741b2b2e18b4efa1aab5883a5378623",
+            "upgraded_of": "MASTER_SKULL_TIER_5",
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                },
+                {
+                    "type": "craft",
+                    "recipe": [
+                        {
+                            "name": "MASTER_SKULL_TIER_5",
+                            "amount": 3,
+                            "type": "ah"
+                        },
+                        {
+                            "name": "MASTER_SKULL_TIER_5",
+                            "amount": 1,
+                            "type": "talisman"
+                        }
+                    ]
+                }
+            ]
+        },
+        "MASTER_SKULL_TIER_7": {
+            "name": "Master Skull - Tier 7",
+            "rarity": "legendary",
+            "texture": "/head/d48935509b5dee1e0daa28f51a3cc741b2b2e18b4efa1aab5883a5378623",
+            "upgraded_of": "MASTER_SKULL_TIER_6",
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                },
+                {
+                    "type": "craft",
+                    "recipe": [
+                        {
+                            "name": "MASTER_SKULL_TIER_6",
+                            "amount": 3,
+                            "type": "ah"
+                        },
+                        {
+                            "name": "MASTER_SKULL_TIER_6",
+                            "amount": 1,
+                            "type": "talisman"
+                        }
+                    ]
+                }
+            ]
+        },
+        "SOULFLOW_PILE": {
+            "name": "Soulflow Pile",
+            "rarity": "uncommon",
+            "texture": "/head/468c1fa4a21ba4f27dcb30ab3bfab0dc22a1e4fcf9ed12c1d7a70feb07f8d7ae",
+            "required": {
+                "type": "slayer",
+                "name": "enderman",
+                "level": 2
+            },
+            "acquire_methods": [
+                {
+                    "type": "craft",
+                    "recipe": [
+                        {
+                            "name": "NULL_SPHERE",
+                            "amount": 90,
+                            "type": "bz"
+                        }
+                    ]
+                }
+            ]
+        },
+        "SOULFLOW_BATTERY": {
+            "name": "Soulflow Battery",
+            "rarity": "rare",
+            "texture": "/head/468c1fa4a21ba4f27dcb30ab3bfab0dc22a1e4fcf9ed12c1d7a70feb07f8d7ae",
+            "upgraded_of": "SOULFLOW_PILE",
+            "required": {
+                "type": "slayer",
+                "name": "enderman",
+                "level": 5
+            },
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                },
+                {
+                    "type": "craft",
+                    "recipe": [
+                        {
+                            "name": "NULL_OVOID",
+                            "amount": 8,
+                            "type": "bz"
+                        },
+                        {
+                            "name": "SOULFLOW_PILE",
+                            "amount": 1,
+                            "type": "talisman"
+                        }
+                    ]
+                }
+            ]
+        },
+        "SOULFLOW_SUPERCELL": {
+            "name": "Soulflow Supercell",
+            "rarity": "epic",
+            "texture": "/head/468c1fa4a21ba4f27dcb30ab3bfab0dc22a1e4fcf9ed12c1d7a70feb07f8d7ae",
+            "upgraded_of": "SOULFLOW_BATTERY",
+            "required": {
+                "type": "slayer",
+                "name": "enderman",
+                "level": 7
+            },
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                },
+                {
+                    "type": "craft",
+                    "recipe": [
+                        {
+                            "name": "NULL_OVOID",
+                            "amount": 192,
+                            "type": "bz"
+                        },
+                        {
+                            "name": "SOULFLOW_BATTERY",
+                            "amount": 1,
+                            "type": "talisman"
+                        },
+                        {
+                            "name": "NULL_ATOM",
+                            "amount": 2,
+                            "type": "bz"
+                        }
+                    ]
+                }
+            ]
+        },
+        "POCKET_ESPRESSO_MACHINE": {
+            "name": "Pocket Espresso Machine",
+            "rarity": "common",
+            "texture": "/head/666070ce03a545ee4d263bcf27f36338d249d7cb7a2376f92c1673ae134e04b6",
+            "required": {
+                "type": "slayer",
+                "name": "enderman",
+                "level": 4
+            },
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                }
+            ]
+        },
+        "HANDY_BLOOD_CHALICE": {
+            "name": "Handy Blood Chalice",
+            "rarity": "common",
+            "texture": "/head/431cd7ed4e4bf07c3dfd9ba498708e730e69d807335affabc12d87ff542f6a88",
+            "required": {
+                "type": "slayer",
+                "name": "enderman",
+                "level": 5
+            },
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                }
+            ]
+        },
+        "ENDER_RELIC": {
+            "name": "Ender Relic",
+            "rarity": "legendary",
+            "texture": "/head/969da4e7b8d558af02e80e2e1669ceb6084898db55907ef3e66d9a329329e941",
+            "upgraded_of": "ENDER_ARTIFACT",
+            "required": {
+                "type": "slayer",
+                "name": "enderman",
+                "level": 7
+            },
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                },
+                {
+                    "type": "craft",
+                    "recipe": [
+                        {
+                            "name": "ENCHANTED_OBSIDIAN",
+                            "amount": 128,
+                            "type": "bz"
+                        },
+                        {
+                            "name": "ENCHANTED_EYE_OF_ENDER",
+                            "amount": 96,
+                            "type": "bz"
+                        },
+                        {
+                            "name": "ENDER_ARTIFACT",
+                            "amount": 1,
+                            "type": "talisman"
+                        },
+                        {
+                            "name": "EXCEEDINGLY_RARE_ENDER_ARTIFACT_UPGRADER",
+                            "amount": 1,
+                            "type": "ah"
+                        }
+                    ]
+                }
+            ]
+        },
+        "JUNGLE_AMULET": {
+            "name": "Jungle Amulet",
+            "wiki": "https://hypixel-skyblock.fandom.com/wiki/Jungle_Amulet",
+            "acquire_methods": [
+                {
+                    "type": "npc_trade",
+                    "npc": "Odawa",
+                    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Odawa",
+                    "recipe": [
+                        {
+                            "name": "SLUDGE_JUICE",
+                            "amount": 500,
+                            "type": "bz"
+                        },
+                        {
+                            "name": "JUNGLE_HEART",
+                            "amount": 4,
+                            "type": "ah"
+                        }
+                    ]
+                },
+                {
+                    "type": "ah"
+                }
+            ]
+        },
+        "POWER_TALISMAN": {
+            "name": "Talisman of Power",
+            "wiki": "https://hypixel-skyblock.fandom.com/wiki/Talisman_of_Power",
+            "acquire_methods": [
+                {
+                    "type": "craft",
+                    "recipe": [
+                        {
+                            "name": "FLAWED_RUBY_GEM",
+                            "amount": 45,
+                            "type": "bz"
+                        }
+                    ]
+                }
+            ]
+        },
+        "POWER_RING": {
+            "name": "Ring of Power",
+            "wiki": "https://hypixel-skyblock.fandom.com/wiki/Ring_of_Power",
+            "upgraded_of": "POWER_TALISMAN",
+            "acquire_methods": [
+                {
+                    "type": "craft",
+                    "recipe": [
+                        {
+                            "name": "POWER_TALISMAN",
+                            "amount": 1,
+                            "type": "talisman"
+                        },
+                        {
+                            "name": "GEMSTONE_MIXTURE",
+                            "amount": 1,
+                            "type": "ah"
+                        },
+                        {
+                            "name": "FINE_RUBY_GEM",
+                            "amount": 7,
+                            "type": "bz"
+                        }
+                    ]
+                }
+            ]
+        },
+        "POWER_ARTIFACT": {
+            "name": "Artifact of Power",
+            "wiki": "https://hypixel-skyblock.fandom.com/wiki/Artifact_of_Power",
+            "upgraded_of": "POWER_RING",
+            "acquire_methods": [
+                {
+                    "type": "craft",
+                    "recipe": [
+                        {
+                            "name": "POWER_RING",
+                            "amount": 1,
+                            "type": "talisman"
+                        },
+                        {
+                            "name": "GEMSTONE_MIXTURE",
+                            "amount": 32,
+                            "type": "ah"
+                        }
+                    ]
+                }
+            ]
+        },
+        "NETHER_ARTIFACT": {
+            "wiki": "https://hypixel-skyblock.fandom.com/wiki/Nether_Artifact",
+            "acquire_methods": [
+                {
+                    "type": "ah"
+                }
+            ]
+        },
+        "BINGO_TALISMAN": {
+            "name": "Bingo Talisman",
+            "wiki": "https://hypixel-skyblock.fandom.com/wiki/Bingo_Talisman",
+            "rarity": "common",
+            "texture": "/head/2f25944b7465ff4586a341f881f488b6f9d4b3ffc100f50a77087075b3ceb1b",
+            "acquire_methods": [
+                {
+                    "type": "quest",
+                    "description": "Bingo Talisman can be bought from the Bingo Shop for 100 Bingo Points, once the player has reached Ⓑ Bingo Rank I (1).",
+                    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Bingo"
+                }
+            ]
+        },
+        "BINGO_RING": {
+            "name": "Bingo Ring",
+            "wiki": "https://hypixel-skyblock.fandom.com/wiki/Bingo_Ring",
+            "rarity": "uncommon",
+            "texture": "/head/22f2499ab4cfc97e65f0fa9fe63cc606707a4ae96af407846b1b5354f3fad99",
+            "acquire_methods": [
+                {
+                    "type": "npc_trade",
+                    "npc": "Bingo",
+                    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Bingo",
+                    "recipe": [
+                        {
+                            "name": "Bingo Points",
+                            "amount": 150,
+                            "type": "item"
+                        },
+                        {
+                            "name": "BINGO_TALISMAN",
+                            "amount": 1,
+                            "type": "talisman"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
