@@ -1,0 +1,20 @@
+{
+  "name": "bestminion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "reset | npm run api | npm run bot",
+    "api": "python37 API/handleAPIv2.py",
+    "bot": "node DiscordBot/bot.js",
+    "commands": "cd Commands && node commands.js"
+  },
+  "author": "tonkaew131",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^8.2.0",
+    "node-json-db": "^1.1.0",
+    "request": "^2.88.2"
+  }
+}

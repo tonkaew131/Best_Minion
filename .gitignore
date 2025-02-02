@@ -1,0 +1,12 @@
+.env
+.env.dev
+Commands/.env
+
+__pycache__
+.vscode/
+.idea/
+
+node_modules/
+
+Database/
+mics/

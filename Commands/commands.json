@@ -1,0 +1,599 @@
+{
+    "Commands": {
+        "help": {
+            "name": "help",
+            "description": "Shows informations about BestMinion",
+            "options": [
+                {
+                    "name": "command",
+                    "description": "Name of the command",
+                    "type": "3",
+                    "required": false,
+                    "choices": [
+                        {
+                            "name": "minion",
+                            "value": "minion"
+                        },
+                        {
+                            "name": "top10",
+                            "value": "top10"
+                        },
+                        {
+                            "name": "dprofile",
+                            "value": "dprofile"
+                        }
+                    ]
+                }
+            ]
+        },
+        "minion": {
+            "name": "minion",
+            "description": "Advanced minions' earning calculator",
+            "options": [
+                {
+                    "name": "minion",
+                    "description": "Name of minion to calculate",
+                    "type": 3,
+                    "required": true
+                },
+                {
+                    "name": "tier",
+                    "description": "Minion tier (1 - 12)",
+                    "type": 4,
+                    "required": true
+                },
+                {
+                    "name": "slot",
+                    "description": "Number of minions",
+                    "type": 4,
+                    "required": true
+                },
+                {
+                    "name": "upgrade1",
+                    "description": "First upgrade",
+                    "type": 3,
+                    "required": true,
+                    "choices": [
+                        {
+                            "name": "None",
+                            "value": "None"
+                        },
+                        {
+                            "name": "Compactor",
+                            "value": "Compactor"
+                        },
+                        {
+                            "name": "Super Compactor 3000",
+                            "value": "Super Compactor 3000"
+                        },
+                        {
+                            "name": "Dwarven Super Compactor",
+                            "value": "Dwarven Super Compactor"
+                        },
+                        {
+                            "name": "Diamond Spreading",
+                            "value": "Diamond Spreading"
+                        },
+                        {
+                            "name": "Potato Spreading",
+                            "value": "Potato Spreading"
+                        },
+                        {
+                            "name": "Krampus Helmet",
+                            "value": "Krampus Helmet"
+                        },
+                        {
+                            "name": "Enchanted Egg",
+                            "value": "Enchanted Egg"
+                        },
+                        {
+                            "name": "Lesser Soulflow Engine",
+                            "value": "Lesser Soulflow Engine"
+                        },
+                        {
+                            "name": "Soulflow Engine",
+                            "value": "Soulflow Engine"
+                        },
+                        {
+                            "name": "Auto Smelter",
+                            "value": "Auto Smelter"
+                        },
+                        {
+                            "name": "Budget Hopper",
+                            "value": "Budget Hopper"
+                        },
+                        {
+                            "name": "Enchanted Hopper",
+                            "value": "Enchanted Hopper"
+                        },
+                        {
+                            "name": "Flint Shovel",
+                            "value": "Flint Shovel"
+                        },
+                        {
+                            "name": "Flycatcher",
+                            "value": "Flycatcher"
+                        },
+                        {
+                            "name": "Minion Expander",
+                            "value": "Minion Expander"
+                        }
+                    ]
+                },
+                {
+                    "name": "upgrade2",
+                    "description": "Second upgrade",
+                    "type": 3,
+                    "required": true,
+                    "choices": [
+                        {
+                            "name": "None",
+                            "value": "None"
+                        },
+                        {
+                            "name": "Compactor",
+                            "value": "Compactor"
+                        },
+                        {
+                            "name": "Super Compactor 3000",
+                            "value": "Super Compactor 3000"
+                        },
+                        {
+                            "name": "Dwarven Super Compactor",
+                            "value": "Dwarven Super Compactor"
+                        },
+                        {
+                            "name": "Diamond Spreading",
+                            "value": "Diamond Spreading"
+                        },
+                        {
+                            "name": "Potato Spreading",
+                            "value": "Potato Spreading"
+                        },
+                        {
+                            "name": "Krampus Helmet",
+                            "value": "Krampus Helmet"
+                        },
+                        {
+                            "name": "Enchanted Egg",
+                            "value": "Enchanted Egg"
+                        },
+                        {
+                            "name": "Lesser Soulflow Engine",
+                            "value": "Lesser Soulflow Engine"
+                        },
+                        {
+                            "name": "Soulflow Engine",
+                            "value": "Soulflow Engine"
+                        },
+                        {
+                            "name": "Auto Smelter",
+                            "value": "Auto Smelter"
+                        },
+                        {
+                            "name": "Budget Hopper",
+                            "value": "Budget Hopper"
+                        },
+                        {
+                            "name": "Enchanted Hopper",
+                            "value": "Enchanted Hopper"
+                        },
+                        {
+                            "name": "Flint Shovel",
+                            "value": "Flint Shovel"
+                        },
+                        {
+                            "name": "Flycatcher",
+                            "value": "Flycatcher"
+                        },
+                        {
+                            "name": "Minion Expander",
+                            "value": "Minion Expander"
+                        }
+                    ]
+                },
+                {
+                    "name": "fuel",
+                    "description": "Fuel to calculate",
+                    "type": 3,
+                    "required": true,
+                    "choices": [
+                        {
+                            "name": "None",
+                            "value": "None"
+                        },
+                        {
+                            "name": "Coal",
+                            "value": "Coal"
+                        },
+                        {
+                            "name": "Block of Coal",
+                            "value": "Block of Coal"
+                        },
+                        {
+                            "name": "Enchanted Bread",
+                            "value": "Enchanted Bread"
+                        },
+                        {
+                            "name": "Enchanted Coal",
+                            "value": "Enchanted Coal"
+                        },
+                        {
+                            "name": "Enchanted Charcoal",
+                            "value": "Enchanted Charcoal"
+                        },
+                        {
+                            "name": "Solar Panel",
+                            "value": "Solar Panel"
+                        },
+                        {
+                            "name": "Enchanted Lava Bucket",
+                            "value": "Enchanted Lava Bucket"
+                        },
+                        {
+                            "name": "Magma Bucket",
+                            "value": "Magma Bucket"
+                        },
+                        {
+                            "name": "Plasma Bucket",
+                            "value": "Plasma Bucket"
+                        },
+                        {
+                            "name": "Hamster Wheel",
+                            "value": "Hamster Wheel"
+                        },
+                        {
+                            "name": "Foul Flesh",
+                            "value": "Foul Flesh"
+                        },
+                        {
+                            "name": "Catalyst",
+                            "value": "Catalyst"
+                        },
+                        {
+                            "name": "Hyper Catalyst",
+                            "value": "Hyper Catalyst"
+                        }
+                    ]
+                },
+                {
+                    "name": "storage",
+                    "description": "Storage to calculate",
+                    "type": 3,
+                    "required": true,
+                    "choices": [
+                        {
+                            "name": "None",
+                            "value": "None"
+                        },
+                        {
+                            "name": "Small Storage",
+                            "value": "Small Storage"
+                        },
+                        {
+                            "name": "Medium Storage",
+                            "value": "Medium Storage"
+                        },
+                        {
+                            "name": "Large Storage",
+                            "value": "Large Storage"
+                        },
+                        {
+                            "name": "X-Large Storage",
+                            "value": "X-Large Storage"
+                        },
+                        {
+                            "name": "XX-Large Storage",
+                            "value": "XX-Large Storage"
+                        }
+                    ]
+                },
+                {
+                    "name": "afk",
+                    "description": "Is calculating while AFK on island?",
+                    "type": 3,
+                    "require": false,
+                    "choices": [
+                        {
+                            "name": "No",
+                            "value": "No"
+                        },
+                        {
+                            "name": "Yes",
+                            "value": "Yes"
+                        }
+                    ]
+                },
+                {
+                    "name": "sell",
+                    "description": "Sell to NPC, Bazaar, or ALL (if not in Bazaar, it will be NPC Price)",
+                    "type": 3,
+                    "required": false,
+                    "choices": [
+                        {
+                            "name": "All",
+                            "value": "All"
+                        },
+                        {
+                            "name": "NPC",
+                            "value": "NPC"
+                        },
+                        {
+                            "name": "Bazaar",
+                            "value": "Bazaar"
+                        }
+                    ]
+                },
+                {
+                    "name": "inferno_fuel",
+                    "description": "Inferno Minion Fuel (normal Fuel will be ignored, if this is selected)",
+                    "type": 3,
+                    "required": false,
+                    "choices": [
+                        {
+                            "name": "Rare Inferno Minion Fuel (10x Magma Cream)",
+                            "value": "Rare Inferno Minion Fuel (10x Magma Cream)"
+                        },
+                        {
+                            "name": "Epic Inferno Minion Fuel (15x Magma Cream)",
+                            "value": "Epic Inferno Minion Fuel (15x Magma Cream)"
+                        },
+                        {
+                            "name": "Legend Inferno Minion Fuel (20x Magma Cream)",
+                            "value": "Legend Inferno Minion Fuel (20x Magma Cream)"
+                        },
+                        {
+                            "name": "Rare Inferno Minion Fuel (10x Glowstone Dust)",
+                            "value": "Rare Inferno Minion Fuel (10x Glowstone Dust)"
+                        },
+                        {
+                            "name": "Epic Inferno Minion Fuel (15x Glowstone Dust)",
+                            "value": "Epic Inferno Minion Fuel (15x Glowstone Dust)"
+                        },
+                        {
+                            "name": "Legend Inferno Minion Fuel (20x Glowstone Dust)",
+                            "value": "Legend Inferno Minion Fuel (20x Glowstone Dust)"
+                        },
+                        {
+                            "name": "Rare Inferno Minion Fuel (10x Nether Wart)",
+                            "value": "Rare Inferno Minion Fuel (10x Nether Wart)"
+                        },
+                        {
+                            "name": "Epic Inferno Minion Fuel (15x Nether Wart)",
+                            "value": "Epic Inferno Minion Fuel (15x Nether Wart)"
+                        },
+                        {
+                            "name": "Legend Inferno Minion Fuel (20x Nether Wart)",
+                            "value": "Legend Inferno Minion Fuel (20x Nether Wart)"
+                        },
+                        {
+                            "name": "Rare Inferno Minion Fuel (10x Blaze Rod)",
+                            "value": "Rare Inferno Minion Fuel (10x Blaze Rod)"
+                        },
+                        {
+                            "name": "Epic Inferno Minion Fuel (15x Blaze Rod)",
+                            "value": "Epic Inferno Minion Fuel (15x Blaze Rod)"
+                        },
+                        {
+                            "name": "Legend Inferno Minion Fuel (20x Blaze Rod)",
+                            "value": "Legend Inferno Minion Fuel (20x Blaze Rod)"
+                        },
+                        {
+                            "name": "Rare Inferno Minion Fuel (10x Crude Gabagool)",
+                            "value": "Rare Inferno Minion Fuel (10x Crude Gabagool)"
+                        },
+                        {
+                            "name": "Epic Inferno Minion Fuel (15x Crude Gabagool)",
+                            "value": "Epic Inferno Minion Fuel (15x Crude Gabagool)"
+                        },
+                        {
+                            "name": "Legend Inferno Minion Fuel (20x Crude Gabagool)",
+                            "value": "Legend Inferno Minion Fuel (20x Crude Gabagool)"
+                        }
+                    ]
+                },
+                {
+                    "name": "bonus1",
+                    "description": "Crystal bonus",
+                    "type": 3,
+                    "required": false,
+                    "choices": [
+                        {
+                            "name": "None",
+                            "value": "None"
+                        },
+                        {
+                            "name": "Farm Crystal",
+                            "value": "Farm Crystal"
+                        },
+                        {
+                            "name": "Mithril Crystal",
+                            "value": "Mithril Crystal"
+                        },
+                        {
+                            "name": "Woodcutting Crystal",
+                            "value": "Woodcutting Crystal"
+                        }
+                    ]
+                },
+                {
+                    "name": "bonus2",
+                    "description": "Beacon bonus",
+                    "type": 3,
+                    "required": false,
+                    "choices": [
+                        {
+                            "name": "None",
+                            "value": "None"
+                        },
+                        {
+                            "name": "Beacon I",
+                            "value": "Beacon I"
+                        },
+                        {
+                            "name": "Beacon II",
+                            "value": "Beacon II"
+                        },
+                        {
+                            "name": "Beacon III",
+                            "value": "Beacon III"
+                        },
+                        {
+                            "name": "Beacon IV",
+                            "value": "Beacon IV"
+                        },
+                        {
+                            "name": "Beacon V",
+                            "value": "Beacon V"
+                        }
+                    ]
+                },
+                {
+                    "name": "bonus3",
+                    "description": "Pet bonus",
+                    "type": 3,
+                    "required": false,
+                    "choices": [
+                        {
+                            "name": "None",
+                            "value": "None"
+                        },
+                        {
+                            "name": "Legendary Rabbit Pet Lv. 100",
+                            "value": "Legendary Rabbit Pet Lv. 100"
+                        },
+                        {
+                            "name": "Legendary Ocelot Pet Lv. 100",
+                            "value": "Legendary Ocelot Pet Lv. 100"
+                        },
+                        {
+                            "name": "Legendary Magma Cube Pet Lv. 100",
+                            "value": "Legendary Magma Cube Pet Lv. 100"
+                        },
+                        {
+                            "name": "Legendary Spider Pet Lv. 100",
+                            "value": "Legendary Spider Pet Lv. 100"
+                        },
+                        {
+                            "name": "Legendary Chicken Pet Lv. 100",
+                            "value": "Legendary Chicken Pet Lv. 100"
+                        }
+                    ]
+                }
+            ]
+        },
+        "top10": {
+            "name": "top10",
+            "description": "Calculate 10 best minions right now, order by its earning",
+            "options": [
+                {
+                    "name": "tier",
+                    "description": "Tier 1 - 12 or \"all\"",
+                    "type": 3,
+                    "required": true
+                },
+                {
+                    "name": "sell",
+                    "description": "Sell to NPC, Bazaar, or ALL (if not in Bazaar, it will be NPC Price)",
+                    "type": 3,
+                    "required": false,
+                    "choices": [
+                        {
+                            "name": "All",
+                            "value": "All"
+                        },
+                        {
+                            "name": "NPC",
+                            "value": "NPC"
+                        },
+                        {
+                            "name": "Bazaar",
+                            "value": "Bazaar"
+                        }
+                    ]
+                },
+                {
+                    "name": "except",
+                    "description": "Name of minion to removed",
+                    "type": 3,
+                    "required": false
+                }
+            ]
+        },
+        "dprofile": {
+            "name": "dprofile",
+            "description": "Dungeon profile viewer",
+            "options": [
+                {
+                    "name": "ign",
+                    "description": "Username to view profile",
+                    "type": 3,
+                    "required": true
+                }
+            ]
+        },
+        "next": {
+            "name": "next",
+            "description": "Calculate 5 cheapest unique minions upgrade (Required account link)",
+            "options": []
+        },
+        "nextmax": {
+            "name": "nextmax",
+            "description": "Calculate 5 cheapest unique minions max upgrade (Required account link)",
+            "options": []
+        },
+        "link": {
+            "name": "link",
+            "description": "Link your minecraft account with BestMinion bot",
+            "options": [
+                {
+                    "name": "ign",
+                    "description": "Your minecraft in-game name",
+                    "type": 3,
+                    "required": true
+                }
+            ]
+        },
+        "essence": {
+            "name": "essence",
+            "description": "Get player's essences",
+            "options": [
+                {
+                    "name": "ign",
+                    "description": "Your minecraft in-game name",
+                    "type": 3,
+                    "required": true
+                }
+            ]
+        },
+        "donate": {
+            "name": "donate",
+            "description": "Support me ❤️, !supporter for perks",
+            "options": []
+        },
+        "craft": {
+            "name": "craft",
+            "description": "Calculate minion price",
+            "options": [
+                {
+                    "name": "minion",
+                    "description": "Name of minion to calculate",
+                    "type": 3,
+                    "required": true
+                },
+                {
+                    "name": "tier",
+                    "description": "Upgrade to tier",
+                    "type": 4,
+                    "required": true
+                },
+                {
+                    "name": "from",
+                    "description": "Upgrade from tier",
+                    "type": 4,
+                    "required": false
+                }
+            ]
+        }
+    }
+}
