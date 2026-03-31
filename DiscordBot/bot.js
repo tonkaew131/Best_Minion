@@ -523,8 +523,7 @@ client.on(Discord.Events.MessageCreate, async message => {
     }
 
     if (command == 'about') {
-        // TODO: Change to new send method
-        return channel.send(Embeds.aboutMeEmbed());
+        return channel.send({ embeds: [Embeds.aboutMeEmbed()] });
     }
 
     if (command == 'craft') {

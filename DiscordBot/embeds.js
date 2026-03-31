@@ -231,7 +231,7 @@ module.exports = {
         return embed;
     },
     aboutMeEmbed: function () {
-        let embed = new Discord.MessageEmbed();
+        let embed = new Discord.EmbedBuilder();
         embed.setColor('#f8c9d3');
         embed.setThumbnail(Utils.getDefaultProfilePicture());
         embed.setTitle('About BestMinion bot');
@@ -456,6 +456,7 @@ module.exports = {
 
         embed.addFields({ name: '** - Patreon (monthly)**', value: 'https://www.patreon.com/frogkung' });
         embed.addFields({ name: '** - Ko-fi (one-time)**', value: 'https://ko-fi.com/frogkung' });
+
         return embed;
     },
     essencesEmbed: function (data, user) {
