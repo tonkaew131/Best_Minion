@@ -74,7 +74,7 @@ module.exports = {
         return embed;
     },
     helpMinionEmbed: function () {
-        let embed = new Discord.MessageEmbed();
+        let embed = new Discord.EmbedBuilder();
         embed.setTitle('**Command: /Minion**');
         embed.setColor(BESTMINION_THEME_COLOR);
         embed.setThumbnail(Utils.getDefaultProfilePicture());
@@ -88,17 +88,41 @@ module.exports = {
 
         let minionOptions = Utils.getMinionOptions();
         let upgradeField = parsedMinionOptions(minionOptions['upgrades']).join('\n');
-        embed.addField(' - Upgrade', upgradeField, true);
+        embed.addFields({
+            name: ' - Upgrade',
+            value: upgradeField,
+            inline: true
+        });
         let fuelField = parsedMinionOptions(minionOptions['fuels']).join('\n');
-        embed.addField(' - Fuel', fuelField, true);
+        embed.addFields({
+            name: ' - Fuel',
+            value: fuelField,
+            inline: true
+        });
         let storageField = parsedMinionOptions(minionOptions['storages']).join('\n');
-        embed.addField(' - Storage', storageField, true);
+        embed.addFields({
+            name: ' - Storage',
+            value: storageField,
+            inline: true
+        });
         let bonus1Field = parsedMinionOptions(minionOptions['bonus1']).join('\n');
-        embed.addField(' - Bonus 1 ( Crystal bonus )', bonus1Field, true);
+        embed.addFields({
+            name: ' - Bonus 1 ( Crystal bonus )',
+            value: bonus1Field,
+            inline: true
+        });
         let bonus2Field = parsedMinionOptions(minionOptions['bonus2']).join('\n');
-        embed.addField(' - Bonus 2 ( Beacon bonus )', bonus2Field, true);
+        embed.addFields({
+            name: ' - Bonus 2 ( Beacon bonus )',
+            value: bonus2Field,
+            inline: true
+        });
         let bonus3Field = parsedMinionOptions(minionOptions['bonus3']).join('\n');
-        embed.addField(' - Bonus 3 ( Pet bonus )', bonus3Field, true);
+        embed.addFields({
+            name: ' - Bonus 3 ( Pet bonus )',
+            value: bonus3Field,
+            inline: true
+        });
 
         return embed;
     },

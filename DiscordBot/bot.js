@@ -48,7 +48,7 @@ client.once(Discord.Events.ClientReady, () => {
 
     client.user.setPresence({
         activities: [{
-            name: '🤔 !help',
+            name: '!help | Now GA',
             type: Discord.ActivityType.Listening
         }]
     })
