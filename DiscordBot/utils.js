@@ -77,6 +77,7 @@ module.exports = {
             upgrades: [
                 'None',
                 'Compactor',
+                'Corrupted Soil',
                 'Super Compactor 3000',
                 'Dwarven Super Compactor',
                 'Diamond Spreading',
