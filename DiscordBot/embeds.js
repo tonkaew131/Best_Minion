@@ -35,7 +35,7 @@ function parsedMinionOptions(list) {
 
 module.exports = {
     helpEmbed: function () {
-        let embed = new Discord.MessageEmbed();
+        let embed = new Discord.EmbedBuilder();
         embed.setColor(BESTMINION_THEME_COLOR);
         embed.setTitle('**BestMinion\'s Commands**');
         embed.setThumbnail(Utils.getDefaultProfilePicture());
@@ -44,7 +44,10 @@ module.exports = {
         minionField += '►**craft**: Calculate minion price\n';
         minionField += '►**minion**: Advanced minions\' earning calculator\n';
         minionField += '►**top10**: Calculate 10 best minions right now, order by its earning\n';
-        embed.addField('- Minion commands', minionField);
+        embed.addFields({
+            name: '- Minion commands',
+            value: minionField
+        });
 
         let playerField = '';
         playerField += '►**dprofile**: Dungeon profile viewer\n';
@@ -53,14 +56,20 @@ module.exports = {
         playerField += '►**next**: Calculate 5 cheapest unique minions upgrade (Required account link)\n';
         playerField += '►**nextmax**: Calculate 5 cheapest unique minions max upgrade (Required account link)\n';
         playerField += '►**talisman**: Talisman related commands ( missing5, ... )';
-        embed.addField('- Player commands', playerField);
+        embed.addFields({
+            name: '- Player commands',
+            value: playerField
+        });
 
         let micsField = '';
         micsField += '►**help** : Shows informations about BestMinion\n';
         micsField += '►**donate**: Support me ❤️, !supporter for perks\n';
         micsField += '►**about**: Show information about BestMinion\n';
         micsField += '►**skills**: Skills calculation\n';
-        embed.addField('- Mics commands', micsField);
+        embed.addFields({
+            name: '- Mics commands',
+            value: micsField
+        });
 
         return embed;
     },

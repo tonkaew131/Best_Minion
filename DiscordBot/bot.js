@@ -1,5 +1,13 @@
 const Discord = require('discord.js');
-const client = new Discord.Client();
+const client = new Discord.Client({
+    intents: [
+        Discord.GatewayIntentBits.Guilds,
+        Discord.GatewayIntentBits.GuildMessages,
+        Discord.GatewayIntentBits.GuildMembers,
+        Discord.GatewayIntentBits.MessageContent,
+        Discord.GatewayIntentBits.DirectMessages
+    ]
+});
 
 const InteractionUtils = require('./interaction');
 const APIUtils = require('./api');
@@ -16,7 +24,7 @@ const embeds = require('./embeds');
 var GuildsDB = new JsonDB(new Config('./Database/Guilds_db.json', true, true, '/'));
 var UsersDB = new JsonDB(new Config('./Database/Users_db.json', true, true, '/'));
 
-client.on('ready', () => {
+client.once(Discord.Events.ClientReady, () => {
     let readyAt = client.readyAt.toLocaleString('en-US', {
         timeZone: 'Asia/Bangkok',
         hour12: false,
@@ -37,7 +45,12 @@ client.on('ready', () => {
     logMessages += `Ready at ${readyAt}`;
     console.log(logMessages);
 
-    client.user.setActivity('🤔 !help', { type: 'LISTENING' });
+    client.user.setPresence({
+        activities: [{
+            name: '🤔 !help',
+            type: Discord.ActivityType.Listening
+        }]
+    })
 });
 
 client.on('error', () => {
@@ -402,7 +415,7 @@ client.on('raw', async data => {
     }
 });
 
-client.on('message', async message => {
+client.on(Discord.Events.MessageCreate, async message => {
     let prefix = '!';
 
     if (message['author']['bot']) return;
@@ -470,26 +483,32 @@ client.on('message', async message => {
     let channel = message['channel'];
     if (command == 'help') {
         if (args.length == 0) {
-            channel.send(Embeds.helpEmbed());
+            await channel.send({ embeds: [Embeds.helpEmbed()] });
             return;
         }
 
         if (args[0] == 'craft') {
+            // TODO: Change to new send method
             return channel.send(Embeds.helpCraftEmbed());
         }
         if (args[0] == 'minion' || args[0] == 'm') {
+            // TODO: Change to new send method
             return channel.send(Embeds.helpMinionEmbed());
         }
         if (args[0] == 'dprofile' || args[0] == 'dp') {
+            // TODO: Change to new send method
             return channel.send(Embeds.helpDprofileEmbed());
         }
         if (args[0] == 'link') {
+            // TODO: Change to new send method
             return channel.send(Embeds.helpLinkEmbed());
         }
         if (args[0] == 'talisman' || args[0] == 't') {
-            return channel.send(embeds.helpTalismanEmbed());
+            // TODO: Change to new send method
+            return channel.send(Embeds.helpTalismanEmbed());
         }
         if (args[0] == 'top10') {
+            // TODO: Change to new send method
             return channel.send(Embeds.helpTop10Embed());
         }
         return;
@@ -501,10 +520,12 @@ client.on('message', async message => {
     }
 
     if (command == 'about') {
+        // TODO: Change to new send method
         return channel.send(Embeds.aboutMeEmbed());
     }
 
     if (command == 'craft') {
+        // TODO: Change to new send method
         if (args.length < 2) return channel.send(Embeds.helpCraftEmbed());
 
         let endpoint = `minion/craft?minion_name=${args[0].split('_').join(' ')}`;
@@ -513,9 +534,11 @@ client.on('message', async message => {
 
         let craftData = await APIUtils.getBestMinionAPIv2(endpoint);
         if (craftData['success'] == true) {
+            // TODO: Change to new send method
             return channel.send(Embeds.craftEmbed(craftData, message['author']));
         }
 
+        // TODO: Change to new send method
         return channel.send(Embeds.errorEmbed(craftData));
     }
 
@@ -537,21 +560,25 @@ client.on('message', async message => {
 
     if (command == 'essence' || command == 'essences') {
         if (args.length == 0) {
+            // TODO: Change to new send method
             channel.send(Embeds.helpEssencesEmbed());
             return;
         }
 
         let essencesData = await APIUtils.getBestMinionAPIv2(`player/essences?minecraft_ign=${args[0]}`);
         if (essencesData['success'] == true) {
+            // TODO: Change to new send method
             channel.send(Embeds.essencesEmbed(essencesData, message['author']))
             return;
         }
 
+        // TODO: Change to new send method
         channel.send(Embeds.errorEmbed(essencesData));
     }
 
     if (command == 'link' || command == 'verify') {
         if (args.length == 0) {
+            // TODO: Change to new send method
             channel.send(Embeds.helpLinkEmbed());
             return;
         }
@@ -562,10 +589,12 @@ client.on('message', async message => {
                 'uuid': uuid['data']['undashed_uuid']
             }, true);
 
+            // TODO: Change to new send method
             channel.send(Embeds.linkedEmbed(uuid));
             return;
         }
 
+        // TODO: Change to new send method
         channel.send(Embeds.errorEmbed(uuid));
         return;
     }
@@ -683,11 +712,13 @@ client.on('message', async message => {
 
     if (command == 'skills' || command == 'skill' || command == 's') {
         if (args[0] == undefined || args[0] == 'help') {
+            // TODO: Change to new send method
             return channel.send(Embeds.helpSkillsEmbed());
         }
 
         if (args[0] == 'boost') {
             if (args.length < 3 || args[1] == 'help') {
+                // TODO: Change to new send method
                 return channel.send(Embeds.skillsBoostHelpEmbed());
             }
 
@@ -695,26 +726,31 @@ client.on('message', async message => {
             let booster = args[2].split('+');
 
             if (isNaN(xp)) {
+                // TODO: Change to new send method
                 return channel.send(Embeds.errorEmbed({ cause: 'XP is not a number!' }));
             }
             if (booster.length == 0) {
+                // TODO: Change to new send method
                 return channel.send(Embeds.skillsBoostHelpEmbed());
             }
 
             let multiplier = 1;
             for (let i = 0; i < booster.length; i++) {
                 if (isNaN(booster[i])) {
+                    // TODO: Change to new send method
                     return channel.send(Embeds.errorEmbed({ cause: 'Booster multiplier is not a number!' }));
                 }
 
                 multiplier += Number(booster[i]) / 100;
             }
 
+            // TODO: Change to new send method
             return channel.send(Embeds.skillsBoostEmbed(xp * multiplier));
         }
 
         if (args[0] == 'invboost') {
             if (args.length < 3 || args[1] == 'help') {
+                // TODO: Change to new send method
                 return channel.send(Embeds.skillsInvertBoostHelpEmbed());
             }
 
@@ -722,38 +758,45 @@ client.on('message', async message => {
             let booster = args[2].split('+');
 
             if (isNaN(xp)) {
+                // TODO: Change to new send method
                 return channel.send(Embeds.errorEmbed({ cause: 'XP is not a number!' }));
             }
             if (booster.length == 0) {
+                // TODO: Change to new send method
                 return channel.send(Embeds.skillsInvertBoostHelpEmbed());
             }
 
             let multiplier = 1;
             for (let i = 0; i < booster.length; i++) {
                 if (isNaN(booster[i])) {
+                    // TODO: Change to new send method
                     return channel.send(Embeds.errorEmbed({ cause: 'Booster multiplier is not a number!' }));
                 }
 
                 multiplier += Number(booster[i]) / 100;
             }
 
+            // TODO: Change to new send method
             return channel.send(Embeds.skillsBoostEmbed(xp * (1 / multiplier)));
         }
     }
 
     if (command == 'talisman' || command == 't') {
         if (isSupporter == false && developingMode == false) {
+            // TODO: Change to new send method
             return channel.send(Embeds.commandWarningEmbed());
         }
 
         const subCommand = args[0];
         if (subCommand == undefined || subCommand == 'help') {
+            // TODO: Change to new send method
             return channel.send(Embeds.helpTalismanEmbed());
         }
 
         // if (subCommand == 'missing' || subCommand == 'm') {
         //     let ign = args[1];
         //     if (ign == undefined) {
+        // TODO: Change to new send method
         //         return channel.send(Embeds.helpTalismanMissingEmbed());
         //     }
 
