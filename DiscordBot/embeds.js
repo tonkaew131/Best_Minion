@@ -188,7 +188,7 @@ module.exports = {
         return embed;
     },
     helpSkillsEmbed: function () {
-        let embed = new Discord.MessageEmbed();
+        let embed = new Discord.EmbedBuilder();
         embed.setTitle('**Skills commands list**');
         embed.setColor(BESTMINION_THEME_COLOR);
 

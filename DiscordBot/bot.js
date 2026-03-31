@@ -713,8 +713,7 @@ client.on(Discord.Events.MessageCreate, async message => {
 
     if (command == 'skills' || command == 'skill' || command == 's') {
         if (args[0] == undefined || args[0] == 'help') {
-            // TODO: Change to new send method
-            return channel.send(Embeds.helpSkillsEmbed());
+            return channel.send({ embeds: [Embeds.helpSkillsEmbed()] });
         }
 
         if (args[0] == 'boost') {
