@@ -7,7 +7,7 @@ const client = new Discord.Client({
         Discord.GatewayIntentBits.MessageContent,
         Discord.GatewayIntentBits.DirectMessages
     ],
-    partials: [Partials.Channel]
+    partials: [Discord.Partials.Channel]
 });
 
 const InteractionUtils = require('./interaction');
