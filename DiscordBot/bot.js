@@ -452,21 +452,21 @@ client.on(Discord.Events.MessageCreate, async message => {
             }, true);
         }
     } else {
-        if (message['guild'] == undefined && !isSupporter) {
-            let needSupporterEmbed = Embeds.directMessageWarningEmbed();
-            return message['channel'].send(needSupporterEmbed);
-        }
+        // if (message['guild'] == undefined && !isSupporter) {
+        //     let needSupporterEmbed = Embeds.directMessageWarningEmbed();
+        //     return message['channel'].send(needSupporterEmbed);
+        // }
 
         if (message['guild'] != undefined) {
             let botData = GuildsDB.getData('/bot/environments/production');
-            let allowedGuilds = botData['allowed_guilds'];
+            // let allowedGuilds = botData['allowed_guilds'];
             let blockedGuilds = botData['blocked_guilds'];
 
             if (blockedGuilds.includes(message['guild']['id'])) return;
 
             // if there are allowed guilds, only allowed guild will work
             // else work every where
-            if (allowedGuilds.length != 0 && !allowedGuilds.includes(message['guild']['id'])) return;
+            // if (allowedGuilds.length != 0 && !allowedGuilds.includes(message['guild']['id'])) return;
 
             if (Utils.isDatabaseExist(GuildsDB, `/guilds/${message['guild']['id']}`)) {
                 let guildData = GuildsDB.getData(`/guilds/${message['guild']['id']}`);
