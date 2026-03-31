@@ -66,6 +66,7 @@ module.exports = {
         micsField += '►**donate**: Support me ❤️, !supporter for perks\n';
         micsField += '►**about**: Show information about BestMinion\n';
         micsField += '►**skills**: Skills calculation\n';
+        micsField += '►**source**: BestMinion\'s source code\n';
         embed.addFields({
             name: '- Mics commands',
             value: micsField
@@ -448,13 +449,13 @@ module.exports = {
         return embed;
     },
     donateEmbed: function () {
-        let embed = new Discord.MessageEmbed();
+        let embed = new Discord.EmbedBuilder();
         embed.setAuthor('💰 Donate information', 'https://cdn.discordapp.com/attachments/600316093872996382/752854516419919923/LOGO_CO_accout.png');
         embed.setColor('#0d4d9c');
         embed.setDescription('**If you want to support my work, you can do that via**');
 
-        embed.addField('** - Patreon (monthly)**', 'https://www.patreon.com/frogkung');
-        embed.addField('** - Ko-fi (one-time)**', 'https://ko-fi.com/frogkung');
+        embed.addFields({ name: '** - Patreon (monthly)**', value: 'https://www.patreon.com/frogkung' });
+        embed.addFields({ name: '** - Ko-fi (one-time)**', value: 'https://ko-fi.com/frogkung' });
         return embed;
     },
     essencesEmbed: function (data, user) {

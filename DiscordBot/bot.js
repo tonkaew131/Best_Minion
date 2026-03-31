@@ -493,8 +493,7 @@ client.on(Discord.Events.MessageCreate, async message => {
             return channel.send(Embeds.helpCraftEmbed());
         }
         if (args[0] == 'minion' || args[0] == 'm') {
-            // TODO: Change to new send method
-            return channel.send(Embeds.helpMinionEmbed());
+            return channel.send({ embeds: [Embeds.helpMinionEmbed()] });
         }
         if (args[0] == 'dprofile' || args[0] == 'dp') {
             // TODO: Change to new send method
@@ -515,9 +514,12 @@ client.on(Discord.Events.MessageCreate, async message => {
         return;
     }
 
+    if (command == 'source') {
+        return channel.send('https://github.com/tonkaew131/Best_Minion');
+    }
+
     if (command == 'donate') {
-        let donateEmbed = Embeds.donateEmbed();
-        return channel.send(donateEmbed);
+        return channel.send({ embeds: [Embeds.donateEmbed()] });
     }
 
     if (command == 'about') {
