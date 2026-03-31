@@ -484,8 +484,7 @@ client.on(Discord.Events.MessageCreate, async message => {
     let channel = message['channel'];
     if (command == 'help') {
         if (args.length == 0) {
-            await channel.send({ embeds: [Embeds.helpEmbed()] });
-            return;
+            return channel.send({ embeds: [Embeds.helpEmbed()] });
         }
 
         if (args[0] == 'craft') {

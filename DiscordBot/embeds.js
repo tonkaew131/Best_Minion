@@ -235,7 +235,10 @@ module.exports = {
         embed.setColor('#f8c9d3');
         embed.setThumbnail(Utils.getDefaultProfilePicture());
         embed.setTitle('About BestMinion bot');
-        embed.setFooter('Bot made by Tonkaew#2345', 'https://cdn.discordapp.com/avatars/352448254304321537/c8f6a5c6461e2783c25161428522e03d.webp');
+        embed.setFooter({
+            text: 'Bot made by Tonkaew#2345',
+            iconURL: 'https://cdn.discordapp.com/avatars/352448254304321537/c8f6a5c6461e2783c25161428522e03d.webp'
+        });
         embed.setTimestamp(Date.now());
 
         let description = `${BLANK_EMOJI}BestMinion is Hypixel Skyblock bot that can calculate`;
@@ -450,7 +453,9 @@ module.exports = {
     },
     donateEmbed: function () {
         let embed = new Discord.EmbedBuilder();
-        embed.setAuthor('💰 Donate information', 'https://cdn.discordapp.com/attachments/600316093872996382/752854516419919923/LOGO_CO_accout.png');
+        embed.setAuthor({
+            name: '💰 Donate information', iconURL: 'https://cdn.discordapp.com/attachments/600316093872996382/752854516419919923/LOGO_CO_accout.png'
+        });
         embed.setColor('#0d4d9c');
         embed.setDescription('**If you want to support my work, you can do that via**');
 
